@@ -56,7 +56,7 @@ By functioning as a separate layer that enhances visuals and performance without
 | <div align="center">🎯️</div> | Default not supported           | <div align="center">🤔</div> | Not tested                      |                             |                                 |
 
 ### 🤝 〢 Join Us in Enhancing the Documentation <!-- {#contributing-to-the-documentation} -->
-Are you interested in enhancing this documentation? We encourage you to contribute by creating [a new Pull Request](https://github.com/sefinek24/Stella-Mod-Documentation/pulls).
+Are you interested in enhancing this documentation? We encourage you to contribute by creating [a new Pull Request](https://github.com/sefinek/Stella-Mod-Documentation/pulls).
 Whether it's fixing typos, improving explanations, or adding new sections, your input is highly valuable.
 We appreciate every contribution and strive to make this documentation as comprehensive and user-friendly as possible.
 Your involvement makes a big difference! 👍

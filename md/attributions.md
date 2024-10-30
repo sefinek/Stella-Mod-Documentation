@@ -7,7 +7,7 @@
 ###### Canonical: /genshin-stella-mod/docs?page=attribution
 ]]> -->
 
-# 3rd-Party Software for [Genshin-Impact-ReShade](https://github.com/sefinek24/Genshin-Impact-ReShade)
+# 3rd-Party Software for [Genshin-Impact-ReShade](https://github.com/sefinek/Genshin-Impact-ReShade)
 
 
 

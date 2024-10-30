@@ -18,7 +18,7 @@
 > https://github.com/34736384/genshin-fps-unlock
 
 ## 🍴 〢 Fork
-> https://github.com/sefinek24/Genshin-FPS-Unlocker
+> https://github.com/sefinek/Genshin-FPS-Unlocker
 
 ## 🌍 〢 License URL
 > N/A

@@ -15,13 +15,13 @@
 [//]: # (- N/A)
 
 ## 🐈 〢 GitHub repository
-> https://github.com/sefinek24/Genshin-Impact-ReShade
+> https://github.com/sefinek/Genshin-Impact-ReShade
 
 ## 🍴 〢 Fork
 > N/A
 
 ## 🌍 〢 License URL
-> https://github.com/sefinek24/Genshin-Impact-ReShade/blob/main/LICENSE
+> https://github.com/sefinek/Genshin-Impact-ReShade/blob/main/LICENSE
 
 ## 📝 〢 Additional information
 N/A

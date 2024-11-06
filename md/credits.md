@@ -20,7 +20,7 @@ Some icons and stickers used in this project were obtained from various sources.
 <br>
 
 ## 🎥 〢 Used videos <!-- {#vides} -->
-From time to time, a special video is featured in the background on the homepage at `/genshin-stella-mod`. Below is the copyright acknowledgment.
+From time to time, a special video is displayed in the background on the homepage at `/genshin-stella-mod`. Below is the copyright acknowledgment.
 - **Title:** [🖤深夜徘徊🖤【vtuber】【アニメ】【アニメーション】](https://www.youtube.com/watch?v=qvJ8uJLEDzY)
 - **Author:** [RinRinne -りんりんね-](https://www.youtube.com/@RinRinne39)
 
@@ -46,9 +46,8 @@ The use of these soundtracks from Genshin Impact aligns with our goal of creatin
 - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) made by [James Newton-King](https://github.com/JamesNK)
 - [NLog](https://www.nuget.org/packages/NLog) made by [Jarek Kowalski, Kim Christensen, Julian Verdurmen](https://github.com/NLog)
 - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) made by [ICSharpCode](https://github.com/icsharpcode)
-- [System.Management](https://github.com/dotnet/runtime) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
+- [System.Security.Cryptography.ProtectedData](https://github.com/dotnet/runtime) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
 - [System.Runtime.Caching](https://www.nuget.org/packages/System.Runtime.Caching) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
-- [VideoLAN.LibVLC.Windows](https://code.videolan.org/videolan/libvlc-nuget) made by [VideoLAN](https://www.nuget.org/profiles/videolan)
 
 <br>
 

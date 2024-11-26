@@ -20,9 +20,6 @@
 ## 🍴 〢 Fork
 > N/A
 
-## 🌍 〢 License URL
-> https://github.com/sefinek/Genshin-Impact-ReShade/blob/main/LICENSE
-
 ## 📝 〢 Additional information
 N/A
 
@@ -31,6 +28,9 @@ N/A
 <br>
 
 ## 🗃️ 〢 License text
+> https://github.com/sefinek/Genshin-Impact-ReShade/blob/main/LICENSE
+
+```
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
@@ -468,3 +468,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+```

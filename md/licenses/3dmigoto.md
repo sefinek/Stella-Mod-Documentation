@@ -21,7 +21,7 @@
 > https://github.com/sefinek/3Dmigoto
 
 ## 🌍 〢 License URL
-> https://github.com/bo3b/3Dmigoto/blob/master/LICENSE.GPL.txt
+> https://github.com/sefinek/3Dmigoto/blob/main/LICENSE.GPL.txt
 
 ## 📝 〢 Additional information
 The GPLv3 license, also known as the General Public License, version 3, is a copyleft software license. This means that it allows the use of software covered by this license for commercial purposes. However, there is a key condition associated with this license, which requires that any derivative works created based on GPLv3-licensed software must be made available as open-source software.

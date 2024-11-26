@@ -18,7 +18,7 @@
 > https://github.com/bo3b/3Dmigoto
 
 ## 🍴 〢 Fork
-> https://github.com/SilentNightSound/GI-Model-Importer (by [SilentNightSound](https://github.com/SilentNightSound))
+> https://github.com/sefinek/3Dmigoto
 
 ## 🌍 〢 License URL
 > https://github.com/bo3b/3Dmigoto/blob/master/LICENSE.GPL.txt

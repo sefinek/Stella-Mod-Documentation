@@ -1,11 +1,8 @@
-<!-- [[> SEO
-###### Number: 2.1
-
-###### Title: Stella Mod License - Stella Mod Documentation
-###### Description: Attribution-NonCommercial-ShareAlike 4.0 International
-###### Tags: stella mod license, genshin stella mod license, reshade license, fps unlocker license, 3dmigoto license, license text, license information, license url, license repository, license fork, license authors, license contributors, license additional information, license canonical
-###### Canonical: /genshin-stella-mod/docs?page=license_stella
-]]> -->
+[//]: # (Title: Stella Mod License - Stella Mod Docs)
+[//]: # (Description: )
+[//]: # (Tags: )
+[//]: # (Canonical: /genshin-stella-mod/docs?page=license_stella)
+[//]: # (Contributors: Sefinek)
 
 ## 👥 〢 Authors
 - Sefinek <&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;> (https://sefinek.net)

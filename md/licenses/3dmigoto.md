@@ -1,11 +1,8 @@
-<!-- [[> SEO
-###### Number: 2.4
-
-###### Title: 3DMigoto License - Stella Mod Documentation
-###### Description: BSD 3-Clause "New" or "Revised" License
-###### Tags: 3dmigoto license
-###### Canonical: /genshin-stella-mod/docs?page=license_3dmigoto
-]]> -->
+[//]: # (Title: 3DMigoto License - Stella Mod Docs)
+[//]: # (Description: )
+[//]: # (Tags: )
+[//]: # (Canonical: /genshin-stella-mod/docs?page=license_3dmigoto)
+[//]: # (Contributors: Sefinek)
 
 ## 👥 〢 Authors
 - Chiri
@@ -27,7 +24,7 @@
 > https://github.com/bo3b/3Dmigoto
 
 ## 🍴 〢 Fork
-> https://github.com/sefinek/3Dmigoto
+> https://github.com/sefinek/3DMigoto
 
 ## 📝 〢 Additional information
 1. The GPLv3 license, also known as the General Public License version 3, is a copyleft license.
@@ -37,14 +34,14 @@
   In other words, other users must have access to the source code of your modifications and the ability to freely use, modify, and distribute that code in accordance with the terms of the GPLv3 license.
   **This is not legal advice.**
 
-2. Stella Mod uses its own fork of 3Dmigoto, optimized and tailored to our needs. We do not use GIMI or any similar external solutions to ensure the highest quality, security, and full control over the modification's functionality.
+2. Stella Mod uses its own fork of 3DMigoto, optimized and tailored to our needs. We do not use GIMI or any similar external solutions to ensure the highest quality, security, and full control over the modification's functionality.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
 
 ## 🗃️ 〢 License text
-> https://github.com/sefinek/3Dmigoto/blob/main/LICENSE.GPL.txt
+> https://github.com/sefinek/3DMigoto/blob/main/LICENSE.GPL.txt
 
 ```
                     GNU GENERAL PUBLIC LICENSE

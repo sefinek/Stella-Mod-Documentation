@@ -1,30 +1,28 @@
-<!-- [[> SEO
-###### Number: 1.5
+[//]: # (Title: Genshin Stella Mod Support | Where to Get Help - Stella Mod Docs)
+[//]: # (Description: )
+[//]: # (Tags: )
+[//]: # (Canonical: /genshin-stella-mod/docs?page=support)
+[//]: # (Contributors: Sefinek)
 
-###### Title: Genshin Stella Mod Support | Where to Get Help - Stella Mod Documentation
-###### Description: Are you facing issues with the Genshin Stella Mod, specifically with ReShade and FPS Unlocker? Worry not! We provide various support resources to ensure your modding experience remains smooth and enjoyable.
-###### Tags: genshin stella mod support, reshade and fps unlock assistance, discord community, github wiki, troubleshooting guides, technical issues, bug reporting, community engagement, direct contact, LINE messenger, game guidelines, mod support, game modifications, user assistance
-###### Canonical: /genshin-stella-mod/docs?page=support
-]]> -->
+# Genshin Stella Mod - Where Can I Get Support?
+If you encounter issues with the Stella Mod, several resources are available to assist you:
 
-# 🆘 〢 Need help with the mod? <!-- {#need-help-with-the-mod} -->
-If you run into any issues with the Stella Mod while using ReShade and FPS Unlocker, there are several resources available to help you out:
+## Contact the Developer <!-- {#contact} -->
+- **Sefinek Patron Center:** [Create a new ticket](https://patrons.sefinek.net/tickets) (recommended)
+- **Discord:** sefinek (recommended)
+- **Email:** [contact@sefinek.net](mailto:contact@sefinek.net) (for business inquiries)
 
-## ✍️ Contact the Developer <!-- {#contact-the-developer} -->
-- **Contact Me**:
-  1. Create an account on Sefinek Patron Center or log in if you already have one. Then, **create a new ticket** (recommended).
-  2. Discord: sefinek (recommended)
-  3. Steam: [Sefinek](https://steamcommunity.com/id/sefinek) (recommended)
-  4. Email: [contact@sefinek.net](mailto:contact@sefinek.net)
+## GitHub Issues <!-- {#github-issues} -->
+If you have a technical issue or bug to report, you can open an [Issue](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) in our GitHub repository.
 
-- **GitHub Issues**: If you have a [technical issue](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new?assignees=&labels=Help&template=1_help-report.md) or [bug to report](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new?assignees=&labels=Bug&template=2_bug-report.md), you can open an [Issue](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new/choose) on our GitHub repository for the mod.
+## Languages <!-- {#languages} -->
+You can write your message or email in either English or Polish.
 
-## 💭 Community <!-- {#community} -->
-[Discord Server](https://discord.gg/Yj7fnafTXf): Join our Discord server to ask questions, seek help from other users, and chat with the community.
+## Community <!-- {#community} -->
+[Join our Discord server](https://discord.gg/Yj7fnafTXf)
 
-## 📙 Documentation <!-- {#documentation} -->
-[Documentation](https://sefinek.net/genshin-stella-mod/docs): Check out our Documentation for detailed information about Stella.
+## Documentation <!-- {#documentation} -->
+[Read the official documentation](https://sefinek.net/genshin-stella-mod/docs)
 
 <br>
-Please remember that we only offer support for ReShade, FPS Unlocker, and 3DMigoto.
-We kindly ask users not to request help with issues related to other mods on our Discord server. However, feel free to ask for assistance with Stella Mod.
+Please note that support is provided exclusively for the Stella Mod (ReShade, FPS Unlocker, and 3DMigoto). We kindly ask users not to request assistance for other mods.

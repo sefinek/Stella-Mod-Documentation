@@ -1,11 +1,43 @@
-<!-- [[> SEO
-###### Number: 1.7
+[//]: # (Title: Privacy Policy - Genshin Stella Mod)
+[//]: # (Description: Learn about the privacy and data security measures in place for the Genshin Stella Mod Launcher. We respect your privacy and offer full transparency on how your data is handled.)
+[//]: # (Tags: Privacy Policy, Data Security, Genshin Stella Mod, Privacy Protection, User Data, Security Features, Genshin Mod, Safe Data Storage, Application Logs, API Security, Honeypot, Data Ownership)
+[//]: # (Canonical: /genshin-stella-mod/docs?page=privacy-policy)
+[//]: # (Contributors: Sefinek)
 
-###### Title: Privacy Policy - Stella Mod Documentation
-###### Description: The Genshin Stella Mod, version 7.2.0, prioritizes user privacy and data protection. Rest assured that while using this launcher, no data or information related to you or your computer will be collected or stored. We value your trust and are committed to providing a secure and transparent experience
-###### Tags: privacy policy, user data protection, data privacy, launcher version 7.2.0, secure experience, transparent data handling, user trust, Genshin Stella Mod privacy, data collection-free
-###### Canonical: /genshin-stella-mod/docs?page=privacy-policy
-]]> -->
+# Privacy and Data Security in Genshin Stella Mod
+The Stella Mod Launcher and Genshin Stella Mod are designed with the full respect for user privacy in mind.
+These programs do not collect any personal information, do not monitor your activity, and do not record any actions taken while using the application.
+Your privacy is our priority.
 
-The v7.2.0 version of this launcher has been carefully designed with utmost consideration for user privacy.
-It guarantees that no data or information related to you or your computer will be collected during its operation.
+The software generates a unique device identifier (ID) based on the serial numbers of the components.
+This ID is used solely for collecting anonymous statistics to assess the popularity of the app.
+This data DOES NOT allow the identification of specific users.
+
+We emphasize that the application NEVER sends any data to the server without your explicit consent.
+Logs or any other sensitive information will not leave your device without prior inquiry and approval.
+
+## Your Decision, Your Data: Application Logs
+The application may ask every 30 launches if you want to send logs to the server. The decision to share this data is entirely up to you.
+It will not affect the functionality of the program – you can refuse to send logs, and the app will continue to work as usual.
+If you consent to sending logs, you have full control over your data.
+You can request access to saved logs at any time to review their contents, especially if you have any concerns.
+Remember, you are still the owner of your data. You also have the right to request its complete deletion from our servers.
+We respect your right to privacy and information security, so all such requests will be handled promptly.
+
+## Secure Data Storage on Private Server in Poland
+The database is located on a private server physically located in Poland.
+The server operates in a home environment, which eliminates the need for cloud infrastructure or public data centers.
+This configuration ensures full control over data processing and excludes the possibility of storing it in external locations.
+[sefinek.net](https://sefinek.net) is and will be the sole owner of the data. We do not share it with anyone.
+
+## API Security: Abuse Prevention in API v7
+The current version of the API v7 is equipped with protective mechanisms that prevent abuse.
+
+### Honeypot Mechanism: Defending Against Cyber Threats
+A honeypot is a mechanism used to attract hackers, scammers, and malicious individuals by simulating vulnerable servers or other resources attractive to them.
+These mechanisms are used to identify suspicious activities, record attack attempts, and collect information about weak signals.
+Thanks to honeypots, the system can effectively recognize threats and block potentially dangerous IP addresses or other forms of unauthorized access.
+
+### Appeals for False Identification - How We Handle Unfair Blocking
+IP addresses and behaviors identified as threats are analyzed and blocked if necessary.
+In the case of a false classification, users can [submit an appeal](https://patrons.sefinek.net/tickets) for verification and possible unblocking.

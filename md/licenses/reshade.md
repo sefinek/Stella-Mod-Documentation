@@ -1,11 +1,8 @@
-<!-- [[> SEO
-###### Number: 2.2
-
-###### Title: ReShade License - Stella Mod Documentation
-###### Description: BSD 3-Clause "New" or "Revised" License
-###### Tags: reshade license
-###### Canonical: /genshin-stella-mod/docs?page=license_reshade
-]]> -->
+[//]: # (Title: ReShade License - Stella Mod Docs)
+[//]: # (Description: )
+[//]: # (Tags: )
+[//]: # (Canonical: /genshin-stella-mod/docs?page=license_reshade)
+[//]: # (Contributors: Sefinek)
 
 ## 👥 〢 Authors
 - [crosire](https://github.com/crosire)

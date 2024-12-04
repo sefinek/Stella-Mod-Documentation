@@ -1,11 +1,8 @@
-<!-- [[> SEO
-###### Number: 2.3
-
-###### Title: FPS Unlocker License - Stella Mod Documentation
-###### Description:
-###### Tags: fps unlocker license
-###### Canonical: /genshin-stella-mod/docs?page=license_fps_unlocker
-]]> -->
+[//]: # (Title: FPS Unlocker License - Stella Mod Docs)
+[//]: # (Description: )
+[//]: # (Tags: )
+[//]: # (Canonical: /genshin-stella-mod/docs?page=license_fps_unlocker)
+[//]: # (Contributors: Sefinek)
 
 ## 👥 〢 Authors
 - [34736384](https://github.com/34736384)

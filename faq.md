@@ -1,16 +1,16 @@
-[//]: # (Title: FAQ - Stella Mod Docs)
-[//]: # (Description: Find answers to common questions about the Stella Mod, its safety, features, and how to get started.)
+[//]: # (Title: Stella Mod FAQ: Essential Insights for Genshin Impact Modding)
+[//]: # (Description: Discover answers to frequently asked questions about Stella Mod for Genshin Impact. Learn about safety, features like FPS unlock and ReShade, and how to get started.)
 [//]: # (Tags: Genshin Impact, Stella Mod, FPS unlock, modding, ReShade, 3DMigoto, technical support, launcher)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=faq)
 [//]: # (Contributors: Sefinek)
 
-# Frequently Asked Questions (FAQ) - Stella Mod for Genshin Impact
+# Stella Mod FAQ for Genshin Impact
 
 ## What is Genshin Stella Mod?
 Genshin Stella Mod is a modification pack that enables several enhancements in Genshin Impact.
 It unlocks FPS limits, improves graphic quality through ReShade, and allows modding the game using 3DMigoto (e.g., replacing character models, and more).
 
-## Is Stella Mod Safe?
+## Is Stella Mod Safe for Use?
 Yes, it is completely safe. Just follow the rules outlined in the Terms of Use.
 We have a large community. Stella Mod has over +30k downloads. Join our Discord server if you'd like.
 

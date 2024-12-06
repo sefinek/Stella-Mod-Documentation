@@ -5,7 +5,7 @@
 [//]: # (Contributors: Sefinek)
 
 # Attribution of External Creators' Works <!-- {#credits} -->
-On this subpage, other creators are highlighted along with their works, which have been used in Genshin Stella, the Mod, or even on our official website `GET /genshin-stella-mod/*`.
+On this subpage, other creators are highlighted along with their works, which have been used in Genshin Stella, the Mod, or even on our official website `/genshin-stella-mod/*`.
 
 ## Images <!-- {#images} -->
 Some icons/stickers/images used in this project were obtained from various sources. Below is a list of image sources used in this project.
@@ -39,7 +39,7 @@ The audio tracks used were sourced from the extensive collection available at th
 - [System.Security.Cryptography.ProtectedData](https://github.com/dotnet/runtime) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
 - [System.Runtime.Caching](https://www.nuget.org/packages/System.Runtime.Caching) made by [Microsoft](https://www.nuget.org/profiles/Microsoft)
 
-## Other Resources <!-- {#other-resources} -->
+## Other Valuable Resources <!-- {#other-resources} -->
 - Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=147358" target="_blank">Pixabay</a>
 - Sound Effect by <a href="https://pixabay.com/pl/users/floraphonic-38928062/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">floraphonic</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=188165" target="_blank">Pixabay</a>
 - Sound Effect by <a href="https://pixabay.com/pl/users/universfield-28281460/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">UNIVERSFIELD</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131917" target="_blank">Pixabay</a>
@@ -49,7 +49,7 @@ The audio tracks used were sourced from the extensive collection available at th
 - <a href="https://www.flaticon.com/free-icons/delete" title="delete icons" target="_blank">Delete icons created by Pixel perfect - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/download" title="download icons" target="_blank">Download icons created by Uniconlabs - Flaticon</a>
 
-## Mods <!-- {#mods} -->
+## Mods List and Creators <!-- {#mods} -->
 ### Characters
 | #  | Custom model  | Author         | #  | Custom model  | Author         |
 |----|---------------|----------------|----|---------------|----------------|
@@ -82,7 +82,7 @@ The audio tracks used were sourced from the extensive collection available at th
 ### Important Notes
 The above-mentioned creators are in no way associated with HoYoverse (MiHoYo) or Stella Mod.
 
-## Copyright Information <!-- {#copyright} -->
+## Copyright Policies and Infringement Reporting <!-- {#copyright} -->
 If you wish to report a copyright infringement or request the removal of your work from the Stella Mod project, please contact us via email at <a href="mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;?subject=Genshin%20Stella%20Mod:%20Copyright%20Infringement%20Report">&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;</a>.
 In your message, please provide detailed information about the alleged infringement, including specific details regarding the content or work in question, and clearly state the reason for your copyright claim or removal request. Additionally, it is required to include information about the licensing of your work, specifying the type of license and the conditions that have been violated.
 

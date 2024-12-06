@@ -4,7 +4,7 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=introduction)
 [//]: # (Contributors: Sefinek)
 
-# Welcome to the Official Genshin Stella Mod Documentation
+# Genshin Stella Mod: Complete User Documentation & Features
 <div align="center">
     Dive into our comprehensive guide by browsing through the table of contents.
     Whether you're a new user or an experienced player, this documentation provides detailed information about the Genshin Stella Mod, including installation, configuration, and ways to make the most of its unique features.
@@ -24,13 +24,13 @@
 </div>
 
 
-## What is Stella Mod Launcher? <!-- {#what-is-genshin-stella-mod} -->
+## Stella Mod Launcher: Features, Security, and How It Works <!-- {#what-is-genshin-stella-mod} -->
 Stella Mod Launcher is the official launcher for Genshin Stella Mod. It is developed in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) platform.  
 
 This program not only allows users to receive new updates and enjoy the latest enhancements but also places a strong emphasis on security. It ensures safe delivery of updates while maintaining the integrity of your Genshin Impact gaming experience. By using Stella Mod Launcher, players can securely access the latest features and improvements. This keeps their experience fresh and safe.
 
 
-## Understanding Genshin Stella Mod <!-- {#what-is-genshin-stella-mod} -->
+## Genshin Stella Mod Explained: Features, Benefits, and Customization Options <!-- {#what-is-genshin-stella-mod} -->
 Genshin Stella Mod is a meticulously crafted modification package designed to enhance your experience in Genshin Impact.
 It introduces a variety of new visual effects to the captivating world of Teyvat, catering to diverse preferences-from vibrant and colorful to realistic and cinematic visuals.
 Each filter in the mod is fully customizable through the ReShade overlay, allowing you to personalize your visual experience.
@@ -59,7 +59,7 @@ No, Stella Mod is not affiliated with Hoyoverse in any way.
 | <div align="center">🎯️</div> | Default not supported           | <div align="center">🤔</div> | Not tested                      |                             |                                 |
 
 
-## Contribute to Improving the Documentation <!-- {#contributing-to-the-documentation} -->
+## Help Improve the Genshin Stella Mod Documentation: Contribute Today! <!-- {#contributing-to-the-documentation} -->
 Interested in helping us improve this documentation? We warmly invite you to contribute by submitting a [Pull Request on GitHub](https://github.com/sefinek/Stella-Mod-Documentation/pulls).
 Whether it's fixing typos, refining explanations, or adding new sections, your contributions are highly valued.
 We deeply appreciate every effort and are committed to making this documentation as user-friendly as possible.

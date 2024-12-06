@@ -1,10 +1,10 @@
 [//]: # (Title: Stella Mod Requirements for Genshin Impact | Enhanced Graphics & FPS Unlock)
 [//]: # (Description: Discover the requirements and features of Stella Mod for Genshin Impact. Learn about supported systems, dependencies, and recommended settings to maximize your gaming experience with enhanced visuals, FPS unlock, and community presets.)
-[//]: # (Tags: Genshin Impact, Stella Mod, FPS Unlock, Enhanced Graphics, Game Mods, Genshin PC Requirements, ReShade Presets, Genshin Optimization, Gaming Tools, Stella Mod Installation)
+[//]: # (Tags: Genshin Impact, Stella Mod, FPS Unlock, Graphics Enhancement, Game Optimization, ReShade Presets, Gaming Mods, Stella Mod Guide, Visual Settings, Gaming Tools)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=requirements)
 [//]: # (Contributors: Sefinek)
 
-## Key Features of Stella Mod <!-- {#key-features-of-stella-mod} -->
+## Stella Mod Key Features: FPS Unlock & Visual Enhancement <!-- {#key-features-of-stella-mod} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                | 🌍 Address                                                                                                                          | 📑 License</div>                                                                                             |
 |:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@
 > [!INFO]
 > The repository with the resources is available here: [sefinek/Stella-Mod-Resources](https://github.com/sefinek/Stella-Mod-Resources)
 
-## System requirements and required dependencies <!-- {#requirements} -->
+## System Requirements & Dependencies for Stella Mod <!-- {#requirements} -->
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
@@ -36,7 +36,7 @@
 | **BIOS:** UEFI mode enabled                        |                                                                                                  |
 
 
-## Supported operating systems <!-- {#supported-os} -->
+## Supported Operating Systems <!-- {#supported-os} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                        | 🤔 Recommended?                                                                   |
 |-----------------|:-----------|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|
 | Windows 11      | 24H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |

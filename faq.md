@@ -6,61 +6,61 @@
 
 # Stella Mod FAQ for Genshin Impact
 
-## What is Genshin Stella Mod?
+## What is Genshin Stella Mod? <!-- {#what-is-genshin-gsm} -->
 Genshin Stella Mod is a modification pack that enables several enhancements in Genshin Impact.
 It unlocks FPS limits, improves graphic quality through ReShade, and allows modding the game using 3DMigoto (e.g., replacing character models, and more).
 
-## Is Stella Mod Safe for Use?
+## Is Stella Mod Safe for Use? <!-- {#is-stella-mod-safe} -->
 Yes, it is completely safe. Just follow the rules outlined in the Terms of Use.
 We have a large community. Stella Mod has over +30k downloads. Join our Discord server if you'd like.
 
-## Can I Play Online with Stella Mod?
+## Can I Play Online with Stella Mod? <!-- {#can-i-play-online} -->
 Yes, you can play online.
 
-## Can I Record Videos on YouTube, etc., Using Stella Mod in Genshin Impact?
+## Can I Record Videos on YouTube, etc., Using Stella Mod in Genshin Impact? <!-- {#can-i-record-videos} -->
 That's up to you. If you want, you can do it.
 
-## Someone is Asking for My Game Password. What Should I Do?
+## Someone is Asking for My Game Password. What Should I Do? <!-- {#password-security} -->
 Never share your password with anyone, regardless of the reasons they provide. There is a high risk that the person is trying to scam you.
 Stella Mod developers never ask for passwords or contact you to access your account.
 Sharing your password exposes you to account loss, and consequently, the loss of all achievements, time invested, or money spent.
 
-## Someone Wants to Help Me via TeamViewer or AnyDesk. Should I Trust Them?
+## Someone Wants to Help Me via TeamViewer or AnyDesk. Should I Trust Them? <!-- {#remote-assistance} -->
 Ensure that the person offering help is indeed a Stella Mod developer. Official application developers do not provide remote assistance outside of platforms like Discord.
 Granting remote access to your device to an unverified person can lead to data theft, privacy breaches, or other risks.
 
-## Someone is Offering Paid Help with Stella Mod. Should I Agree?
+## Someone is Offering Paid Help with Stella Mod. Should I Agree? <!-- {#paid-help-warning} -->
 Absolutely not! Do not pay anyone who offers help with Stella Mod for money.
 There is a high risk that the person is a scammer trying to deceive you.
 Stella Mod developers never charge for technical support or help with the software. There is no such thing as "paid assistance" in the Stella Mod community.
 
-## How Can I Get Started with Stella Mod?
+## How Can I Get Started with Stella Mod? <!-- {#getting-started} -->
 Download the official installer from [stella.sefinek.net](https://stella.sefinek.net).
 
-## Where Can I Find Technical Support?
+## Where Can I Find Technical Support? <!-- {#technical-support} -->
 Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) page.
 
-## What is the "Trust Factor" in Stella Mod?
+## What is the "Trust Factor" in Stella Mod? <!-- {#trust-factor} -->
 Each device is assigned a trust factor by the API. Various factors influence this.
 If the trust factor is too low, it may be impossible to launch the launcher.
 
-## Does Stella Mod Have Its Own Launcher?
+## Does Stella Mod Have Its Own Launcher? <!-- {#stella-mod-launcher} -->
 Yes, Stella Mod has a dedicated launcher that allows easy downloading and installing of updates.
 
-## How Often Does Stella Mod Receive Updates?
+## How Often Does Stella Mod Receive Updates? <!-- {#update-frequency} -->
 The frequency of updates depends on the needs. They may be released several times a month, but sometimes less often, such as once a month.
 Updates are rolled out gradually, and access to the latest versions is available only to Stella Plus subscribers.
 
-## Can I Create My Own ReShade Presets?
+## Can I Create My Own ReShade Presets? <!-- {#reshade-presets} -->
 Yes, you are free to create and use your own custom ReShade presets with Stella Mod.
 
-## What Payment Methods are Accepted for Stella Plus Subscriptions?
+## What Payment Methods are Accepted for Stella Plus Subscriptions? <!-- {#payment-methods} -->
 We accept several payment methods, including Stripe (PayPal, credit cards, etc.), CS2 skins, and cryptocurrencies.
 
-## Is Stella Mod's BY-NC-SA License Applicable to Other Components?
+## Is Stella Mod's BY-NC-SA License Applicable to Other Components? <!-- {#license-applicability} -->
 No, the CC BY-NC-SA 4.0 license only applies to Stella Mod. For any external libraries or components, you must follow their individual licenses.
 
-## Why is Stella Mod Not Open-Source?
+## Why is Stella Mod Not Open-Source? <!-- {#not-open-source} -->
 Stella Mod is not open-source for the following reasons:
 
 - Stella Mod uses authentication mechanisms that should not be publicly available. Even if the code were open, the application could not be compiled without access to the tokens used for API communication.

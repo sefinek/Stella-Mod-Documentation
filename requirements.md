@@ -4,7 +4,7 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=requirements)
 [//]: # (Contributors: Sefinek)
 
-## Stella Mod Key Features: FPS Unlock & Visual Enhancement <!-- {#key-features-of-stella-mod} -->
+## Stella Mod Key Features: FPS Unlock & Visual Enhancement <!-- {#key-features} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                | 🌍 Address                                                                                                                          | 📑 License</div>                                                                                             |
 |:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@
 > [!INFO]
 > The repository with the resources is available here: [sefinek/Stella-Mod-Resources](https://github.com/sefinek/Stella-Mod-Resources)
 
-## System Requirements & Dependencies for Stella Mod <!-- {#requirements} -->
+## System Requirements & Dependencies for Stella Mod <!-- {#system-requirements} -->
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
@@ -36,7 +36,7 @@
 | **BIOS:** UEFI mode enabled                        |                                                                                                  |
 
 
-## Supported Operating Systems <!-- {#supported-os} -->
+## Supported Operating Systems <!-- {#supported-operating-systems} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                        | 🤔 Recommended?                                                                   |
 |-----------------|:-----------|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|
 | Windows 11      | 24H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
@@ -47,7 +47,7 @@
 | iOS / macOS     |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
 
 
-## How to Install Stella Mod for Genshin Impact? <!-- {#how-to-install} -->
+## How to Install Stella Mod for Genshin Impact? <!-- {#installation-guide} -->
 > [Safe and fast installation via InnoSetup](https://sefinek.net/genshin-stella-mod/docs?page=installation)
 
 After completing the installation, open Stella Mod Launcher. On the first launch, a configuration window should appear. Next, click **Start Game** in our launcher.  
@@ -55,7 +55,7 @@ Once the game starts, make sure the [recommended graphic settings](https://sefin
 Adjust them according to our recommendations, considering your device's capabilities. This will ensure smooth gameplay and the best possible visual experience.
 
 
-## Recommended Graphics Settings for the Best Visual Experience <!-- {#recommended-graphics-settings} -->
+## Recommended Graphics Settings for the Best Visual Experience <!-- {#recommended-settings} -->
 | 🔧 Settings                      | 💻 Value                             |
 |----------------------------------|--------------------------------------|
 | **Display Mode**                 | 1920x1080 (or higher) Fullscreen     |

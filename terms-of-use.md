@@ -31,13 +31,13 @@
 7. **Terms are subject to change.**  
    The creators reserve the right to modify these terms. Using the app implies acceptance of the updated rules.
 
-## Additional Information
+## Additional Information <!-- {#additional-info} -->
 - **Stella Mod Launcher may occasionally be unavailable.**  
   Downtime may occur due to maintenance or updates. Developers strive to minimize inconvenience or disruptions.
 
 - **Your game account will remain safe as long as you avoid harmful activities.**  
   Use Stella Mod only in its current (latest) form. Do not interfere with the software or modify any features or external libraries associated with the app.
 
-## Final Agreement
+## Final Agreement <!-- {#final-agreement} -->
 **Failure to comply with the above rules may result in bans from both the game and Stella Mod.**  
 In cases of serious violations or suspicious activities, incidents may be reported to HoYoverse for appropriate actions.

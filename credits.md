@@ -4,7 +4,7 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=credits)
 [//]: # (Contributors: Sefinek)
 
-# Attribution of External Creators' Works <!-- {#credits} -->
+# Attribution of External Creators' Works
 On this subpage, other creators are highlighted along with their works, which have been used in Genshin Stella, the Mod, or even on our official website `/genshin-stella-mod/*`.
 
 ## Images <!-- {#images} -->
@@ -14,11 +14,6 @@ They have been included in the project to enhance the user experience.
 
 1. <a href="https://icons8.com" target="_blank">Icons8</a>
 2. <a href="https://www.flaticon.com" target="_blank">FlatIcon</a>
-
-## Videos <!-- {#vides} -->
-From time to time, a special background video appears on the homepage at `/genshin-stella-mod`. You need to be really lucky to see it. Below is the copyright acknowledgment.
-- **Title:** [🖤深夜徘徊🖤【vtuber】【アニメ】【アニメーション】](https://www.youtube.com/watch?v=qvJ8uJLEDzY)
-- **Author:** [RinRinne -りんりんね-](https://www.youtube.com/@RinRinne39)
 
 ## Background Music in Stella Mod Launcher <!-- {#bg-music-in-sml} -->
 For the development of the official launcher, we have included a selection of soundtracks from the popular game Genshin Impact.
@@ -48,6 +43,7 @@ The audio tracks used were sourced from the extensive collection available at th
 - <a href="https://www.flaticon.com/free-icons/cmd" title="cmd icons" target="_blank">Cmd icons created by Md Tanvirul Haque - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/delete" title="delete icons" target="_blank">Delete icons created by Pixel perfect - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/download" title="download icons" target="_blank">Download icons created by Uniconlabs - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/humanity" title="humanity icons" target="_blank">Humanity icons created by Anggara - Flaticon</a>
 
 ## Mods List and Creators <!-- {#mods} -->
 ### Characters

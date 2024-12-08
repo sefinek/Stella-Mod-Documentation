@@ -9,15 +9,15 @@ ReShade is a post-processing tool that allows players to apply a wide range of v
 ReShade works by injecting code into the game's rendering pipeline, enabling real-time effects.
 Press the `Home` button in the game and create your own presets!
 
-# What is FPS Unlocking? <!-- {#fpsunlock} -->
+# What is FPS Unlocking? <!-- {#fps-unlocking} -->
 FPS unlocking in video games can significantly enhance the gaming experience by providing smoother gameplay and reducing input lag.
 However, before using an FPS unlocking tool, it is important to consider a few key factors.
 
-## About FPS Unlocking <!-- {#fpsunlock-about} -->
+## About FPS Unlocking <!-- {#about-fps-unlocking} -->
 FPS unlocking is the process of removing the artificial limit on the maximum number of frames a game can render per second.
 By default, most video games have an FPS cap set by the developers for compatibility reasons, among others.
 
-## Considerations Before Unlocking FPS <!-- {#fpsunlock-considerations} -->
+## Considerations Before Unlocking FPS <!-- {#fps-unlocking-considerations} -->
 - Before unlocking FPS, it is important to take several factors into account. One crucial aspect is the refresh rate of your monitor.
   If your monitor has a low refresh rate, such as 60Hz, unlocking FPS will not bring noticeable improvements to gameplay and might even cause higher hardware temperatures.
   On the other hand, owners of monitors with higher refresh rates (e.g., 120Hz or 165Hz) can experience a significant improvement in smoothness and game responsiveness.

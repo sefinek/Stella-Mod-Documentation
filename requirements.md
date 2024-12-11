@@ -77,7 +77,7 @@ Adjust them according to our recommendations, considering your device's capabili
 | **Co-Op Teammates Effects**      | On                                   |
 | **Subsurface Scattering**        | High                                 |
 | **Anisotropic Filtering**        | 8x                                   |
-| **Dynamic Character Resolution** | Disabled                             |
+| **Dynamic Character Resolution** | Off                                  |
 
 ### Note
 - These recommended settings are general guidelines.

@@ -22,7 +22,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: --exclude '(flaticon|pixabay|patreon)\.com' . # grex "flaticon.com "pixabay.com" "patreon.com"
+          args: --exclude 'nuget\.org\/profiles\/Microsoft|(?:flaticon|p(?:ixabay|atreon))\.com' . # grex "flaticon.com" "pixabay.com" "patreon.com" "nuget.org/profiles/Microsoft"
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0

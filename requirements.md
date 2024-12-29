@@ -32,7 +32,6 @@
 | **CPU:** 64-bit processor                     | [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)               |
 | **GPU:** Latest drivers, DirectX 11 support   | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2) |
 | **Disk:** At least 3 GB of free disk space    |                                                                                                  |
-| **Network:** Stable internet connection       |                                                                                                  |
 | **BIOS:** UEFI mode enabled                   |                                                                                                  |
 
 

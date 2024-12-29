@@ -26,14 +26,14 @@
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
-| 🗝️ Your PC & Network                              | 📂 Required Dependencies                                                                         |
-|:---------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **OS:** Windows 10.0 x64 (build higher than 19041) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)           |
-| **CPU:** 64-bit processor and system               | [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)               |
-| **GPU:** Latest drivers, DirectX 11 support        | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2) |
-| **Disk:** At least 3 GB of free disk space         |                                                                                                  |
-| **Network:** Stable internet connection            |                                                                                                  |
-| **BIOS:** UEFI mode enabled                        |                                                                                                  |
+| 🗝️ Your PC & Network                         | 📂 Required Dependencies                                                                         |
+|:----------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **OS:** Windows x64 (build higher than 19041) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)           |
+| **CPU:** 64-bit processor                     | [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)               |
+| **GPU:** Latest drivers, DirectX 11 support   | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2) |
+| **Disk:** At least 3 GB of free disk space    |                                                                                                  |
+| **Network:** Stable internet connection       |                                                                                                  |
+| **BIOS:** UEFI mode enabled                   |                                                                                                  |
 
 
 ## Supported Operating Systems <!-- {#supported-operating-systems} -->

@@ -35,9 +35,11 @@ Genshin Stella Mod is a meticulously crafted modification package designed to en
 It introduces a variety of new visual effects to the captivating world of Teyvat, catering to diverse preferences-from vibrant and colorful to realistic and cinematic visuals.
 Each filter in the mod is fully customizable through the ReShade overlay, allowing you to personalize your visual experience.
 
-A key feature is the FPS unlocker, which enhances game performance by enabling higher frame rates for smoother gameplay. This is especially beneficial for monitors with refresh rates above 60Hz.
+A key feature is the FPS unlocker, which enhances game performance by enabling higher frame rates for smoother gameplay.
+This is especially beneficial for monitors with refresh rates above 60Hz.
 
-The mod provides support for 3DMigoto, available exclusively to Stella Mod Plus subscribers. This tool enables character model swapping and much more, allowing you to enjoy the game even further!
+The mod provides support for 3DMigoto, available exclusively to Stella Mod Plus subscribers.
+This tool enables character model swapping and much more, allowing you to enjoy the game even further!
 
 We are committed to providing the best experience by offering continuous support and assistance for Genshin Stella Mod users.
 If you encounter any issues or have questions, feel free to reach out to us on our Discord server.
@@ -45,11 +47,13 @@ If you encounter any issues or have questions, feel free to reach out to us on o
 
 ## Is Stella Mod safe? <!-- {#is-it-safe} -->
 **Absolutely yes!** Stella Mod is designed to avoid modifying the original game files, ensuring it operates in a completely safe manner.
-Its functionality relies on creating an additional layer that enhances visuals and performance without interfering with game files. This approach ensures that the core gameplay experience remains untouched, preserving the integrity and original design of the game. As a result, the program respects Hoyoverse's policies while offering an improved gaming experience.
+Its functionality relies on creating an additional layer that enhances visuals and performance without interfering with game files.
+This approach ensures that the core gameplay experience remains untouched, preserving the integrity and original design of the game.
+As a result, the program respects HoYoverse's policies while offering an improved gaming experience.
 
 
-## Ok, but does Hoyoverse have anything to do with this? <!-- {#hoyoverse-affiliation} -->
-No, Stella Mod is not affiliated with Hoyoverse in any way.
+## Ok, but does HoYoverse have anything to do with this? <!-- {#hoyoverse-affiliation} -->
+No, Stella Mod is not affiliated with HoYoverse in any way.
 
 
 ## Emoji Legend in This Documentation <!-- {#emoji-legend} -->

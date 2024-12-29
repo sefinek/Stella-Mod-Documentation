@@ -22,9 +22,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          exclude: |
-            *.flaticon.com
-            *.pixabay.com
+          args: --exclude '(flaticon|pixabay)\.com' # grex "flaticon.com "pixabay.com"
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0

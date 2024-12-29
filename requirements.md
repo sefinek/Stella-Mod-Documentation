@@ -63,7 +63,7 @@ Adjust them according to our recommendations, considering your device's capabili
 | **FPS**                          | 60                                   |
 | **VSync**                        | Off                                  |
 | **Render Resolution**            | 1.1 (or higher)                      |
-| **Shadow Quality**               | Medium or High                       |
+| **Shadow Quality**               | High or Medium                       |
 | **Global Illumination**          | High                                 |
 | **Visual Effects**               | High                                 |
 | **SFX Quality**                  | High                                 |
@@ -71,7 +71,7 @@ Adjust them according to our recommendations, considering your device's capabili
 | **Anti-Aliasing**                | SMAA (Use FSR 2 if you have low FPS) |
 | **Volumetric Fog**               | On                                   |
 | **Reflections**                  | On                                   |
-| **Motion Blur**                  | Low or Medium                        |
+| **Motion Blur**                  | Medium                               |
 | **Bloom**                        | On                                   |
 | **Crowd Density**                | High                                 |
 | **Co-Op Teammates Effects**      | On                                   |

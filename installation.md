@@ -7,7 +7,7 @@
 # How to Use ReShade, FPS Unlock, and 3DMigoto in Genshin Impact
 
 ## Preparing Your System for Stella Mod <!-- {#getting-started} -->
-- Make sure your Windows operating system is up to date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check system version »</a> |
+- Make sure your operating system (OS) is up to date. | <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check system version »</a> |
 - Ensure that you have the latest version of Genshin Impact installed.
 - Verify that your computer meets the system requirements for Genshin Stella Mod. | <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">Check system requirements »</a> |
 - Check for available updates for your graphics card drivers and install them if available.
@@ -22,7 +22,7 @@ Download the installer from the [official website](https://sefinek.net/genshin-s
 
 ### Step 2: Run the Installer <!-- {#run-installer} -->
 Run the downloaded installer as an administrator. Make sure **not to install** the software in the game folder!  
-The installation should take about **15 seconds**, depending on your hard drive speed. The installer will check for any missing dependencies and, if necessary, download and install them.  
+The installation should take about **10 seconds**, depending on your hard drive speed. The installer will check for any missing dependencies and, if necessary, download and install them.  
 In some cases, a computer restart may be required after the installation is complete.
 
 ### Step 3: Launching Stella Mod After Installation <!-- {#launch-stella-mod} -->

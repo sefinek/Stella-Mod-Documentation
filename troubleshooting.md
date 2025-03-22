@@ -13,5 +13,8 @@ Unfortunately, we have no direct control over this. To resolve the issue, you ca
 ## Unhandled exception. System.NullReferenceException: Object reference not set to an instance of an object. <!-- {#nullreferenceexception} -->
 This error usually occurs in Genshin Stella Mod. Try deleting the FPS Unlocker configuration file, as it might be corrupted or empty.
 ```
-C:\Program Files\Sefinek\Genshin-Stella-Mod\net8.0-windows10.0.22621.0\data\unlocker\unlocker.config.json
+C:\Program Files\Sefinek\Genshin-Stella-Mod\net8.0-windows10.0.26100.0\data\unlocker\unlocker.config.json
 ```
+
+## Character models in the game look strange (I'm using 3DMigoto)
+Go to the game's graphics settings. Set `Dynamic Character Resolution` to `Off`.

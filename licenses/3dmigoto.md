@@ -4,7 +4,7 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_3dmigoto)
 [//]: # (Contributors: Sefinek)
 
-## 👥 〢 Authors
+## 👥 〢 Authors & Contributors
 - Chiri
 - Bo3b Johnson
 - Ian Munsie (AKA DarkStarSword)
@@ -16,9 +16,6 @@
 
 **And the DX9 port by:**
 - David Lockwood (AKA davegl1234)
-
-[//]: # (## Contributors)
-[//]: # (- N/A)
 
 ## 🐈 〢 GitHub repository
 > https://github.com/bo3b/3Dmigoto

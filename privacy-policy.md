@@ -30,8 +30,8 @@ The server operates in a home environment, which eliminates the need for cloud i
 This configuration ensures full control over data processing and excludes the possibility of storing it in external locations.
 [sefinek.net](https://sefinek.net) is and will be the sole owner of the data. We do not share it with anyone.
 
-## API Security: Abuse Prevention in API v7 <!-- {#api-security} -->
-The current version of the API v7 is equipped with protective mechanisms that prevent abuse.
+## API Security: Abuse Prevention in API v8 <!-- {#api-security} -->
+The current version of the API v8 is equipped with protective mechanisms that prevent abuse.
 
 ### Honeypot Mechanism: Defending Against Cyber Threats <!-- {#honeypot-mechanism} -->
 A honeypot is a mechanism used to attract hackers, scammers, and malicious individuals by simulating vulnerable servers or other resources attractive to them.

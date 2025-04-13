@@ -16,5 +16,5 @@ This error usually occurs in Genshin Stella Mod. Try deleting the FPS Unlocker c
 C:\Program Files\Sefinek\Genshin-Stella-Mod\net8.0-windows10.0.26100.0\data\unlocker\unlocker.config.json
 ```
 
-## Character models in the game look strange (I'm using 3DMigoto)
+## Character models in the game look strange (I'm using Stella 3DMigoto)
 Go to the game's graphics settings. Set `Dynamic Character Resolution` to `Off`.

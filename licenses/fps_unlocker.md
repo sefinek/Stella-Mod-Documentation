@@ -4,12 +4,9 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_fps_unlocker)
 [//]: # (Contributors: Sefinek)
 
-## 👥 〢 Authors
+## 👥 〢 Authors & Contributors
 - [34736384](https://github.com/34736384)
 <div style="padding-bottom:13px"></div>
-
-[//]: # (## Contributors)
-[//]: # (- N/A)
 
 ## 🐈 〢 GitHub repository
 > https://github.com/34736384/genshin-fps-unlock

@@ -9,7 +9,7 @@ If you encounter issues with the Stella Mod, several resources are available to 
 
 ## Contact the Developer <!-- {#contact-developer} -->
 - **Sefinek Patron Center:** [Create a new ticket](https://patrons.sefinek.net/tickets) (recommended)
-- **Discord:** sefinek (recommended)
+- **Discord:** sefinek
 - **Email:** [contact@sefinek.net](mailto:contact@sefinek.net) (for business inquiries)
 
 ## GitHub Issues <!-- {#report-issues} -->
@@ -18,11 +18,9 @@ If you have a technical issue or bug to report, you can open an [Issue](https://
 ## Languages <!-- {#supported-languages} -->
 You can write your message or email in either English or Polish.
 
-## Community <!-- {#community-support} -->
+## Links <!-- {#urls} -->
 [Join our Discord server](https://discord.gg/Yj7fnafTXf)
-
-## Documentation <!-- {#official-documentation} -->
 [Read the official documentation](https://sefinek.net/genshin-stella-mod/docs)
 
 <br>
-Please note that support is provided exclusively for the Stella Mod (ReShade, FPS Unlocker, and 3DMigoto). We kindly ask users not to request assistance for other mods.
+<i>Please note that support is provided exclusively for the Stella Mod (ReShade, FPS Unlocker, and 3DMigoto). We kindly ask users not to request assistance for other mods.</i>

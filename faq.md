@@ -20,10 +20,12 @@ Yes, you can play online.
 ## Can I Record Videos on YouTube, etc., Using Stella Mod in Genshin Impact? <!-- {#can-i-record-videos} -->
 That's up to you. If you want, you can do it.
 
+## Does Stella Mod use GIMI? <!-- {#gimi} -->
+No, Stella Mod doesn't use GIMI. GIMI is a separate fork of 3DMigoto, developed independently and with no connection to Genshin Stella Mod – neither technical nor organizational.
+
 ## Someone is Asking for My Game Password. What Should I Do? <!-- {#password-security} -->
 Never share your password with anyone, regardless of the reasons they provide. There is a high risk that the person is trying to scam you.
-Stella Mod developers never ask for passwords or contact you to access your account.
-Sharing your password exposes you to account loss, and consequently, the loss of all achievements, time invested, or money spent.
+Stella Mod developers NEVER ask for passwords or contact you to access your account.
 
 ## Someone Wants to Help Me via TeamViewer or AnyDesk. Should I Trust Them? <!-- {#remote-assistance} -->
 Ensure that the person offering help is indeed a Stella Mod developer. Official application developers do not provide remote assistance outside of platforms like Discord.
@@ -31,7 +33,6 @@ Granting remote access to your device to an unverified person can lead to data t
 
 ## Someone is Offering Paid Help with Stella Mod. Should I Agree? <!-- {#paid-help-warning} -->
 Absolutely not! Do not pay anyone who offers help with Stella Mod for money.
-There is a high risk that the person is a scammer trying to deceive you.
 Stella Mod developers never charge for technical support or help with the software. There is no such thing as "paid assistance" in the Stella Mod community.
 
 ## How Can I Get Started with Stella Mod? <!-- {#getting-started} -->
@@ -41,8 +42,8 @@ Download the official installer from [stella.sefinek.net](https://stella.sefinek
 Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) page.
 
 ## What is the "Trust Factor" in Stella Mod? <!-- {#trust-factor} -->
-Each device is assigned a trust factor by the API. Various factors influence this.
-If the trust factor is too low, it may be impossible to launch the launcher.
+Each device is assigned a trust factor by the API, which is influenced by various factors.
+If the trust factor is too low, launching the launcher may not be possible.
 
 ## Does Stella Mod Have Its Own Launcher? <!-- {#stella-mod-launcher} -->
 Yes, Stella Mod has a dedicated launcher that allows easy downloading and installing of updates.
@@ -64,6 +65,6 @@ No, the CC BY-NC-SA 4.0 license only applies to Stella Mod. For any external lib
 Stella Mod is not open-source for the following reasons:
 
 - Stella Mod uses authentication mechanisms that should not be publicly available. Even if the code were open, the application could not be compiled without access to the tokens used for API communication.
-- We don't want Stella Mod to be misused, e.g., for distributing infected versions. In the past, when Stella Mod was open-source, someone created an infected version and published it on Gamebanana, where proper safeguards, such as antivirus scanning, were lacking. Therefore, always ensure you download Stella Mod from a trusted source like sefinek.net.
+- We don't want Stella Mod to be misused, e.g., for distributing infected versions. In the past, when Stella Mod was open-source, someone created an infected version and published it on GameBanana, where proper safeguards, such as antivirus scanning, were lacking. Therefore, always ensure you download Stella Mod from a trusted source like sefinek.net.
 - Keeping the code closed allows us to better manage the quality and security of the application. This ensures that users are using the original and safe version of Stella Mod.
 - We also protect our work and effort invested in developing the application. Open-source code could be copied, modified, and used in ways that contradict our principles, potentially harming Stella Mod's reputation.

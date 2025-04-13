@@ -4,12 +4,9 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_stella)
 [//]: # (Contributors: Sefinek)
 
-## 👥 〢 Authors
+## 👥 〢 Authors & Contributors
 - Sefinek <&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;> (https://sefinek.net)
 <div style="padding-bottom:13px"></div>
-
-[//]: # (## Contributors)
-[//]: # (- N/A)
 
 ## 🐈 〢 GitHub repository
 > https://github.com/sefinek/Genshin-Impact-ReShade

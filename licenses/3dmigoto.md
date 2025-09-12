@@ -36,7 +36,7 @@
 <br>
 
 ## 🗃️ 〢 License text
-> https://github.com/sefinek/3DMigoto/blob/main/LICENSE.GPL.txt
+> https://github.com/sefinek/3DMigoto/blob/master/LICENSE.GPL.txt
 
 ```text
                     GNU GENERAL PUBLIC LICENSE

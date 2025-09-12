@@ -25,7 +25,7 @@
 
 
 ## Stella Mod Launcher: Features, Security, and How It Works <!-- {#launcher-features} -->
-Stella Mod Launcher is the official launcher for Genshin Stella Mod. It is developed in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) platform.  
+Stella Mod Launcher is the official launcher for Genshin Stella Mod. It is developed in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) platform.
 
 This program not only allows users to receive new updates and enjoy the latest enhancements but also places a strong emphasis on security. It ensures safe delivery of updates while maintaining the integrity of your Genshin Impact gaming experience. By using Stella Mod Launcher, players can securely access the latest features and improvements. This keeps their experience fresh and safe.
 

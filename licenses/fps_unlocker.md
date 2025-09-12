@@ -22,13 +22,14 @@ N/A
 <br>
 
 ## 🗃️ 〢 License text
-> https://github.com/34736384/genshin-fps-unlock/blob/netcore/LICENSE
+> https://github.com/sefinek/Genshin-FPS-Unlocker/blob/main/LICENSE
 
 
 ```text
 MIT License
 
-Copyright (c) 2024 34736384
+Copyright (c) 2021-Present 34736384
+Copyright (c) 2022-Present Sefinek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

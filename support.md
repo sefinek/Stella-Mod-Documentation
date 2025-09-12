@@ -10,7 +10,7 @@ If you encounter issues with the Stella Mod, several resources are available to 
 ## Contact the Developer <!-- {#contact-developer} -->
 - **Sefinek Patron Center:** [Create a new ticket](https://patrons.sefinek.net/tickets) (recommended)
 - **Discord:** sefinek
-- **Email:** [contact@sefinek.net](mailto:contact@sefinek.net) (for business inquiries)
+- **Email:** [&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;](mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;) (for business inquiries)
 
 ## GitHub Issues <!-- {#report-issues} -->
 If you have a technical issue or bug to report, you can open an [Issue](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) in our GitHub repository.

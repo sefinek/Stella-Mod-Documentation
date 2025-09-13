@@ -26,24 +26,24 @@
 > [!NOTE]
 > Before installing the Stella Mod software, make sure that your computer meets the following requirements.
 
-| 🗝️ Your PC & Network                         | 📂 Required Dependencies                                                                         |
-|:----------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **OS:** Windows x64 (build higher than 19041) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)           |
-| **CPU:** 64-bit processor                     | [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)               |
-| **GPU:** Latest drivers, DirectX 11 support   | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2) |
-| **Disk:** At least 3 GB of free disk space    |                                                                                                  |
-| **BIOS:** UEFI mode enabled                   |                                                                                                  |
+| 🗝️ Your PC & Network                       | 📂 Dependencies                                                                                                                   |
+|:--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **OS:** Windows x64 (build 19041 or higher) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) (required for Stella Mod Plus subscribers) |
+| **CPU:** 64-bit processor                   | [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (not required)                                 |
+| **GPU:** Latest drivers, DirectX 11 support | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                  |
+| **Disk:** At least 3 GB of free disk space  |                                                                                                                                   |
+| **BIOS:** UEFI mode enabled                 |                                                                                                                                   |
 
 
 ## Supported Operating Systems <!-- {#supported-operating-systems} -->
-| 🌌 System       | 🔖 Version | 🙀 Status                                                                        | 🤔 Recommended?                                                                   |
-|-----------------|:-----------|:---------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|
-| Windows 11      | 24H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
-| Windows 10      | 22H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [️✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | 
-| Windows 8 / 8.1 |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
-| Windows 7       |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
-| Android / Linux |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   | 
-| iOS / macOS     |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)   |
+| 🌌 System       | 🔖 Version | 🙀 Status                                                                        | 🤔 Recommended?                                                                  |
+|-----------------|:-----------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| Windows 11      | 24H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) |
+| Windows 10      | 22H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
+| Windows 8 / 8.1 |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
+| Windows 7       |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
+| Android / Linux |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
+| iOS / macOS     |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  |
 
 
 ## How to Install Stella Mod for Genshin Impact? <!-- {#installation-guide} -->

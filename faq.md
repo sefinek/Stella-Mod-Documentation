@@ -7,12 +7,12 @@
 # Stella Mod – Najczęściej zadawane pytania (FAQ)
 
 ## Czym jest Genshin Stella Mod? <!-- {#what-is-genshin-gsm} -->
-Genshin Stella Mod to zestaw modyfikacji (Oprogramowanie) wprowadzających różne ulepszenia do gry Genshin Impact.
-Pozwala między innymi na odblokowanie limitu FPS, poprawę jakości grafiki przy użyciu ReShade oraz używanie modów w grze z wykorzystaniem 3DMigoto, takie jak podmiana modeli postaci itp.
+Genshin Stella Mod to zestaw modyfikacji wprowadzających różne ulepszenia do gry Genshin Impact.
+Pozwala między innymi na odblokowanie limitu FPS, poprawę jakości grafiki przy użyciu ReShade oraz używanie modów w grze z wykorzystaniem 3DMigoto (np. podmiana modeli postaci).
 
 ## Czy Stella Mod jest bezpieczny? <!-- {#is-stella-mod-safe} -->
-Tak, jest całkowicie bezpieczny, o ile Użytkownik przestrzega zasad określonych w Licencji (EULA).
-Społeczność Stella Mod jest duża – Oprogramowanie zostało pobrane już ponad 30 000 razy. Dołącz do naszej społeczności na Discordzie, aby uzyskać pomoc.
+Tak, jest całkowicie bezpieczny, o ile Użytkownik przestrzega zasad <a href="https:///genshin-stella-mod/docs?page=terms-of-use">Terms of use</a>, oraz tych określonych w <a href="">Licencji (EULA)</a>.
+Społeczność Stella Mod jest duża – Oprogramowanie zostało pobrane już ponad 30 000 razy. Dołącz na nasz <a href="https://genshin-stella-mod/docs?page=support">serwer Discord</a>, aby uzyskać pomoc.
 
 ## Czy mogę grać online z użyciem Stella Mod? <!-- {#can-i-play-online} -->
 Tak, możesz grać online. Oprogramowanie działa w sposób bezpieczny i nie ingeruje w pliki gry.

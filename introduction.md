@@ -1,73 +1,87 @@
-[//]: # (Title: Genshin Stella Mod: Installation, Features, and Complete Guide)
-[//]: # (Description: Learn how to install and use Genshin Stella Mod to enhance your Genshin Impact experience. Discover features like ReShade, FPS Unlocker, and 3DMigoto, all while maintaining game safety.)
-[//]: # (Tags: Genshin Stella Mod, Stella Mod installation guide, Genshin Impact mods, ReShade for Genshin Impact, FPS Unlocker benefits, 3DMigoto customization, Stella Mod safety, secure Genshin mods, Stella Mod features, Genshin Stella Mod user documentation, Stella Mod Plus)
+[//]: # (Title: Genshin Stella Mod: Instalacja, funkcje i kompletny przewodnik)
+[//]: # (Description: Dowiedz się, jak zainstalować i korzystać z Genshin Stella Mod, aby ulepszyć swoje doświadczenie w Genshin Impact. Poznaj funkcje takie jak ReShade, odblokowanie FPS oraz 3DMigoto – wszystko z zachowaniem pełnego bezpieczeństwa gry.)
+[//]: # (Tags: Genshin Stella Mod, Instalacja Stella Mod, Mody Genshin Impact, ReShade Genshin Impact, Odblokowanie FPS, 3DMigoto, Stella Mod bezpieczeństwo, Funkcje Stella Mod, Dokumentacja użytkownika, Stella Mod Plus)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=introduction)
 [//]: # (Contributors: Sefinek)
 
-# Genshin Stella Mod: Complete User Documentation & Features
+# Genshin Stella Mod: Wprowadzenie do dokumentacji
 <div align="center">
-    Dive into our comprehensive guide by browsing through the table of contents.
-    Whether you're a new user or an experienced player, this documentation provides detailed information about the Genshin Stella Mod, including installation, configuration, and ways to make the most of its unique features.
+    Zapoznaj się z kompletnym przewodnikiem, przeglądając spis treści poniżej.
+    Niezależnie od tego, czy dopiero zaczynasz, czy korzystasz z projektu od dawna – ta dokumentacja zawiera wszystkie informacje o instalacji, konfiguracji oraz możliwościach Oprogramowania <b>Genshin Stella Mod</b>.
 </div>
 <br>
 
 <div class="mafumafu-container">
     <div class="bottom-image">
-        <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=introduction"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="148"></a>
+        <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=introduction"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="148"></a>
         <a href="https://discord.com/invite/k2wfGRq4dT" target="_blank"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="148"></a>
     </div>
 </div>
 <br>
 
 <div align="center">
-    Explore the sections that catch your interest and discover how Stella Mod can enhance your Genshin Impact experience.
+    Przeglądaj interesujące Cię sekcje i odkryj, jak <b>Stella Mod</b> może ulepszyć Twoje wrażenia z gry w Genshin Impact.
 </div>
 
+## Definicje <!-- {#definitions} -->
+Poniższe definicje stosuje się we wszystkich dokumentach projektu **Genshin Stella Mod**, w tym w **EULA**, **Polityce prywatności** i innych materiałach powiązanych.
 
-## Stella Mod Launcher: Features, Security, and How It Works <!-- {#launcher-features} -->
-Stella Mod Launcher is the official launcher for Genshin Stella Mod. It is developed in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) platform.
+- **Oprogramowanie** – Genshin Stella Mod oraz wszystkie jego komponenty, pliki binarne, biblioteki, moduły, skrypty i zasoby potrzebne do działania.
+- **Launcher** – aplikacja służąca do uruchamiania, konfiguracji i aktualizacji Oprogramowania, a także do komunikacji z serwerem API Autora.
+- **Użytkownik** – osoba fizyczna lub prawna, która instaluje lub korzysta z Oprogramowania.
+- **Autor** – Sefinek; właściciel praw autorskich, twórca i licencjodawca Oprogramowania.
+- **Licencja** – umowa regulująca zasady korzystania z Oprogramowania (EULA).
+- **Serwer prywatny** – infrastruktura należąca do Autora, zlokalizowana fizycznie w Polsce, bez wykorzystania usług chmurowych.
+- **Dane techniczne** – informacje generowane przez Oprogramowanie w celach diagnostycznych lub statystycznych (np. ID urządzenia, logi, dane o konfiguracji).
+- **Identyfikator urządzenia (ID)** – unikalny skrót generowany lokalnie przez Oprogramowanie na podstawie numerów seryjnych podzespołów; służy do rozpoznawania urządzeń i zapobiegania nadużyciom.
+- **API** – interfejs komunikacyjny między Launcherem lub Oprogramowaniem a serwerem Autora; odpowiada za aktualizacje, synchronizację oraz weryfikację licencji Stella Plus.
+- **Honeypot** – mechanizm bezpieczeństwa służący do wykrywania i rejestrowania prób nieautoryzowanego dostępu.
+- **Logi Oprogramowania** – dane diagnostyczne dotyczące działania Oprogramowania; mogą być przesyłane na serwer wyłącznie za zgodą Użytkownika.
+- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej; Oprogramowanie ich nie gromadzi ani nie przetwarza bez zgody Użytkownika.
+- **RODO** – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 w sprawie ochrony danych osobowych.
 
-This program not only allows users to receive new updates and enjoy the latest enhancements but also places a strong emphasis on security. It ensures safe delivery of updates while maintaining the integrity of your Genshin Impact gaming experience. By using Stella Mod Launcher, players can securely access the latest features and improvements. This keeps their experience fresh and safe.
-
-
-## Genshin Stella Mod Explained: Features, Benefits, and Customization Options <!-- {#features-benefits-customization} -->
-Genshin Stella Mod is a meticulously crafted modification package designed to enhance your experience in Genshin Impact.
-It introduces a variety of new visual effects to the captivating world of Teyvat, catering to diverse preferences-from vibrant and colorful to realistic and cinematic visuals.
-Each filter in the mod is fully customizable through the ReShade overlay, allowing you to personalize your visual experience.
-
-A key feature is the FPS unlocker, which enhances game performance by enabling higher frame rates for smoother gameplay.
-This is especially beneficial for monitors with refresh rates above 60Hz.
-
-The mod provides support for 3DMigoto, available exclusively to Stella Mod Plus subscribers.
-This tool enables character model swapping and much more, allowing you to enjoy the game even further!
-
-We are committed to providing the best experience by offering continuous support and assistance for Genshin Stella Mod users.
-If you encounter any issues or have questions, feel free to reach out to us on our Discord server.
+W przypadku braku definicji danego terminu należy interpretować go zgodnie z jego znaczeniem prawnym lub kontekstowym w dokumentacji projektu.
 
 
-## Is Stella Mod safe? <!-- {#is-it-safe} -->
-**Absolutely yes!** Stella Mod is designed to avoid modifying the original game files, ensuring it operates in a completely safe manner.
-Its functionality relies on creating an additional layer that enhances visuals and performance without interfering with game files.
-This approach ensures that the core gameplay experience remains untouched, preserving the integrity and original design of the game.
-As a result, the program respects HoYoverse's policies while offering an improved gaming experience.
+### Znaczenie emoji <!-- {#emoji-legend} -->
+| Emoji                         | <div align="left">Znaczenie</div> | Emoji                        | <div align="left">Znaczenie</div> | Emoji                       | <div align="left">Znaczenie</div> |
+|-------------------------------|-----------------------------------|:-----------------------------|:----------------------------------|:----------------------------|:----------------------------------|
+| <div align="center">✔️</div>  | Tak / Obsługiwane                 | <div align="center">❌️</div> | Nie / Nieobsługiwane              | <div align="center">❓</div> | Niepewne                          |
+| <div align="center">🎯️</div> | Domyślnie nieobsługiwane          | <div align="center">🤔</div> | Nieprzetestowane                  |                             |                                   |
 
 
-## Ok, but does HoYoverse have anything to do with this? <!-- {#hoyoverse-affiliation} -->
-No, Stella Mod is not affiliated with HoYoverse in any way.
+
+## Czym jest Stella Mod Launcher? <!-- {#what-is-sml} -->
+Jes to oficjalna aplikacja uruchamiająca **Genshin Stella Mod**.
+Została ona napisana w języku [C#](https://learn.microsoft.com/dotnet/csharp) przy użyciu platformy [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
+Launcher umożliwia Użytkownikowi pobieranie aktualizacji.
+Priorytetem jest **bezpieczeństwo**, dlatego system dystrybucji został zaprojektowany tak, aby zapewnić integralność plików oraz ochronę danych Użytkownika.
 
 
-## Emoji Legend in This Documentation <!-- {#emoji-legend} -->
-| Emoji                         | <div align="left">Meaning</div> | Emoji                        | <div align="left">Meaning</div> | Emoji                       | <div align="left">Meaning</div> |
-|-------------------------------|---------------------------------|:-----------------------------|:--------------------------------|:----------------------------|:--------------------------------|
-| <div align="center">✔️</div>  | Yes / Supported                 | <div align="center">❌️</div> | No / Not supported              | <div align="center">❓</div> | Uncertain                       |
-| <div align="center">🎯️</div> | Default not supported           | <div align="center">🤔</div> | Not tested                      |                             |                                 |
+## Czym jest Genshin Stella Mod? <!-- {#what-is-gsm} -->
+**Genshin Stella Mod** to starannie opracowany zestaw modów, mających na celu ulepszenie wrażeń z gry **Genshin Impact**.
+- Oferuje szeroki wybór filtrów, presetów – od kolorowych i dynamicznych po realistyczne i filmowe. Każdy efekt można dostosować za pomocą nakładki **ReShade**.
+- Jedną z kluczowych funkcji jest również **odblokowanie limitu FPS**, co umożliwia płynniejszą rozgrywkę, szczególnie na monitorach o wysokiej częstotliwości odświeżania.
+- Dla subskrybentów **Stella Mod Plus** dostępne są dodatkowe funkcje, w tym integracja z **3DMigoto**, która pozwala na modyfikacje modeli postaci i wiele innych opcji wizualnych.
+
+Projekt jest stale rozwijany – Autor dba o aktualizacje, optymalizację i wsparcie techniczne dla wszystkich Użytkowników Oprogramowania.
 
 
-## Help Improve the Genshin Stella Mod Documentation: Contribute Today! <!-- {#contributing} -->
-Interested in helping us improve this documentation? We warmly invite you to contribute by submitting a [Pull Request on GitHub](https://github.com/sefinek/Stella-Mod-Documentation/pulls).
-Whether it's fixing typos, refining explanations, or adding new sections, your contributions are highly valued.
-We deeply appreciate every effort and are committed to making this documentation as user-friendly as possible.
+## Czy Stella Mod jest bezpieczny? <!-- {#is-it-safe} -->
+**Tak, całkowicie.**
+Oprogramowanie zostało zaprojektowane tak, aby **nie modyfikować oryginalnych plików gry**. Działa w niezależnej warstwie, poprawiając efekty wizualne i wydajność bez ingerencji w pliki gry.
+Dzięki temu rozgrywka pozostaje nienaruszona, a oryginalny kod gry zachowuje pełną integralność.
 
 
-## See you in Stella Mod Launcher <!-- {#closing-note} -->
-Thank you for choosing Genshin Stella Mod! We are confident you'll enjoy the improved graphics and an even more immersive gameplay experience.
+## Czy HoYoverse ma z tym coś wspólnego? <!-- {#hoyoverse-affiliation} -->
+Nie. Projekt **Genshin Stella Mod** nie jest powiązany, sponsorowany ani wspierany przez **miHoYo**, **COGNOSPHERE**, **HoYoverse**.
+Wszystkie znaki towarowe i prawa autorskie należą do ich właścicieli.
+
+
+## Pomóż ulepszyć dokumentację Genshin Stella Mod <!-- {#contributing} -->
+Chcesz pomóc w ulepszaniu tej dokumentacji? Możesz to zrobić, wysyłając [Pull Request](https://github.com/sefinek/Stella-Mod-Documentation/pulls) na GitHub.
+Każda poprawka – od korekty błędów po dodanie nowych sekcji – jest mile widziana. Doceniamy każdą pomoc i dążymy do tego, by dokumentacja była jak najbardziej przyjazna i kompletna.
+
+
+## Do zobaczenia w Stella Mod <!-- {#closing-note} -->
+Dziękujemy za zainteresowanie **Genshin Stella Mod**! Jesteśmy pewni, że docenisz ulepszoną grafikę i bardziej immersyjne doświadczenie w świecie **Teyvat**.

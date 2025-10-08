@@ -1,25 +1,26 @@
-[//]: # (Title: Understanding ReShade and FPS Unlocking in Gaming – Enhance Your Experience)
-[//]: # (Description: Learn how ReShade enhances visuals in Genshin Impact and how an FPS Unlocker ensures smoother gameplay. Explore the benefits and key considerations of using these tools in this popular RPG game.)
-[//]: # (Tags: Genshin Impact ReShade, Genshin FPS Unlocker, Genshin graphics improvement, smoother Genshin gameplay, ReShade Genshin Impact, FPS boost, optimize Genshin visuals, frame rate unlocker, Genshin mods)
+[//]: # (Title: Zrozumienie działania ReShade i odblokowania FPS – ulepsz swoje wrażenia z gry)
+[//]: # (Description: Dowiedz się, jak ReShade poprawia jakość grafiki w Genshin Impact oraz jak odblokowanie FPS zapewnia płynniejszą rozgrywkę. Poznaj zalety i kluczowe aspekty korzystania z tych narzędzi w popularnej grze RPG.)
+[//]: # (Tags: ReShade Genshin Impact, Odblokowanie FPS Genshin, Poprawa grafiki Genshin Impact, Płynniejsza rozgrywka, FPS boost, Optymalizacja grafiki Genshin, Frame rate unlocker, Mody Genshin Impact)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=reshade-fpsunlocker)
 [//]: # (Contributors: Sefinek)
 
-# What is ReShade? <!-- {#reshade} -->
-ReShade is a post-processing tool that allows players to apply a wide range of visual effects in games, such as depth of field, bloom, or color correction.
-ReShade works by injecting code into the game's rendering pipeline, enabling real-time effects.
-Press the `Home` button in the game and create your own presets!
+# Zrozumienie działania ReShade i odblokowania FPS
 
-# What is FPS Unlocking? <!-- {#fps-unlocking} -->
-FPS unlocking in video games can significantly enhance the gaming experience by providing smoother gameplay and reducing input lag.
-However, before using an FPS unlocking tool, it is important to consider a few key factors.
+## Czym jest ReShade? <!-- {#reshade} -->
+ReShade to narzędzie do postprocessingu, które pozwala Użytkownikowi nakładać różnorodne efekty wizualne w grach, takie jak głębia ostrości, bloom czy korekcja kolorów.
+Działa poprzez wstrzykiwanie kodu w proces renderowania gry, umożliwiając stosowanie efektów w czasie rzeczywistym.
+Wciśnij klawisz `Home` w grze, aby otworzyć menu i tworzyć własne presety!
 
-## About FPS Unlocking <!-- {#about-fps-unlocking} -->
-FPS unlocking is the process of removing the artificial limit on the maximum number of frames a game can render per second.
-By default, most video games have an FPS cap set by the developers for compatibility reasons, among others.
+## Czym jest odblokowanie FPS? <!-- {#fps-unlocking} -->
+Odblokowanie FPS w grach wideo może znacząco poprawić komfort rozgrywki, zapewniając większą płynność animacji i mniejsze opóźnienia reakcji.
+Przed użyciem narzędzia do odblokowania FPS warto jednak rozważyć kilka istotnych czynników.
 
-## Considerations Before Unlocking FPS <!-- {#fps-unlocking-considerations} -->
-- Before unlocking FPS, it is important to take several factors into account. One crucial aspect is the refresh rate of your monitor.
-  If your monitor has a low refresh rate, such as 60Hz, unlocking FPS will not bring noticeable improvements to gameplay and might even cause higher hardware temperatures.
-  On the other hand, owners of monitors with higher refresh rates (e.g., 120Hz or 165Hz) can experience a significant improvement in smoothness and game responsiveness.
+### Na czym polega odblokowanie FPS <!-- {#about-fps-unlocking} -->
+Odblokowanie FPS polega na usunięciu sztucznego limitu liczby klatek.
+Domyślnie większość gier ma ograniczenie FPS narzucone przez deweloperów, m.in. ze względu na kompatybilność.
 
-- Another factor is the impact on hardware. Running games with a higher frame rate can increase the load on your CPU or GPU, which might lead to higher system temperatures.
+### Co warto wiedzieć przed odblokowaniem FPS <!-- {#fps-unlocking-considerations} -->
+1. Jeśli Twój monitor ma niskie odświeżanie (np. 60Hz), odblokowanie FPS nie przyniesie żadnej poprawy płynności, a może jedynie zwiększyć temperatury podzespołów. W takich przypadkach nie korzystaj z FPS Unlockera.
+  Z kolei posiadacze monitorów o wyższej częstotliwości odświeżania (np. 120Hz lub 165Hz) mogą odczuć znaczną poprawę płynności i responsywności gry.
+
+2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu na przykład 500 FPS przy monitorze 165Hz.

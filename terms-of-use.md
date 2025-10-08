@@ -1,43 +1,40 @@
-[//]: # (Title: Genshin Stella Mod Terms of Use – Safe Modding for Enhanced Gameplay)
-[//]: # (Description: Discover the official Genshin Stella Mod Terms of Use. Stay safe and compliant while enjoying Genshin Impact with mods like ReShade, and 3DMigoto. Avoid bans with these rules.)
-[//]: # (Tags: Genshin Stella Mod, terms of use, Genshin Impact mods, safe modding, ReShade, FPS unlocker, 3DMigoto, game enhancements, HoYoverse compliance, modding safety guidelines)
+[//]: # (Title: Zasady korzystania z Genshin Stella Mod – bezpieczne modyfikacje dla lepszej rozgrywki)
+[//]: # (Description: Zapoznaj się z oficjalnymi zasadami korzystania z Genshin Stella Mod. Korzystaj bezpiecznie z modyfikacji takich jak ReShade i 3DMigoto, przestrzegając zasad bezpieczeństwa i dobrych praktyk.)
+[//]: # (Tags: Genshin Stella Mod, Zasady korzystania, Mody Genshin Impact, Bezpieczne modowanie, ReShade, Odblokowanie FPS, 3DMigoto, Ulepszanie rozgrywki, Zgodność z HoYoverse, Zasady bezpieczeństwa modów)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=terms-of-use)
 [//]: # (Contributors: Sefinek)
 
 <div align="center">
-    <h1>Genshin Stella Mod - Terms of Use</h1>
-    Stella Mod was created to enhance your Genshin Impact gameplay experience. Using this software requires adherence to the following rules.  
-    For any questions, please <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">contact us</a>.
+    <h1>Genshin Stella Mod - Zasady korzystania</h1>
+    Oprogramowanie Stella Mod zostało stworzone, aby ulepszyć Twoje doświadczenia w grze Genshin Impact.  
+    Korzystanie z Oprogramowania wymaga przestrzegania poniższych zasad.  
+    W razie pytań odwiedź stronę <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">wsparcia technicznego</a>.
 </div>
 
-1. **Keep your software up to date.**  
-   Using the latest version of Stella Mod is required to maintain security and compatibility.
+1. **Utrzymuj Oprogramowanie w aktualnej wersji.**  
+   Korzystanie z najnowszej wersji Stella Mod jest wymagane w celu zapewnienia bezpieczeństwa i zgodności działania.
 
-2. **Prohibited immoral activities.**  
-   This includes hacking, cheating, gameplay manipulation, phishing, and similar activities.
+2. **Zakazane są działania niemoralne i nielegalne.**  
+   Obejmuje to wszelkie formy włamań, oszustw, manipulacji rozgrywką, phishingu oraz podobnych działań.
 
-3. **Report issues or violations.**  
-   Any technical problems or suspected rule violations should be reported to the app developers.
+3. **Zgłaszaj błędy i naruszenia.**  
+   Wszelkie problemy techniczne lub podejrzenia naruszenia zasad należy zgłaszać Autorowi poprzez oficjalne kanały kontaktu.
 
-4. **Do not modify or interfere with the app's code.**  
-   Decompiling, reverse engineering, or other forms of interference are strictly prohibited.
+4. **Nie modyfikuj ani nie ingeruj w kod aplikacji.**  
+   Zabronione jest dekompilowanie, inżynieria wsteczna, modyfikacja lub jakakolwiek ingerencja w strukturę Oprogramowania.
 
-5. **Use the app in line with fair play principles.**  
-   Avoid actions that overload servers, disrupt the app's functionality, or negatively impact other users.
+5. **Korzystaj z Oprogramowania zgodnie z zasadami fair play.**  
+   Unikaj działań mogących przeciążać serwery, zakłócać działanie Oprogramowania lub negatywnie wpływać na innych Użytkowników.
 
-6. **Do not attempt to bypass Stella Mod or game security systems.**  
-   Attempts to bypass or manipulate security systems are forbidden.
+6. **Nie próbuj omijać zabezpieczeń Stella Mod ani gry.**  
+   Wszelkie próby obejścia lub manipulacji systemami zabezpieczeń są zabronione.
 
-7. **Terms are subject to change.**  
-   The creators reserve the right to modify these terms. Using the app implies acceptance of the updated rules.
+7. **Zasady mogą ulec zmianie.**  
+   Autor zastrzega sobie prawo do modyfikacji niniejszych zasad. Dalsze korzystanie z Oprogramowania oznacza akceptację zaktualizowanych postanowień.
 
-## Additional Information <!-- {#additional-info} -->
-- **Stella Mod Launcher may occasionally be unavailable.**  
-  Downtime may occur due to maintenance or updates. Developers strive to minimize inconvenience or disruptions.
+8. **Twoje konto w grze pozostaje bezpieczne, jeśli unikasz szkodliwych działań.**  
+   Korzystaj z Oprogramowania wyłącznie w jego aktualnej formie. Nie ingeruj w pliki, funkcje ani zewnętrzne biblioteki powiązane z aplikacją.
 
-- **Your game account will remain safe as long as you avoid harmful activities.**  
-  Use Stella Mod only in its current (latest) form. Do not interfere with the software or modify any features or external libraries associated with the app.
-
-## Final Agreement <!-- {#final-agreement} -->
-**Failure to comply with the above rules may result in bans from both the game and Stella Mod.**  
-In cases of serious violations or suspicious activities, incidents may be reported to HoYoverse for appropriate actions.
+## Postanowienia końcowe <!-- {#final-agreement} -->
+**Nieprzestrzeganie powyższych zasad może skutkować utratą dostępu do Oprogramowania Stella Mod.**  
+W przypadku poważnych naruszeń lub wykrycia podejrzanej aktywności Autor może podjąć odpowiednie działania w celu ochrony integralności projektu.

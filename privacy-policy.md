@@ -50,7 +50,7 @@ Symuluje on podatne środowisko w celu wykrycia podejrzanych działań, rejestru
 
 ### Procedura odwołania od błędnej klasyfikacji <!-- {#false-appeal-process} -->
 Adresy IP lub zachowania błędnie uznane za podejrzane są weryfikowane i mogą zostać odblokowane po analizie.
-Jeśli Użytkownik uważa, że otrzymał niesłusznego bana, może złożyć odwołanie poprzez system ticketów: [patrons.sefinek.net/tickets](https://patrons.sefinek.net/tickets)
+Jeśli Użytkownik uważa, że otrzymał niesłusznego bana, może złożyć odwołanie poprzez [system ticketów](https://patrons.sefinek.net/tickets).
 
 Każde odwołanie jest rozpatrywane **ręcznie i indywidualnie**, aby uniknąć niesprawiedliwego blokowania.
 

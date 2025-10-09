@@ -43,8 +43,8 @@ Download the official installer from [stella.sefinek.net](https://stella.sefinek
 Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) page.
 
 ## Czym jest Trust Factor w Stella Mod? <!-- {#trust-factor} -->
-Każdemu urządzeniu przypisany jest współczynnik zaufania (Trust Factor), obliczany przez API na podstawie różnych czynników.
-Jeśli poziom zaufania jest zbyt niski, uruchomienie Oprogramowania może być niemożliwe.
+Każdemu urządzeniu jest przypisany Trust Factor, obliczany przez API na podstawie różnych czynników.
+Jeśli Twój Trust Factor jest zbyt niski, uruchomienie Oprogramowania może być niemożliwe.
 
 ## Czy Stella Mod posiada własny Launcher? <!-- {#stella-mod-launcher} -->
 Tak, Stella Mod posiada dedykowany Launcher, który umożliwia łatwe pobieranie i instalowanie aktualizacji.

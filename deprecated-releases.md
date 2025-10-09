@@ -1,11 +1,12 @@
-[//]: # (Title: Przestarzałe wersje Stella Mod - dostęp do starszych changelogów)
-[//]: # (Description: Przeglądaj przestarzałe wydania Stella Mod, w tym changelogi dla wersji v7.x.x do v3.x.x. Dowiedz się, dlaczego warto aktualizować Oprogramowanie i jak rozwiązywać ewentualne problemy.)
-[//]: # (Tags: Stella Mod, Przestarzałe wersje, Genshin Impact Mod, Changelog, Aktualizacje Stella, Przewodnik Mod)
+[//]: # (Title: Outdated Stella Mod Versions – Access to Older Changelogs)
+[//]: # (Description: Browse deprecated releases of Stella Mod, including changelogs for versions v7.x.x through v3.x.x. Learn why updating your software matters and how to resolve potential issues.)
+[//]: # (Tags: Stella Mod, Outdated Versions, Genshin Impact Mod, Changelog, Stella Updates, Mod Guide)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=deprecated-releases)
 [//]: # (Contributors: Sefinek)
 
-# Przestarzałe wersje Stella Mod – pełny changelog <!-- {#deprecated-releases} -->
-Wydania starsze niż `v8.x.x` są uznawane za przestarzałe i nie powinny być już używane przez Użytkowników. Changelogi dla starszych wersji można znaleźć pod poniższymi adresami.
+# Outdated Stella Mod Versions – Complete Changelog <!-- {#deprecated-releases} -->
+Releases older than `v8.x.x` are considered outdated and should no longer be used by users.
+You can find changelogs for previous versions at the links below:
 
 - [v7.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v7)
 - [v6.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v6)
@@ -13,15 +14,16 @@ Wydania starsze niż `v8.x.x` są uznawane za przestarzałe i nie powinny być j
 - [v4.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v4)
 - [v3.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v3)
 
-## Dlaczego nie należy korzystać z przestarzałych wersji Stella Mod <!-- {#why-you-should-avoid-using-deperacted-sm-versions} -->
-Aktualizacje mogą zawierać istotne poprawki błędów, ulepszenia oraz łatki zgodności, które są kluczowe dla prawidłowego działania Stella Mod.
+## Why You Should Avoid Using Outdated Versions of Stella Mod <!-- {#why-you-should-avoid-using-deprecated-sm-versions} -->
+Updates often include important bug fixes, improvements, and compatibility patches that are essential for Stella Mod to function properly.
 
-## Najczęściej zadawane pytania dotyczące aktualizacji Stella Mod <!-- {#frequently-asked-questions-about-stella-mod-updates} -->
-### Czy każde aktualizacje są obowiązkowe? <!-- {#are-all-updates-mandatory} -->
-Tak, aktualizacje zapewniają zgodność i bezpieczeństwo. Bez nich Oprogramowanie może przestać działać poprawnie.
+## Frequently Asked Questions About Stella Mod Updates <!-- {#frequently-asked-questions-about-stella-mod-updates} -->
+### Are all updates mandatory? <!-- {#are-all-updates-mandatory} -->
+Yes. Updates ensure compatibility and security. Without them, the software may stop working correctly.
 
-### Jak często wydawane są aktualizacje Stella Mod? <!-- {#how-often-are-updated-released-for-sm} -->
-Aktualizacje pojawiają się regularnie, zazwyczaj po wydaniu nowej wersji gry Genshin Impact, aby utrzymać pełną kompatybilność.
+### How often are Stella Mod updates released? <!-- {#how-often-are-updates-released-for-sm} -->
+Updates are released regularly—typically after a new version of Genshin Impact—to maintain full compatibility.
+Subscribe to **Stella Plus** to get early access to the latest versions.
 
-### Czy można powrócić do starszej wersji Stella Mod? <!-- {#can-you-revert-to-an-older-version-of-sm} -->
-Nie, nie jest to możliwe.
+### Can you revert to an older version of Stella Mod? <!-- {#can-you-revert-to-an-older-version-of-sm} -->
+No, reverting to older versions is not possible.

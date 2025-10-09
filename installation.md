@@ -8,7 +8,7 @@
 
 ## Przygotowanie systemu do instalacji Oprogramowania <!-- {#getting-started} -->
 - Upewnij się, że Twój system operacyjny (OS) jest aktualny. <a href="ms-settings:windowsupdate">Sprawdź aktualizacje »</a> | <a href="ms-settings:about">Sprawdź wersję systemu »</a>
-- Upewnij się, że posiadasz najnowszą wersję gry Genshin Impact.
+- Upewnij się, że masz najnowszą wersję gry Genshin Impact.
 - Sprawdź, czy Twój komputer spełnia wymagania systemowe Oprogramowania. <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">Zobacz wymagania systemowe »</a>
 - Zaktualizuj sterowniki karty graficznej, jeśli są dostępne nowe wersje.
 

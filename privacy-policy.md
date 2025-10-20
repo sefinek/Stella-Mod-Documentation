@@ -1,6 +1,6 @@
-[//]: # (Title: Polityka prywatności - Genshin Stella Mod)
-[//]: # (Description: Dowiedz się, w jaki sposób Genshin Stella Mod Launcher chroni Twoją prywatność i bezpieczeństwo danych. Zapewniamy pełną przejrzystość w kwestii przetwarzania informacji technicznych.)
-[//]: # (Tags: Polityka prywatności, Ochrona danych, Bezpieczeństwo, Genshin Stella Mod, Dane użytkownika, Logi aplikacji, API, Honeypot, Bezpieczne przechowywanie danych, Prywatność, RODO)
+[//]: # (Title: Polityka prywatności - Dokumentacja Stella Mod)
+[//]: # (Description: Poznaj zasady ochrony danych w Genshin Stella Mod. Dowiedz się, jak oprogramowanie chroni Twoją prywatność. Nigdy nie gromadzi żadnych danych osobowych. Zawsze zapewnia bezpieczeństwo.)
+[//]: # (Tags: Polityka prywatności, Ochrona danych, Genshin Stella Mod, Prywatność użytkownika, Bezpieczeństwo danych, API v8, Honeypot, Logi aplikacji, RODO, Dokumentacja Stella Mod, Bezpieczne oprogramowanie)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=privacy-policy)
 [//]: # (Contributors: Sefinek)
 

@@ -1,6 +1,6 @@
-[//]: # (Title: Stella Mod FAQ – Najczęściej zadawane pytania dotyczące Genshin Stella Mod)
-[//]: # (Description: Poznaj odpowiedzi na najczęściej zadawane pytania o Genshin Stella Mod. Dowiedz się o bezpieczeństwie, funkcjach takich jak odblokowanie FPS, ReShade i sposobach rozpoczęcia korzystania z Oprogramowania.)
-[//]: # (Tags: Genshin Impact, Stella Mod, Odblokowanie FPS, ReShade, 3DMigoto, Bezpieczeństwo, Wsparcie techniczne, Launcher, FAQ)
+[//]: # (Title: FAQ - Dokumentacja Stella Mod)
+[//]: # (Description: Najczęściej zadawane pytania o Genshin Stella Mod. Dowiedz się, jak bezpiecznie korzystać z ReShade, 3DMigoto i odblokowania FPS, czym jest Trust Factor i jak rozpocząć przygodę ze Stella Mod.)
+[//]: # (Tags: Stella Mod FAQ, Genshin Stella Mod, ReShade, Odblokowanie FPS, 3DMigoto, Bezpieczeństwo Stella Mod, Trust Factor, Subskrypcja Stella Mod Plus, Launcher, Wsparcie techniczne, Dokumentacja Stella Mod)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=faq)
 [//]: # (Contributors: Sefinek)
 

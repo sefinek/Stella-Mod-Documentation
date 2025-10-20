@@ -1,6 +1,6 @@
-[//]: # (Title: Zrozumienie działania ReShade i odblokowania FPS – ulepsz swoje wrażenia z gry)
-[//]: # (Description: Dowiedz się, jak ReShade poprawia jakość grafiki w Genshin Impact oraz jak odblokowanie FPS zapewnia płynniejszą rozgrywkę. Poznaj zalety i kluczowe aspekty korzystania z tych narzędzi w popularnej grze RPG.)
-[//]: # (Tags: ReShade Genshin Impact, Odblokowanie FPS Genshin, Poprawa grafiki Genshin Impact, Płynniejsza rozgrywka, FPS boost, Optymalizacja grafiki Genshin, Frame rate unlocker, Mody Genshin Impact)
+[//]: # (Title: ReShade i odblokowanie FPS - Dokumentacja Stella Mod)
+[//]: # (Description: Dowiedz się, jak ReShade poprawia jakość grafiki w Genshin Impact oraz jak odblokowanie FPS zwiększa płynność rozgrywki. Poznaj zalety, ryzyka i praktyczne wskazówki dotyczące optymalizacji gry przy użyciu Stella Mod.)
+[//]: # (Tags: ReShade Genshin Impact, Odblokowanie FPS Genshin, FPS Unlocker, Poprawa grafiki Genshin Impact, Optymalizacja gry, Płynniejsza rozgrywka, FPS boost, Frame rate unlocker, Mody Genshin Impact, Dokumentacja Stella Mod)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=reshade-fpsunlocker)
 [//]: # (Contributors: Sefinek)
 

@@ -1,6 +1,6 @@
-[//]: # (Title: Wsparcie Genshin Stella Mod - Jak uzyskać pomoc)
-[//]: # (Description: Znajdź niezawodne wsparcie dla Genshin Stella Mod, w tym pomoc dotyczącą ReShade, odblokowania FPS oraz 3DMigoto. Skontaktuj się z Autorem, zgłoś problem na GitHub lub dołącz do społeczności na Discordzie, aby uzyskać pomoc.)
-[//]: # (Tags: Wsparcie Genshin Stella Mod, Pomoc Stella Mod, Rozwiązywanie problemów ReShade, Wsparcie FPS Unlocker, Pomoc 3DMigoto, Kontakt z autorem Stella Mod, Wsparcie Sefinek, GitHub Stella Mod, Discord Genshin Stella Mod, Dokumentacja Stella Mod)
+[//]: # (Title: Wsparcie - Dokumentacja Stella Mod)
+[//]: # (Description: Potrzebujesz pomocy z Genshin Stella Mod? Sprawdź, jak uzyskać wsparcie dotyczące ReShade, 3DMigoto i odblokowania FPS. Skontaktuj się z autorem Sefinek, zgłoś problem lub dołącz do społeczności na Discordzie.)
+[//]: # (Tags: Wsparcie Stella Mod, Pomoc Genshin Stella Mod, Kontakt Sefinek, ReShade pomoc, 3DMigoto wsparcie, FPS Unlocker Genshin Impact, Discord Stella Mod, GitHub Stella Mod, Dokumentacja Stella Mod, Rozwiązywanie problemów)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=support)
 [//]: # (Contributors: Sefinek)
 

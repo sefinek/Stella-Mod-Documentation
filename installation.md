@@ -1,6 +1,6 @@
-[//]: # (Title: Jak używać ReShade, odblokowania FPS i 3DMigoto jednocześnie w Genshin Impact)
-[//]: # (Description: Dowiedz się, jak ulepszyć Genshin Impact za pomocą ReShade, odblokowania FPS i 3DMigoto. Przewodnik krok po kroku dotyczący instalacji, konfiguracji i maksymalizacji wydajności.)
-[//]: # (Tags: Instalacja Genshin Stella Mod, ReShade Genshin Impact, Odblokowanie FPS, Konfiguracja 3DMigoto, Jak używać Stella Mod, Ulepszanie wydajności Genshin Impact, Konfiguracja Stella Mod, Modyfikacje graficzne Genshin Impact, Zaufane źródło Stella Mod, Optymalizacja Genshin Impact)
+[//]: # (Title: Instalacja - Dokumentacja Stella Mod)
+[//]: # (Description: Kompletny przewodnik instalacji Genshin Stella Mod. Dowiedz się, jak połączyć ReShade, odblokowanie FPS i 3DMigoto, by bezpiecznie ulepszyć grafikę i wydajność Genshin Impact. Zaufane źródło pobierania i konfiguracja krok po kroku.)
+[//]: # (Tags: Instalacja Stella Mod, Genshin Stella Mod, ReShade Genshin Impact, FPS Unlocker, 3DMigoto konfiguracja, Optymalizacja gry, Ulepszanie wydajności, Bezpieczne modowanie, Dokumentacja Stella Mod, Zaufane źródło Stella Mod)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=installation)
 [//]: # (Contributors: Sefinek)
 

@@ -1,6 +1,6 @@
-[//]: # (Title: Attribution of External Creators' Works - Stella Mod Documentation)
-[//]: # (Description: Comprehensive credits for creators whose works are featured in Genshin Stella Mod, including images, videos, mods, music, and more. View full acknowledgment details and copyright policies.)
-[//]: # (Tags: Stella Mod, Genshin Impact Mods, External Creators, Copyright Attribution, NuGet Packages, Images, Videos, Background Music, Mods List, Creator Acknowledgment)
+[//]: # (Title: Atribucje twórców zewnętrznych - Dokumentacja Stella Mod)
+[//]: # (Description: Pełne uznanie i atrybucje dla twórców zewnętrznych, których prace zostały wykorzystane w Genshin Stella Mod. Zobacz listę źródeł, licencje, użyte zasoby, muzykę, ikony i pakiety NuGet.)
+[//]: # (Tags: Stella Mod, Atrybucje twórców, Genshin Impact Mod, Licencje, Źródła zasobów, Prawa autorskie, Zewnętrzni twórcy, Pakiety NuGet, Muzyka tła, Obrazy i ikony, Dokumentacja Stella Mod)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=credits)
 [//]: # (Contributors: Sefinek)
 

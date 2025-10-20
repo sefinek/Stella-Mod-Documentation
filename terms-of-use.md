@@ -1,6 +1,6 @@
-[//]: # (Title: Zasady korzystania z Genshin Stella Mod – bezpieczne modyfikacje dla lepszej rozgrywki)
-[//]: # (Description: Zapoznaj się z oficjalnymi zasadami korzystania z Genshin Stella Mod. Korzystaj bezpiecznie z modyfikacji takich jak ReShade i 3DMigoto, przestrzegając zasad bezpieczeństwa i dobrych praktyk.)
-[//]: # (Tags: Genshin Stella Mod, Zasady korzystania, Mody Genshin Impact, Bezpieczne modowanie, ReShade, Odblokowanie FPS, 3DMigoto, Ulepszanie rozgrywki, Zgodność z HoYoverse, Zasady bezpieczeństwa modów)
+[//]: # (Title: Zasady korzystania - Dokumentacja Stella Mod)
+[//]: # (Description: Oficjalne zasady korzystania z Genshin Stella Mod. Dowiedz się, jak bezpiecznie używać modyfikacji takich jak ReShade, 3DMigoto i odblokowanie FPS w Genshin Impact, zachowując pełną zgodność z zasadami bezpieczeństwa HoYoverse.)
+[//]: # (Tags: Genshin Stella Mod, Zasady korzystania, Dokumentacja Stella Mod, Bezpieczne modowanie, ReShade, 3DMigoto, Odblokowanie FPS, Mody Genshin Impact, Stella Mod Plus, Zgodność z HoYoverse, Zasady bezpieczeństwa)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=terms-of-use)
 [//]: # (Contributors: Sefinek)
 

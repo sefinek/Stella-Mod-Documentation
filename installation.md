@@ -10,11 +10,11 @@
 - Upewnij się, że Twój system operacyjny (OS) jest aktualny. <a href="ms-settings:windowsupdate">Sprawdź aktualizacje »</a> | <a href="ms-settings:about">Sprawdź wersję systemu »</a>
 - Upewnij się, że masz najnowszą wersję gry Genshin Impact.
 - Sprawdź, czy Twój komputer spełnia wymagania systemowe Oprogramowania. <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">Zobacz wymagania systemowe »</a>
-- Zaktualizuj sterowniki karty graficznej, jeśli są dostępne nowe wersje.
+- Zaktualizuj sterowniki karty graficznej, jeśli jest dostępna nowa wersja.
 
 ## Pobieranie Stella Mod z zaufanego źródła <!-- {#trusted-source} -->
 Zawsze pobieraj Oprogramowanie wyłącznie z zaufanego źródła, takiego jak [sefinek.net/genshin-stella-mod](https://sefinek.net/genshin-stella-mod?referrer=installation) ([stella.sefinek.net](https://stella.sefinek.net)).
-W internecie krążą zainfekowane wersje Stella Mod.
+W internecie krążą zainfekowane wersje Stella Mod. Pod żadnym pozorem nie pobieraj Stella Mod z GameBanana, NexusMods ani innych stron trzecich!
 
 ## Instalacja Genshin Stella Mod krok po kroku <!-- {#how-to-install-stella-mod} -->
 ### Krok 1: Pobierz oficjalny instalator <!-- {#download-installer} -->

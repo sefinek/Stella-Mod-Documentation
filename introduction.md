@@ -6,8 +6,9 @@
 
 # Genshin Stella Mod: Wprowadzenie do dokumentacji
 <div align="center">
-    Zapoznaj się z kompletnym przewodnikiem, przeglądając spis treści poniżej.
+    Zapoznaj się z kompletnym przewodnikiem.
     Niezależnie od tego, czy dopiero zaczynasz, czy korzystasz z projektu od dawna – ta dokumentacja zawiera wszystkie informacje o instalacji, konfiguracji oraz możliwościach Oprogramowania <b>Genshin Stella Mod</b>.
+    Przeglądaj interesujące Cię sekcje i odkryj, jak <b>Stella Mod</b> może ulepszyć Twoje wrażenia z gry w Genshin Impact.
 </div>
 <br>
 
@@ -16,11 +17,6 @@
         <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=introduction"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="148"></a>
         <a href="https://discord.com/invite/k2wfGRq4dT" target="_blank"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="148"></a>
     </div>
-</div>
-<br>
-
-<div align="center">
-    Przeglądaj interesujące Cię sekcje i odkryj, jak <b>Stella Mod</b> może ulepszyć Twoje wrażenia z gry w Genshin Impact.
 </div>
 
 ## Definicje <!-- {#definitions} -->
@@ -34,10 +30,10 @@ Poniższe definicje stosuje się we wszystkich dokumentach projektu **Genshin St
 - **Serwer prywatny** – infrastruktura należąca do Autora, zlokalizowana fizycznie w Polsce, bez wykorzystania usług chmurowych.
 - **Dane techniczne** – informacje generowane przez Oprogramowanie w celach diagnostycznych lub statystycznych (np. ID urządzenia, logi, dane o konfiguracji).
 - **Identyfikator urządzenia (ID)** – unikalny skrót generowany lokalnie przez Oprogramowanie na podstawie numerów seryjnych podzespołów; służy do rozpoznawania urządzeń i zapobiegania nadużyciom.
-- **API** – interfejs komunikacyjny między Launcherem lub Oprogramowaniem a serwerem Autora; odpowiada za aktualizacje, synchronizację oraz weryfikację licencji Stella Plus.
+- **API** – interfejs komunikacyjny między Oprogramowaniem a serwerem Autora; odpowiada za aktualizacje, synchronizację oraz weryfikację licencji Stella Plus.
 - **Honeypot** – mechanizm bezpieczeństwa służący do wykrywania i rejestrowania prób nieautoryzowanego dostępu.
 - **Logi Oprogramowania** – dane diagnostyczne dotyczące działania Oprogramowania; mogą być przesyłane na serwer wyłącznie za zgodą Użytkownika.
-- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej; Oprogramowanie ich nie gromadzi ani nie przetwarza bez zgody Użytkownika.
+- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej; Oprogramowanie ich nie gromadzi ani nie przetwarza.
 - **RODO** – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 w sprawie ochrony danych osobowych.
 
 W przypadku braku definicji danego terminu należy interpretować go zgodnie z jego znaczeniem prawnym lub kontekstowym w dokumentacji projektu.
@@ -54,7 +50,7 @@ W przypadku braku definicji danego terminu należy interpretować go zgodnie z j
 ## Czym jest Stella Mod Launcher? <!-- {#what-is-sml} -->
 Jest to oficjalna aplikacja uruchamiająca **Genshin Stella Mod**.
 Została ona napisana w języku [C#](https://learn.microsoft.com/dotnet/csharp) przy użyciu platformy [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
-Launcher umożliwia Użytkownikowi pobieranie aktualizacji.
+Launcher umożliwia Użytkownikowi pobieranie aktualizacji Oprogramowania.
 Priorytetem jest **bezpieczeństwo**, dlatego system dystrybucji został zaprojektowany tak, aby zapewnić integralność plików oraz ochronę danych Użytkownika.
 
 
@@ -74,7 +70,7 @@ Dzięki temu rozgrywka pozostaje nienaruszona, a oryginalny kod gry zachowuje pe
 
 
 ## Czy HoYoverse ma z tym coś wspólnego? <!-- {#hoyoverse-affiliation} -->
-Nie. Projekt **Genshin Stella Mod** nie jest powiązany, sponsorowany ani wspierany przez **miHoYo**, **COGNOSPHERE**, **HoYoverse**.
+Nie. Projekt **Genshin Stella Mod** nie jest w jakikolwiek sposób powiązany z **miHoYo**, **COGNOSPHERE**, **HoYoverse**.
 Wszystkie znaki towarowe i prawa autorskie należą do ich właścicieli.
 
 
@@ -84,4 +80,4 @@ Każda poprawka – od korekty błędów po dodanie nowych sekcji – jest mile 
 
 
 ## Do zobaczenia w Stella Mod <!-- {#closing-note} -->
-Dziękujemy za zainteresowanie **Genshin Stella Mod**! Jesteśmy pewni, że docenisz ulepszoną grafikę i bardziej immersyjne doświadczenie w świecie **Teyvat**.
+Dziękujemy za zainteresowanie **Genshin Stella Mod**! Jesteśmy pewni, że docenisz ulepszoną grafikę i bardziej immersyjne doświadczenie w świecie **Teyvat**. Miłego dnia!

@@ -11,8 +11,8 @@ Genshin Stella Mod to zestaw modyfikacji wprowadzających różne ulepszenia do 
 Pozwala między innymi na odblokowanie limitu FPS, poprawę jakości grafiki przy użyciu ReShade oraz używanie modów w grze z wykorzystaniem 3DMigoto (np. podmiana modeli postaci).
 
 ## Czy Stella Mod jest bezpieczny? <!-- {#is-stella-mod-safe} -->
-Tak, jest całkowicie bezpieczny, o ile Użytkownik przestrzega zasad <a href="https:///genshin-stella-mod/docs?page=terms-of-use">Terms of use</a>, oraz tych określonych w <a href="">Licencji (EULA)</a>.
-Społeczność Stella Mod jest duża – Oprogramowanie zostało pobrane już ponad 30 000 razy. Dołącz na nasz <a href="https://genshin-stella-mod/docs?page=support">serwer Discord</a>, aby uzyskać pomoc.
+Tak, jest całkowicie bezpieczny, o ile Użytkownik przestrzega zasad <a href="https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use">Terms of use</a>, oraz tych określonych w <a href="/genshin-stella-mod/docs?page=license_stella">Licencji (EULA)</a>.
+Społeczność Stella Mod jest duża – Oprogramowanie zostało pobrane już ponad 30,000 razy. Dołącz na nasz <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">serwer Discord</a>, aby uzyskać pomoc.
 
 ## Czy mogę grać online z użyciem Stella Mod? <!-- {#can-i-play-online} -->
 Tak, możesz grać online. Oprogramowanie działa w sposób bezpieczny i nie ingeruje w pliki gry.
@@ -21,7 +21,7 @@ Tak, możesz grać online. Oprogramowanie działa w sposób bezpieczny i nie ing
 Tak, możesz nagrywać rozgrywkę z użyciem Genshin Stella Mod i publikować materiały wideo, jeśli masz na to ochotę. To w pełni zależy od Ciebie.
 
 ## Czy Stella Mod korzysta z GIMI? <!-- {#gimi} -->
-Nie. GIMI to niezależny fork 3DMigoto, niepowiązany z projektem Genshin Stella Mod.
+Nie. GIMI to stary, niezależny fork 3DMigoto, niepowiązany z projektem Genshin Stella Mod.
 
 ## Ktoś prosi mnie o hasło do konta gry. Co robić? <!-- {#password-security} -->
 Nigdy nie udostępniaj swojego hasła nikomu, niezależnie od powodu. Istnieje bardzo duże ryzyko, że osoba ta próbuje Cię oszukać.
@@ -33,7 +33,7 @@ Oficjalni deweloperzy nie udzielają zdalnej pomocy poza oficjalnymi kanałami, 
 Przyznanie nieznanej osobie zdalnego dostępu do komputera może prowadzić do kradzieży danych, naruszenia prywatności lub innych zagrożeń.
 
 ## Ktoś oferuje płatną pomoc związaną ze Stella Mod. Czy warto się zgodzić? <!-- {#paid-help-warning} -->
-Nie. Nigdy nie płać nikomu za pomoc w obsłudze Oprogramowania. Ani Autor, ani oficjalni współtwórcy nie pobierają opłat za wsparcie techniczne.
+Nie. Nigdy nie płać nikomu za pomoc w obsłudze Oprogramowania. Autor nie pobiera opłaty za pomoc ani porady dotyczące korzystania ze Stella Mod.
 Nie istnieje coś takiego jak płatna pomoc w społeczności Stella Mod.
 
 ## Jak rozpocząć korzystanie ze Stella Mod? <!-- {#getting-started} -->
@@ -45,6 +45,7 @@ Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) pa
 ## Czym jest Trust Factor w Stella Mod? <!-- {#trust-factor} -->
 Każdemu urządzeniu jest przypisany Trust Factor, obliczany przez API na podstawie różnych czynników.
 Jeśli Twój Trust Factor jest zbyt niski, uruchomienie Oprogramowania może być niemożliwe.
+W takim przypadku skontaktuj się z Autorem.
 
 ## Czy Stella Mod posiada własny Launcher? <!-- {#stella-mod-launcher} -->
 Tak, Stella Mod posiada dedykowany Launcher, który umożliwia łatwe pobieranie i instalowanie aktualizacji.
@@ -55,7 +56,7 @@ Nowe wersje mogą pojawiać się kilka razy w miesiącu lub rzadziej, na przykł
 Zazwyczaj aktualizacje są udostępniane stopniowo, a wcześniejszy dostęp do nich otrzymują subskrybenci Stella Mod Plus.
 
 ## Czy mogę tworzyć własne presety ReShade? <!-- {#reshade-presets} -->
-Tak, możesz tworzyć i używać własnych presetów ReShade z Oprogramowaniem Stella Mod.
+Tak, możesz tworzyć i używać własnych presetów ReShade z Oprogramowaniem Stella Mod. Kliknij przycisk `Home` w grze, aby otworzyć nakładkę ReShade i dostosować efekty według własnych preferencji.
 
 ## Jakie metody płatności są akceptowane dla subskrypcji Stella Plus? <!-- {#payment-methods} -->
 Akceptowane są różne metody płatności, w tym Stripe (PayPal, karty kredytowe i debetowe), skiny do CS2 oraz kryptowaluty.

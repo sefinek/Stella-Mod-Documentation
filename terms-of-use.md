@@ -5,36 +5,75 @@
 [//]: # (Contributors: Sefinek)
 
 <div align="center">
-    <h1>Genshin Stella Mod - Zasady korzystania</h1>
+    <h1>Genshin Stella Mod - Zasady korzystania i subskrypcji</h1>
     Oprogramowanie Stella Mod zostało stworzone, aby ulepszyć Twoje doświadczenia w grze Genshin Impact.  
-    Korzystanie z Oprogramowania wymaga przestrzegania poniższych zasad.  
+    Korzystanie z Oprogramowania oraz, w przypadku wersji płatnej, z subskrypcji Stella Mod Plus, wymaga przestrzegania poniższych zasad.  
     W razie pytań odwiedź stronę <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">wsparcia technicznego</a>.
 </div>
 
-1. **Utrzymuj Oprogramowanie w aktualnej wersji.**  
-   Korzystanie z najnowszej wersji Stella Mod jest wymagane w celu zapewnienia bezpieczeństwa i zgodności działania.
+---
 
-2. **Zakazane są działania niemoralne i nielegalne.**  
-   Obejmuje to wszelkie formy włamań, oszustw, manipulacji rozgrywką, phishingu oraz podobnych działań.
+## §1. POSTANOWIENIA OGÓLNE
+1. Niniejszy dokument (dalej: „Regulamin”) określa zasady korzystania z oprogramowania **Genshin Stella Mod** oraz zasady świadczenia usług w ramach **subskrypcji Stella Mod Plus**.
+2. Oprogramowanie jest projektem niezależnym, tworzonym przez **Sefinek**, i nie jest powiązane ani sponsorowane przez **HoYoverse**, **miHoYo Co., Ltd.**, **Cognosphere PTE. LTD.** ani żaden inny podmiot.
+3. Korzystanie z Oprogramowania oznacza akceptację niniejszego [Regulaminu](https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use) oraz [Umowy Licencyjnej Użytkownika Końcowego (EULA)](https://sefinek.net/genshin-stella-mod/docs?page=license_stella).
+4. Regulamin obowiązuje wszystkich Użytkowników, niezależnie od kraju zamieszkania. W sprawach nieuregulowanych zastosowanie ma prawo polskie.
 
-3. **Zgłaszaj błędy i naruszenia.**  
-   Wszelkie problemy techniczne lub podejrzenia naruszenia zasad należy zgłaszać Autorowi poprzez oficjalne kanały kontaktu.
+## §2. OBOWIĄZKI I ZAKAZY UŻYTKOWNIKA
+1. Użytkownik zobowiązuje się korzystać z Oprogramowania w sposób zgodny z prawem, EULA oraz niniejszym Regulaminem.
+2. Zabrania się:
+   - a) modyfikowania, dekompilowania lub inżynierii wstecznej Oprogramowania,
+   - b) podejmowania prób obejścia zabezpieczeń technicznych lub licencyjnych,
+   - c) korzystania z Oprogramowania w sposób niezgodny z jego przeznaczeniem,
+   - d) stosowania cracków, patchy lub innych narzędzi ingerujących w kod,
+   - e) działań mających na celu uzyskanie nieautoryzowanego dostępu do funkcji płatnych,
+   - f) odsprzedaży Oprogramowania.
+3. Działania naruszające powyższe postanowienia mogą skutkować trwałym zablokowaniem dostępu do Oprogramowania.
 
-4. **Nie modyfikuj ani nie ingeruj w kod aplikacji.**  
-   Zabronione jest dekompilowanie, inżynieria wsteczna, modyfikacja lub jakakolwiek ingerencja w strukturę Oprogramowania.
+## §3. AKTUALIZACJE I ZGODNOŚĆ
+1. Użytkownik zobowiązany jest do korzystania z najnowszej wersji Oprogramowania, aby zapewnić bezpieczeństwo i zgodność z bieżącymi wersjami gry Genshin Impact.
+2. Starsze wersje Oprogramowania nie są wspierane technicznie. Ich użycie może prowadzić do błędów lub utraty funkcjonalności.
 
-5. **Korzystaj z Oprogramowania zgodnie z zasadami fair play.**  
-   Unikaj działań mogących przeciążać serwery, zakłócać działanie Oprogramowania lub negatywnie wpływać na innych Użytkowników.
+## §4. SUBSKRYPCJA STELLA MOD PLUS
+1. Subskrypcja **Stella Mod Plus** zapewnia dostęp do dodatkowych funkcji Oprogramowania zgodnie z zakupionym **tierem**. Zakres dostępnych funkcji oraz ich działanie mogą różnić się w zależności od wybranego tieru i mogą ulegać zmianie w czasie według wyłącznego uznania Autora.
+2. Część płatna Oprogramowania (Stella Mod Plus) podlega warunkom świadczenia usług określonym w niniejszym Regulaminie. Użytkownik wersji darmowej nie nabywa żadnych praw do funkcji udostępnianych w wersji płatnej, chyba że wykupi subskrypcję i aktywuje ją zgodnie z zasadami określonymi przez Autora.
+3. Licencja na wersję płatną:
+   - a) przypisana jest do konkretnego Użytkownika,
+   - b) może być aktywowana wyłącznie na urządzeniach należących do tego samego gospodarstwa domowego, rozumianego jako wspólne miejsce zamieszkania lub użytkowania sprzętu przez osoby powiązane rodzinnie,
+   - c) obejmuje liczbę urządzeń zgodną z wykupionym tierem subskrypcji. Limit aktywacji może różnić się w zależności od tieru i może zostać zmieniony w przyszłości.
+4. Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub wykorzystywanie licencji przez osoby trzecie spoza gospodarstwa domowego. Wszelkie próby obejścia ograniczeń technicznych, funkcjonalnych lub zabezpieczeń systemu subskrypcji będą traktowane jako naruszenie niniejszego Regulaminu i mogą skutkować natychmiastowym cofnięciem dostępu do Oprogramowania bez prawa do zwrotu środków.
+5. Subskrypcja ma charakter czasowy i obowiązuje wyłącznie przez okres jej aktywności. Po jej wygaśnięciu lub anulowaniu Użytkownik traci dostęp do funkcji płatnych, bez prawa do zwrotu środków za niewykorzystany okres.
 
-6. **Nie próbuj omijać zabezpieczeń Stella Mod ani gry.**  
-   Wszelkie próby obejścia lub manipulacji systemami zabezpieczeń są zabronione.
+### §4a. PŁATNOŚCI I ZWROTY
+1. Subskrypcje **Stella Mod Plus** stanowią usługę cyfrową dostarczaną natychmiast po dokonaniu płatności. Rozpoczęcie korzystania z wersji płatnej oznacza zgodę na świadczenie usługi cyfrowej przed upływem ustawowego terminu odstąpienia od umowy, co skutkuje utratą prawa do zwrotu.
+2. Płatności realizowane są za pośrednictwem zewnętrznych operatorów ([Stripe](https://stripe.com)) zgodnie z ich regulaminami i politykami prywatności. Wszystkie ceny subskrypcji podawane są w walucie określonej na stronie sprzedaży.
+3. Zwroty mogą być rozpatrywane indywidualnie wyłącznie w przypadku:
+   - a) błędów technicznych w przetwarzaniu płatności,
+   - b) nieprawidłowego działania systemu subskrypcji uniemożliwiającego korzystanie z Oprogramowania,
+   - c) innych wyjątkowych okoliczności uznanych przez Autora.
+4. Autor zastrzega sobie prawo do czasowego zawieszenia lub anulowania subskrypcji w przypadku wykrycia nadużyć, naruszenia zasad korzystania lub prób obejścia systemu licencji, bez obowiązku zwrotu środków.
+5. W przypadku potrzeby uzyskania potwierdzenia płatności, Użytkownik może skontaktować się z Autorem poprzez adres e-mail: contact@sefinek.net.
 
-7. **Zasady mogą ulec zmianie.**  
-   Autor zastrzega sobie prawo do modyfikacji niniejszych zasad. Dalsze korzystanie z Oprogramowania oznacza akceptację zaktualizowanych postanowień.
+## §5. ZMIANY, NARUSZENIA I KONSEKWENCJE
+1. Autor zastrzega sobie prawo do modyfikacji funkcji, zasad korzystania lub modelu subskrypcji bez wcześniejszego powiadomienia.
+2. Naruszenie postanowień niniejszego Regulaminu, EULA lub innych dokumentów projektowych może skutkować:
+   - a) tymczasowym lub trwałym cofnięciem dostępu do Oprogramowania,
+   - b) unieważnieniem subskrypcji bez prawa do zwrotu środków,
+   - c) zbanowaniem konta Użytkownika.
+3. Autor nie ponosi odpowiedzialności za szkody wynikające z nieautoryzowanego użycia, błędnej konfiguracji lub niezgodnych z prawem modyfikacji Oprogramowania.
 
-8. **Twoje konto w grze pozostaje bezpieczne, jeśli unikasz szkodliwych działań.**  
-   Korzystaj z Oprogramowania wyłącznie w jego aktualnej formie. Nie ingeruj w pliki, funkcje ani zewnętrzne biblioteki powiązane z aplikacją.
+## §6. POSTANOWIENIA KOŃCOWE
+1. Autor może w dowolnym momencie zawiesić, ograniczyć lub zakończyć świadczenie usług online, w tym funkcji weryfikacji licencji.
+2. Wszelkie spory wynikające z korzystania z Oprogramowania rozstrzygane będą przez sąd właściwy dla siedziby Autora.
+3. Aktualna wersja niniejszego Regulaminu jest zawsze publikowana na stronie projektu: [https://stella.sefinek.net/?page=terms-of-use](https://stella.sefinek.net/docs?page=terms-of-use)
 
-## Postanowienia końcowe <!-- {#final-agreement} -->
-**Nieprzestrzeganie powyższych zasad może skutkować utratą dostępu do Oprogramowania Stella Mod.**  
-W przypadku poważnych naruszeń lub wykrycia podejrzanej aktywności Autor może podjąć odpowiednie działania w celu ochrony integralności projektu.
+## §7. KONTAKT I WSPARCIE TECHNICZNE
+1. Wszelkie pytania dotyczące działania Oprogramowania, subskrypcji lub problemów technicznych należy kierować za pośrednictwem systemu wsparcia dostępnego na stronie:  
+   [https://stella.sefinek.net/docs?page=support](https://stella.sefinek.net/docs?page=support)
+2. Kontakt mailowy z Autorem: contact@sefinek.net  
+   Autor zastrzega sobie prawo do odpowiedzi w miarę dostępności zasobów.
+
+---
+
+Nieprzestrzeganie niniejszych zasad może skutkować utratą dostępu do Oprogramowania lub subskrypcji Stella Mod Plus.
+Autor zastrzega sobie prawo do podejmowania działań technicznych lub prawnych w celu ochrony integralności projektu, jak i gry Genshin Impact.

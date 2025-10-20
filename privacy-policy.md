@@ -5,7 +5,7 @@
 [//]: # (Contributors: Sefinek)
 
 # Polityka prywatności i bezpieczeństwo danych w Genshin Stella Mod <!-- {#privacy-overview} -->
-Launcher Stella Mod oraz Genshin Stella Mod zostały zaprojektowane z pełnym poszanowaniem prywatności użytkowników.
+Oprogramowanie zostało zaprojektowane z pełnym poszanowaniem prywatności użytkowników.
 Programy te **nie zbierają żadnych danych osobowych**, **nie monitorują aktywności użytkownika** i **nie zapisują żadnych działań** podejmowanych podczas korzystania z Oprogramowania.
 Twoja prywatność jest naszym priorytetem.
 
@@ -19,7 +19,7 @@ Logi ani żadne inne wrażliwe informacje nie opuszczą urządzenia bez wcześni
 Oprogramowanie **nie wykorzystuje plików cookie ani narzędzi analitycznych**.
 
 <br>
-<i>Ostatnia aktualizacja: 7 października 2025 r.</i>
+<i>Ostatnia aktualizacja: 20 października 2025 r.</i>
 
 
 ## Twoja decyzja – Twoje dane: logi aplikacji <!-- {#application-logs} -->

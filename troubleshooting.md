@@ -5,7 +5,7 @@
 [//]: # (Contributors: Sefinek)
 
 ## Unhandled exception. System.NullReferenceException: Object reference not set to an instance of an object. <!-- {#nullreferenceexception} -->
-Spróbuj usunąć plik konfiguracyjny FPS Unlockera — mógł zostać uszkodzony. Ścieżka do pliku:
+Spróbuj usunąć plik konfiguracyjny FPS Unlockera, mógł zostać uszkodzony. Ścieżka do pliku:
 ```css
 C:\Program Files\Genshin Stella Mod\data\dependencies\unlocker\unlocker.config.json
 ```

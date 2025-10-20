@@ -23,4 +23,4 @@ Domyślnie większość gier ma ograniczenie FPS narzucone przez deweloperów, m
 1. Jeśli Twój monitor ma niskie odświeżanie (np. 60Hz), odblokowanie FPS nie przyniesie żadnej poprawy płynności, a może jedynie zwiększyć temperatury podzespołów. W takich przypadkach nie korzystaj z FPS Unlockera.
   Z kolei posiadacze monitorów o wyższej częstotliwości odświeżania (np. 120Hz lub 165Hz) mogą odczuć znaczną poprawę płynności i responsywności gry.
 
-2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu na przykład 500 FPS przy monitorze 165Hz.
+2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu np. 500 FPS przy monitorach np. 165Hz.

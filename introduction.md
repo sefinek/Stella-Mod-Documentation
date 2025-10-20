@@ -1,6 +1,6 @@
-[//]: # (Title: Wprowadzenie - Dokumentacja Stella Mod)
+[//]: # (Title: Wprowadzenie - Stella Mod Documentation)
 [//]: # (Description: Kompletny przewodnik po Genshin Stella Mod. Dowiedz się, jak zainstalować, skonfigurować i bezpiecznie korzystać z modów takich jak ReShade, 3DMigoto i FPS Unlocker, aby ulepszyć grafikę i płynność gry Genshin Impact.)
-[//]: # (Tags: Genshin Stella Mod, Dokumentacja Stella Mod, Instalacja Stella Mod, Konfiguracja Stella Mod, ReShade, 3DMigoto, Odblokowanie FPS, Mody Genshin Impact, Bezpieczne modowanie, Stella Mod Plus)
+[//]: # (Tags: Genshin Stella Mod, Stella Mod Documentation, Instalacja Stella Mod, Konfiguracja Stella Mod, ReShade, 3DMigoto, Odblokowanie FPS, Mody Genshin Impact, Bezpieczne modowanie, Stella Mod Plus)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=introduction)
 [//]: # (Contributors: Sefinek)
 

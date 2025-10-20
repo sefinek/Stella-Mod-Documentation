@@ -1,6 +1,6 @@
-[//]: # (Title: Stella Mod Requirements - Dokumentacja Stella Mod)
+[//]: # (Title: Stella Mod Requirements - Stella Mod Documentation)
 [//]: # (Description: Sprawdź wymagania i funkcje Stella Mod dla Genshin Impact. Dowiedz się, jakie systemy są wspierane oraz jak uzyskać lepszą grafikę, płynność i stabilność gry dzięki ReShade i FPS Unlocker.)
-[//]: # (Tags: Stella Mod Requirements, Genshin Impact, Stella Mod, FPS Unlocker, ReShade, Wymagania systemowe, Optymalizacja gry, Ulepszenie grafiki, Stella Mod Plus, Dokumentacja Stella Mod)
+[//]: # (Tags: Stella Mod Requirements, Genshin Impact, Stella Mod, FPS Unlocker, ReShade, Wymagania systemowe, Optymalizacja gry, Ulepszenie grafiki, Stella Mod Plus, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=requirements)
 [//]: # (Contributors: Sefinek)
 

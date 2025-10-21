@@ -8,7 +8,7 @@
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                | 🌍 Address                                                                                                                         | 📑 License</div>                                                                                                   |
 |:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
-| Stella Mod Launcher       | Delivers the latest software versions to end users.                                                                                                                                |                                                                                                                                    | [CC BY-NC-SA 4.0](https://sefinek.net/genshin-stella-mod/docs?page=license_stella)                                 |
+| Launcher                  | Delivers the latest versions of the Software to Users.                                                                                                                             |                                                                                                                                    | [CC BY-NC-SA 4.0](https://sefinek.net/genshin-stella-mod/docs?page=license_stella)                                 |
 | Easy configuration wizard | Allows for easy and quick configuration.                                                                                                                                           |                                                                                                                                    |                                                                                                                    |
 | Unlocked ReShade          | Filters and add-ons. No depth buffer detection. [Read more...](https://sefinek.net/genshin-stella-mod/docs?page=reshade-fpsunlocker#reshade)                                       | [Source](https://reshade.me)                                                                                                       | [BSD 3-Clause License](https://github.com/crosire/reshade/blob/main/LICENSE.md)                                    |
 | Crosire's DLL injector    | Just an injector for ReShade.                                                                                                                                                      | [Source](https://framedsc.com/ReshadeGuides/reshadeuwp.htm)                                                                        |                                                                                                                    |
@@ -24,7 +24,7 @@
 
 ## System Requirements & Dependencies for Stella Mod <!-- {#system-requirements} -->
 > [!NOTE]
-> Before installing the Stella Mod software, make sure that your computer meets the following requirements.
+> Before installing the Software, make sure that your computer meets the following requirements.
 
 | 🗝️ Your PC & Network                       | 📂 Dependencies                                                                                                                   |
 |:--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -49,7 +49,7 @@
 ## How to Install Stella Mod for Genshin Impact? <!-- {#installation-guide} -->
 > [Safe and fast installation via InnoSetup](https://sefinek.net/genshin-stella-mod/docs?page=installation)
 
-After completing the installation, open Stella Mod Launcher. On the first launch, a configuration window should appear. Next, click **Start Game** in our launcher.  
+After completing the installation, open the Launcher. On the first launch, a configuration window should appear. Next, click **Start Game**.  
 Once the game starts, make sure the [recommended graphic settings](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-settings-for-game) are correctly configured.  
 Adjust them according to our recommendations, considering your device's capabilities. This will ensure smooth gameplay and the best possible visual experience.
 

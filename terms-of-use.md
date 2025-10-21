@@ -14,7 +14,7 @@
 ---
 
 ## §1. POSTANOWIENIA OGÓLNE
-1. Niniejszy dokument (dalej: „Regulamin”) określa zasady korzystania z oprogramowania **Genshin Stella Mod** oraz zasady świadczenia usług w ramach **subskrypcji Stella Mod Plus**.
+1. Niniejszy dokument (dalej: "Regulamin") określa zasady korzystania z Oprogramowania **Genshin Stella Mod** oraz zasady świadczenia usług w ramach **subskrypcji Stella Mod Plus**.
 2. Oprogramowanie jest projektem niezależnym, tworzonym przez **Sefinek**, i nie jest powiązane ani sponsorowane przez **HoYoverse**, **miHoYo Co., Ltd.**, **Cognosphere PTE. LTD.** ani żaden inny podmiot.
 3. Korzystanie z Oprogramowania oznacza akceptację niniejszego [Regulaminu](https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use) oraz [Umowy Licencyjnej Użytkownika Końcowego (EULA)](https://sefinek.net/genshin-stella-mod/docs?page=license_stella).
 4. Regulamin obowiązuje wszystkich Użytkowników, niezależnie od kraju zamieszkania. W sprawach nieuregulowanych zastosowanie ma prawo polskie.

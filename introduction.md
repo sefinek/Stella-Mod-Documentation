@@ -48,8 +48,7 @@ W przypadku braku definicji danego terminu należy interpretować go zgodnie z j
 
 
 ## Czym jest Stella Mod Launcher? <!-- {#what-is-sml} -->
-Jest to oficjalna aplikacja uruchamiająca **Genshin Stella Mod**.
-Została ona napisana w języku [C#](https://learn.microsoft.com/dotnet/csharp) przy użyciu platformy [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
+To oficjalny **Launcher** uruchamiający Oprogramowanie **Genshin Stella Mod**. Został on napisany w języku [C#](https://learn.microsoft.com/dotnet/csharp) przy użyciu platformy [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
 Launcher umożliwia Użytkownikowi pobieranie aktualizacji Oprogramowania.
 Priorytetem jest **bezpieczeństwo**, dlatego system dystrybucji został zaprojektowany tak, aby zapewnić integralność plików oraz ochronę danych Użytkownika.
 

@@ -29,18 +29,18 @@ Zespół Stella Mod ani Autor nigdy nie prosi o hasła i nie kontaktuje się w c
 
 ## Ktoś proponuje pomoc przez TeamViewer lub AnyDesk. Czy mogę zaufać? <!-- {#remote-assistance} -->
 Upewnij się, że osoba oferująca pomoc jest rzeczywiście członkiem zespołu Stella Mod.
-Oficjalni deweloperzy nie udzielają zdalnej pomocy poza oficjalnymi kanałami, takimi jak Discord.
+Autor nie udziela zdalnej pomocy poza oficjalnymi kanałami, takimi jak Discord.
 Przyznanie nieznanej osobie zdalnego dostępu do komputera może prowadzić do kradzieży danych, naruszenia prywatności lub innych zagrożeń.
 
 ## Ktoś oferuje płatną pomoc związaną ze Stella Mod. Czy warto się zgodzić? <!-- {#paid-help-warning} -->
-Nie. Nigdy nie płać nikomu za pomoc w obsłudze Oprogramowania. Autor nie pobiera opłaty za pomoc ani porady dotyczące korzystania ze Stella Mod.
-Nie istnieje coś takiego jak płatna pomoc w społeczności Stella Mod.
+Nie. Nigdy nie płać nikomu za wsparcie techniczne. Autor nie pobiera żadnych opłat za udzielanie porad dotyczących korzystania z Oprogramowania.
+Płatna pomoc nie istnieje w społeczności Stella Mod.
 
 ## Jak rozpocząć korzystanie ze Stella Mod? <!-- {#getting-started} -->
-Download the official installer from [stella.sefinek.net](https://stella.sefinek.net).
+Pobierz oficjalny instalator ze strony [stella.sefinek.net](https://stella.sefinek.net).
 
 ## Gdzie znajdę wsparcie techniczne? <!-- {#technical-support} -->
-Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) page.
+Odwiedź stronę [Wsparcie](https://sefinek.net/genshin-stella-mod/docs?page=support).
 
 ## Czym jest Trust Factor w Stella Mod? <!-- {#trust-factor} -->
 Każdemu urządzeniu jest przypisany Trust Factor, obliczany przez API na podstawie różnych czynników.

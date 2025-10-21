@@ -17,10 +17,10 @@ Przed użyciem narzędzia do odblokowania FPS warto jednak rozważyć kilka isto
 
 ### Na czym polega odblokowanie FPS <!-- {#about-fps-unlocking} -->
 Odblokowanie FPS polega na usunięciu sztucznego limitu liczby klatek.
-Domyślnie większość gier ma ograniczenie FPS narzucone przez deweloperów, m.in. ze względu na kompatybilność.
+Domyślnie większość gier ma ograniczenie FPS narzucone przez ich twórców, m.in. ze względu na kompatybilność.
 
 ### Co warto wiedzieć przed odblokowaniem FPS <!-- {#fps-unlocking-considerations} -->
 1. Jeśli Twój monitor ma niskie odświeżanie (np. 60Hz), odblokowanie FPS nie przyniesie żadnej poprawy płynności, a może jedynie zwiększyć temperatury podzespołów. W takich przypadkach nie korzystaj z FPS Unlockera.
   Z kolei posiadacze monitorów o wyższej częstotliwości odświeżania (np. 120Hz lub 165Hz) mogą odczuć znaczną poprawę płynności i responsywności gry.
 
-2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu np. 500 FPS przy monitorach np. 165Hz.
+2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu 500 FPS na monitorze 165Hz.

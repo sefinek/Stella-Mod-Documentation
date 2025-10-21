@@ -5,19 +5,19 @@
 [//]: # (Contributors: Sefinek)
 
 # Attribution of External Creators' Works
-On this subpage, other creators are highlighted along with their works, which have been used in Genshin Stella, the Mod, or even on our official website `/genshin-stella-mod/*`.
+On this subpage, other creators are highlighted along with their works, which have been used in the Software or even on our official website `/genshin-stella-mod/*`.
 
 ## Images <!-- {#images} -->
 Some icons/stickers/images used in this project were obtained from various sources. Below is a list of image sources used in this project.
 These images are used in compliance with the licenses provided by their respective sources and are not used for commercial purposes.
-They have been included in the project to enhance the user experience.
+They have been included in the project to enhance the User experience.
 
 1. <a href="https://icons8.com" target="_blank">Icons8</a>
 2. <a href="https://www.flaticon.com" target="_blank">FlatIcon</a>
 
-## Background Music in Stella Mod Launcher <!-- {#bg-music-in-sml} -->
-For the development of the official launcher, we have included a selection of soundtracks from the popular game Genshin Impact.
-These tracks, renowned for their immersive and high-quality compositions, have been integrated to enhance the user experience by providing an engaging and thematic audio background.
+## Background Music in Launcher <!-- {#bg-music-in-sml} -->
+For the development of the official Launcher, we have included a selection of soundtracks from the popular game Genshin Impact.
+These tracks, renowned for their immersive and high-quality compositions, have been integrated to enhance the User experience by providing an engaging and thematic audio background.
 The audio tracks used were sourced from the extensive collection available at the following URL: https://downloads.khinsider.com/game-soundtracks/album/genshin-impact-gamerip
 
 ## NuGet Packages <!-- {#nuget-packages} -->

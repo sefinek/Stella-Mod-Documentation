@@ -5,8 +5,8 @@
 [//]: # (Contributors: Sefinek)
 
 # Polityka prywatności i bezpieczeństwo danych w Genshin Stella Mod <!-- {#privacy-overview} -->
-Oprogramowanie zostało zaprojektowane z pełnym poszanowaniem prywatności użytkowników.
-Programy te **nie zbierają żadnych danych osobowych**, **nie monitorują aktywności użytkownika** i **nie zapisują żadnych działań** podejmowanych podczas korzystania z Oprogramowania.
+Oprogramowanie zostało zaprojektowane z pełnym poszanowaniem prywatności Użytkowników.
+**Nie zbiera żadnych danych osobowych**, **nie monitoruje aktywności** i **nie zapisuje żadnych działań** podejmowanych podczas jego używania.
 Twoja prywatność jest naszym priorytetem.
 
 Oprogramowanie generuje **unikalny identyfikator urządzenia (ID)** na podstawie numerów seryjnych podzespołów komputera.
@@ -19,12 +19,12 @@ Logi ani żadne inne wrażliwe informacje nie opuszczą urządzenia bez wcześni
 Oprogramowanie **nie wykorzystuje plików cookie ani narzędzi analitycznych**.
 
 <br>
-<i>Ostatnia aktualizacja: 20 października 2025 r.</i>
+<i>Ostatnia aktualizacja: 21 października 2025 r.</i>
 
 
 ## Twoja decyzja – Twoje dane: logi aplikacji <!-- {#application-logs} -->
-Oprogramowanie może co pewien czas zapytać, czy Użytkownik chce przesłać logi działania programu na serwer Autora.
-Decyzja ta należy wyłącznie do Użytkownika i **nie wpływa na działanie programu**.
+Oprogramowanie może co pewien czas zapytać, czy Użytkownik chce przesłać Logi Oprogramowania na serwer Autora.
+Decyzja ta należy wyłącznie do Użytkownika i **nie wpływa na działanie Oprogramowania**.
 
 Jeśli Użytkownik wyrazi zgodę na przesłanie logów:
 - archiwum z logami zostanie przesłane na serwer Autora,
@@ -57,7 +57,7 @@ Każde odwołanie jest rozpatrywane **ręcznie i indywidualnie**, aby uniknąć 
 
 ## Prawa Użytkownika zgodnie z RODO <!-- {#gdpr-rights} -->
 Zgodnie z **Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO)** Użytkownik ma prawo do:
-- dostępu do swoich danych,
+- dostępu do zebranych danych technicznych,
 - ich sprostowania lub usunięcia.
 
 Wszelkie żądania dotyczące danych można zgłaszać bezpośrednio na adres **contact@sefinek.net**.
@@ -70,4 +70,4 @@ Na żądanie Użytkownika wszystkie dane zostaną **trwale usunięte z bazy dany
 
 
 ## Kontakt <!-- {#contact} -->
-W sprawach związanych z prywatnością, dostępem do danych lub ich usunięciem prosimy o kontakt z **Autorem** – **Sefinek** <<contact@sefinek.net>> ([https://sefinek.net](https://sefinek.net)).
+W sprawach związanych z prywatnością, dostępem do danych lub ich usunięciem prosimy o kontakt z Autorem: **Sefinek** <<contact@sefinek.net> ([https://sefinek.net](https://sefinek.net))

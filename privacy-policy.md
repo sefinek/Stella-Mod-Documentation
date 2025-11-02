@@ -71,7 +71,7 @@ Jeśli Użytkownik wyrazi zgodę na przesłanie logów, na serwer zostanie wysł
 7. informacje sieciowe, w tym adresy IP prywatne, jak i publiczne oraz inne szczegóły połączenia sieciowego.
 
 ### Dodatkowe informacje
-- Logi Oprogramowania** mają wyłącznie cel diagnostyczny. Ich przesłanie może pomóc w wykrywaniu błędów lub problemów technicznych, jednak decyzja o ich analizie należy w pełni do Autora.
+- Logi Oprogramowania mają wyłącznie cel diagnostyczny. Ich przesłanie może pomóc w wykrywaniu błędów lub problemów technicznych, jednak decyzja o ich analizie należy w pełni do Autora.
 - Autor nie ma obowiązku przeglądania ani analizowania logów. Może je przejrzeć według własnego uznania lub kaprysu, jeśli uzna to za przydatne w danym momencie. Większość przesłanych logów nigdy nie jest analizowana ani sprawdzana.
 - Logi nie są wykorzystywane do żadnych innych celów. W szczególności nie służą do profilowania, marketingu ani analizy zachowań Użytkowników.
 - Użytkownik może w każdej chwili poprosić o wgląd w przesłane logi lub zażądać ich trwałego usunięcia z serwera. Po otrzymaniu takiego żądania logi zostaną całkowicie i nieodwracalnie usunięte.

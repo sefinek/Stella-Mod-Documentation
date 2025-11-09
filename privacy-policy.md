@@ -43,8 +43,9 @@ Podstawą prawną przetwarzania adresu IP jest **art. 6 ust. 1 lit. f RODO**. Uz
 Dane z logów są **przechowywane tymczasowo**, zwykle nie dłużej niż **2 lata**, chyba że wymagają dłuższego przechowania w związku z incydentem bezpieczeństwa lub dochodzeniem naruszenia.
 
 #### Zakres i dostęp:
-Dostęp do logów mają wyłącznie **właściciel systemu**. Dane nie są przekazywane osobom trzecim, z wyjątkiem sytuacji wymaganych przepisami prawa (np. na żądanie organów ścigania).
-Wszystkie dane są przechowywane na prywatnym serwerze w Polsce, bez użycia zewnętrznych usług chmurowych lub innych serwerów VPS/dedykowanych. Żaden inny podmiot zewnętrzny nie ma dostępu do tych danych.
+Dostęp do logów posiada wyłącznie Autor. Dane nie są przekazywane osobom trzecim, z wyjątkiem sytuacji wymaganych przepisami prawa (np. na żądanie organów ścigania).
+Wszystkie dane są przechowywane na prywatnym serwerze w Polsce, bez użycia zewnętrznych usług chmurowych lub innych serwerów VPS/dedykowanych.
+Żaden inny podmiot zewnętrzny nie ma dostępu do nich.
 
 ### Czy zbieramy dane osobowe?
 - **Wersja darmowa**: Oprogramowanie **nie zbiera danych osobowych** w standardowym użyciu. Device ID sam w sobie nie pozwala na identyfikację konkretnej osoby.  

@@ -22,4 +22,4 @@ Możesz pisać wiadomości i e-maile w języku polskim lub angielskim.
 - [Przeczytaj oficjalną dokumentację](https://sefinek.net/genshin-stella-mod/docs)
 
 <br>
-Pamiętaj, że wsparcie techniczne dotyczy wyłącznie Oprogramowania (ReShade, FPS Unlocker, 3DMigoto). Uprzejmie prosimy, aby nie zgłaszać próśb o pomoc w przypadku innych modów.
+Pamiętaj, że wsparcie techniczne dotyczy wyłącznie Oprogramowania. Uprzejmie prosimy, aby nie zgłaszać próśb o pomoc w przypadku innych modów.

@@ -18,4 +18,4 @@
 N/A
 
 ## 🗃️ 〢 License text
-> https://github.com/sefinek/Genshin-Impact-ReShade/blob/main/LICENSE
+> https://github.com/sefinek/Genshin-Impact-ReShade/blob/main/LICENSE.txt

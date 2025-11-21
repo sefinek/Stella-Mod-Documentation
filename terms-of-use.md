@@ -40,9 +40,13 @@
 3. Licencja na wersję płatną:
    - a) przypisana jest do konkretnego Użytkownika,
    - b) może być aktywowana wyłącznie na urządzeniach należących do tego samego gospodarstwa domowego, rozumianego jako wspólne miejsce zamieszkania lub użytkowania sprzętu przez osoby powiązane rodzinnie,
-   - c) obejmuje liczbę urządzeń zgodną z wykupionym tierem subskrypcji. Limit aktywacji może różnić się w zależności od tieru i może zostać zmieniony w przyszłości.
-4. Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub wykorzystywanie licencji przez osoby trzecie spoza gospodarstwa domowego. Wszelkie próby obejścia ograniczeń technicznych, funkcjonalnych lub zabezpieczeń systemu subskrypcji będą traktowane jako naruszenie niniejszego Regulaminu i mogą skutkować natychmiastowym cofnięciem dostępu do Oprogramowania bez prawa do zwrotu środków.
-5. Subskrypcja ma charakter czasowy i obowiązuje wyłącznie przez okres jej aktywności. Po jej wygaśnięciu lub anulowaniu Użytkownik traci dostęp do funkcji płatnych, bez prawa do zwrotu środków za niewykorzystany okres.
+   - c) obejmuje liczbę urządzeń zgodną z wykupionym tierem subskrypcji (maksymalnie do 3 urządzeń). Limit aktywacji może różnić się w zależności od tieru i może zostać zmieniony w przyszłości.
+4. **Rejestracja konta i uwierzytelnienie**:
+   - a) Do zarządzania subskrypcją wymagane jest konto użytkownika. Użytkownik może zarejestrować się za pomocą adresu email lub zalogować przez zewnętrzne usługi (Discord, Google, Twitter, Twitch, Microsoft).
+   - b) Korzystając z zewnętrznych dostawców uwierzytelnienia (OAuth2), Użytkownik akceptuje również ich regulaminy i polityki prywatności.
+   - c) W przypadku połączenia konta z Discord, subskrybenci mogą otrzymać automatycznie przypisane role na oficjalnym serwerze Discord projektu Stella Mod.
+5. Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub wykorzystywanie licencji przez osoby trzecie spoza gospodarstwa domowego. Wszelkie próby obejścia ograniczeń technicznych, funkcjonalnych lub zabezpieczeń systemu subskrypcji będą traktowane jako naruszenie niniejszego Regulaminu i mogą skutkować natychmiastowym cofnięciem dostępu do Oprogramowania bez prawa do zwrotu środków.
+6. Subskrypcja ma charakter czasowy i obowiązuje wyłącznie przez okres jej aktywności. Po jej wygaśnięciu lub anulowaniu Użytkownik traci dostęp do funkcji płatnych, bez prawa do zwrotu środków za niewykorzystany okres.
 
 ### §4a. PŁATNOŚCI I ZWROTY
 1. Subskrypcje **Stella Mod Plus** stanowią usługę cyfrową dostarczaną natychmiast po dokonaniu płatności. Rozpoczęcie korzystania z wersji płatnej oznacza zgodę na świadczenie usługi cyfrowej przed upływem ustawowego terminu odstąpienia od umowy, co skutkuje utratą prawa do zwrotu.

@@ -5,8 +5,7 @@
 [//]: # (Contributors: Sefinek)
 
 # Outdated Stella Mod Versions – Complete Changelog <!-- {#deprecated-releases} -->
-Releases older than `v8.x.x` are considered outdated and should no longer be used by Users.
-You can find changelogs for previous versions at the links below:
+Releases older than `v8.x.x` are considered outdated and should no longer be used by Users. You can find changelogs for previous versions at the links below:
 
 - [v7.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v7)
 - [v6.x.x](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v6)

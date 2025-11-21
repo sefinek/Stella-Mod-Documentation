@@ -29,11 +29,11 @@ Poniższe definicje stosuje się we wszystkich dokumentach projektu **Genshin St
 - **Licencja** – umowa regulująca zasady korzystania z Oprogramowania (EULA).
 - **Serwer prywatny** – infrastruktura należąca do Autora, zlokalizowana fizycznie w Polsce, bez wykorzystania usług chmurowych.
 - **Dane techniczne** – informacje generowane przez Oprogramowanie w celach diagnostycznych lub statystycznych (np. ID urządzenia, logi, dane o konfiguracji).
-- **Identyfikator urządzenia (ID)** – unikalny skrót generowany lokalnie przez Oprogramowanie na podstawie numerów seryjnych podzespołów; służy do rozpoznawania urządzeń i zapobiegania nadużyciom.
+- **Identyfikator urządzenia (ID)** – unikalny skrót generowany lokalnie przez Oprogramowanie na podstawie identyfikatorów sprzętowych podzespołów; służy do rozpoznawania urządzeń i zapobiegania nadużyciom.
 - **API** – interfejs komunikacyjny między Oprogramowaniem a serwerem Autora; odpowiada za aktualizacje, synchronizację oraz weryfikację licencji Stella Plus.
 - **Honeypot** – mechanizm bezpieczeństwa służący do wykrywania i rejestrowania prób nieautoryzowanego dostępu.
 - **Logi Oprogramowania** – dane diagnostyczne dotyczące działania Oprogramowania; mogą być przesyłane na serwer wyłącznie za zgodą Użytkownika.
-- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej; Oprogramowanie ich nie gromadzi ani nie przetwarza.
+- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej. Wersja darmowa Oprogramowania nie gromadzi danych osobowych (z wyjątkiem adresu IP w celach technicznych). Wersja płatna (Stella Mod Plus) przetwarza dane osobowe subskrybentów zgodnie z Polityką prywatności.
 - **RODO** – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 w sprawie ochrony danych osobowych.
 
 W przypadku braku definicji danego terminu należy interpretować go zgodnie z jego znaczeniem prawnym lub kontekstowym w dokumentacji projektu.

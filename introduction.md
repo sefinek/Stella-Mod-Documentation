@@ -1,14 +1,13 @@
-[//]: # (Title: Wprowadzenie - Stella Mod Documentation)
-[//]: # (Description: Kompletny przewodnik po Genshin Stella Mod. Dowiedz się, jak zainstalować, skonfigurować i bezpiecznie korzystać z modów takich jak ReShade, 3DMigoto i FPS Unlocker, aby ulepszyć grafikę i płynność gry Genshin Impact.)
-[//]: # (Tags: Genshin Stella Mod, Stella Mod Documentation, Instalacja Stella Mod, Konfiguracja Stella Mod, ReShade, 3DMigoto, Odblokowanie FPS, Mody Genshin Impact, Bezpieczne modowanie, Stella Mod Plus)
+[//]: # (Title: Introduction to Stella Mod – Official Documentation)
+[//]: # (Description: Learn everything about Genshin Stella Mod—installation, configuration, ReShade features, FPS unlocking, 3DMigoto integration, safety details, and Stella Mod Plus capabilities. This introduction provides a complete overview of the project.)
+[//]: # (Tags: Genshin Stella Mod, Stella Mod Introduction, Stella Mod Guide, ReShade Genshin Impact, 3DMigoto Genshin, FPS Unlocking, Genshin Modding Guide, Stella Mod Plus, Safe modding, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=introduction)
-[//]: # (Contributors: Sefinek)
 
-# Genshin Stella Mod: Wprowadzenie do dokumentacji
+# Genshin Stella Mod: Introduction to the Documentation
 <div align="center">
-    Zapoznaj się z kompletnym przewodnikiem.
-    Niezależnie od tego, czy dopiero zaczynasz, czy korzystasz z projektu od dawna – ta dokumentacja zawiera wszystkie informacje o instalacji, konfiguracji oraz możliwościach Oprogramowania <b>Genshin Stella Mod</b>.
-    Przeglądaj interesujące Cię sekcje i odkryj, jak <b>Stella Mod</b> może ulepszyć Twoje wrażenia z gry w Genshin Impact.
+    Explore the complete guide.  
+    Whether you're just getting started or have been using the project for a long time, this documentation includes everything you need to know about installation, configuration, and the capabilities of the <b>Genshin Stella Mod</b> Software.  
+    Browse the sections that interest you and discover how <b>Stella Mod</b> can enhance your Genshin Impact experience.
 </div>
 <br>
 
@@ -19,64 +18,58 @@
     </div>
 </div>
 
-## Definicje <!-- {#definitions} -->
-Poniższe definicje stosuje się we wszystkich dokumentach projektu **Genshin Stella Mod**, w tym w **EULA**, **Polityce prywatności** i innych materiałach powiązanych.
+## Definitions <!-- {#definitions} -->
+The following definitions apply to all documents within the **Genshin Stella Mod** project, including the **EULA**, **Privacy Policy**, and related materials.
 
-- **Oprogramowanie** – Genshin Stella Mod oraz wszystkie jego komponenty, pliki binarne, biblioteki, moduły, skrypty i zasoby potrzebne do działania.
-- **Launcher** – aplikacja służąca do uruchamiania, konfiguracji i aktualizacji Oprogramowania, a także do komunikacji z serwerem API Autora.
-- **Użytkownik** – osoba fizyczna lub prawna, która instaluje lub korzysta z Oprogramowania.
-- **Autor** – Sefinek; właściciel praw autorskich, twórca i licencjodawca Oprogramowania.
-- **Licencja** – umowa regulująca zasady korzystania z Oprogramowania (EULA).
-- **Serwer prywatny** – infrastruktura należąca do Autora, zlokalizowana fizycznie w Polsce, bez wykorzystania usług chmurowych.
-- **Dane techniczne** – informacje generowane przez Oprogramowanie w celach diagnostycznych lub statystycznych (np. ID urządzenia, logi, dane o konfiguracji).
-- **Identyfikator urządzenia (ID)** – unikalny skrót generowany lokalnie przez Oprogramowanie na podstawie identyfikatorów sprzętowych podzespołów; służy do rozpoznawania urządzeń i zapobiegania nadużyciom.
-- **API** – interfejs komunikacyjny między Oprogramowaniem a serwerem Autora; odpowiada za aktualizacje, synchronizację oraz weryfikację licencji Stella Plus.
-- **Honeypot** – mechanizm bezpieczeństwa służący do wykrywania i rejestrowania prób nieautoryzowanego dostępu.
-- **Logi Oprogramowania** – dane diagnostyczne dotyczące działania Oprogramowania; mogą być przesyłane na serwer wyłącznie za zgodą Użytkownika.
-- **Dane osobowe** – informacje umożliwiające identyfikację osoby fizycznej. Wersja darmowa Oprogramowania nie gromadzi danych osobowych (z wyjątkiem adresu IP w celach technicznych). Wersja płatna (Stella Mod Plus) przetwarza dane osobowe subskrybentów zgodnie z Polityką prywatności.
-- **RODO** – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 w sprawie ochrony danych osobowych.
+- **Software** – Genshin Stella Mod and all its components, binaries, libraries, modules, scripts, and resources required for operation.
+- **Launcher** – the application used to run, configure, and update the Software, as well as communicate with the Author's API server.
+- **User** – a natural or legal person who installs or uses the Software.
+- **Author** – Sefinek; the copyright holder, creator, and licensor of the Software.
+- **License** – the agreement governing the terms of using the Software (EULA).
+- **Private Server** – infrastructure owned by the Author, physically located in Poland, without the use of cloud services.
+- **Technical Data** – information generated by the Software for diagnostic or statistical purposes (e.g., device ID, logs, configuration data).
+- **Device Identifier (ID)** – a unique hash generated locally by the Software based on hardware identifiers; used to recognize devices and prevent misuse.
+- **API** – a communication interface between the Software and the Author's server; responsible for updates, synchronization, and Stella Plus license verification.
+- **Honeypot** – a security mechanism used to detect and log unauthorized access attempts.
+- **Software Logs** – diagnostic data about the Software's operation; may be sent to the server only with the User's consent.
+- **Personal Data** – information that can identify a natural person. The free version of the Software does not collect personal data (except for the IP address for technical purposes). The paid version (Stella Mod Plus) processes subscribers' personal data in accordance with the Privacy Policy.
+- **GDPR** – Regulation (EU) 2016/679 on personal data protection.
 
-W przypadku braku definicji danego terminu należy interpretować go zgodnie z jego znaczeniem prawnym lub kontekstowym w dokumentacji projektu.
+If a term is not defined, it should be interpreted according to its legal meaning or contextual usage within project documentation.
 
+### Emoji Legend <!-- {#emoji-legend} -->
+| Emoji                         | <div align="left">Meaning</div> | Emoji                        | <div align="left">Meaning</div> | Emoji                       | <div align="left">Meaning</div> |
+|-------------------------------|---------------------------------|:-----------------------------|:--------------------------------|:----------------------------|:--------------------------------|
+| <div align="center">✔️</div>  | Yes / Supported                 | <div align="center">❌️</div> | No / Unsupported                | <div align="center">❓</div> | Uncertain                       |
+| <div align="center">🎯️</div> | Not supported by default        | <div align="center">🤔</div> | Untested                        |                             |                                 |
 
-### Znaczenie emoji <!-- {#emoji-legend} -->
-| Emoji                         | <div align="left">Znaczenie</div> | Emoji                        | <div align="left">Znaczenie</div> | Emoji                       | <div align="left">Znaczenie</div> |
-|-------------------------------|-----------------------------------|:-----------------------------|:----------------------------------|:----------------------------|:----------------------------------|
-| <div align="center">✔️</div>  | Tak / Obsługiwane                 | <div align="center">❌️</div> | Nie / Nieobsługiwane              | <div align="center">❓</div> | Niepewne                          |
-| <div align="center">🎯️</div> | Domyślnie nieobsługiwane          | <div align="center">🤔</div> | Nieprzetestowane                  |                             |                                   |
+## What Is the Stella Mod Launcher? <!-- {#what-is-sml} -->
+It is the official **Launcher** for running the **Genshin Stella Mod** Software.  
+It is written in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) platform.  
+The Launcher allows the User to download Software updates.  
+Security is a top priority, so the distribution system is designed to ensure file integrity and protect User data.
 
+## What Is Genshin Stella Mod? <!-- {#what-is-gsm} -->
+**Genshin Stella Mod** is a carefully crafted suite of mods designed to enhance the **Genshin Impact** gameplay experience.
 
+- It offers a wide range of filters and presets — from colorful and dynamic to realistic and cinematic. Every effect can be customized using the **ReShade** overlay.
+- One of its key features is the **FPS unlock**, allowing smoother gameplay, especially on high-refresh-rate monitors.
+- **Stella Mod Plus** subscribers gain access to additional features, including **3DMigoto** integration, enabling character model modifications and many other visual enhancements.
 
-## Czym jest Stella Mod Launcher? <!-- {#what-is-sml} -->
-To oficjalny **Launcher** uruchamiający Oprogramowanie **Genshin Stella Mod**. Został on napisany w języku [C#](https://learn.microsoft.com/dotnet/csharp) przy użyciu platformy [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
-Launcher umożliwia Użytkownikowi pobieranie aktualizacji Oprogramowania.
-Priorytetem jest **bezpieczeństwo**, dlatego system dystrybucji został zaprojektowany tak, aby zapewnić integralność plików oraz ochronę danych Użytkownika.
+The project is continuously developed — the Author maintains updates, optimizations, and technical support for all Users.
 
+## Is Stella Mod Safe? <!-- {#is-it-safe} -->
+**Yes, completely.**  
+The Software is designed **not to modify original game files**. It operates in a separate layer, enhancing visuals and performance without altering the game's files.  
+This ensures the gameplay remains intact and the original game code preserves full integrity.
 
-## Czym jest Genshin Stella Mod? <!-- {#what-is-gsm} -->
-**Genshin Stella Mod** to starannie opracowany zestaw modów, mających na celu ulepszenie wrażeń z gry **Genshin Impact**.
-- Oferuje szeroki wybór filtrów, presetów – od kolorowych i dynamicznych po realistyczne i filmowe. Każdy efekt można dostosować za pomocą nakładki **ReShade**.
-- Jedną z kluczowych funkcji jest również **odblokowanie limitu FPS**, co umożliwia płynniejszą rozgrywkę, szczególnie na monitorach o wysokiej częstotliwości odświeżania.
-- Dla subskrybentów **Stella Mod Plus** dostępne są dodatkowe funkcje, w tym integracja z **3DMigoto**, która pozwala na modyfikacje modeli postaci i wiele innych opcji wizualnych.
+## Is HoYoverse Involved? <!-- {#hoyoverse-affiliation} -->
+No. The **Genshin Stella Mod** project is not affiliated with **miHoYo**, **COGNOSPHERE**, or **HoYoverse** in any way.  
+All trademarks and copyrights belong to their respective owners.
 
-Projekt jest stale rozwijany – Autor dba o aktualizacje, optymalizację i wsparcie techniczne dla wszystkich Użytkowników Oprogramowania.
+## Help Improve the Genshin Stella Mod Documentation <!-- {#contributing} -->
+Want to help improve this documentation? You can do so by submitting a [Pull Request](https://github.com/sefinek/Stella-Mod-Documentation/pulls) on GitHub.  
+Any contribution — from fixing typos to adding new sections — is appreciated. We aim to make the documentation as friendly and complete as possible.
 
-
-## Czy Stella Mod jest bezpieczny? <!-- {#is-it-safe} -->
-**Tak, całkowicie.**
-Oprogramowanie zostało zaprojektowane tak, aby **nie modyfikować oryginalnych plików gry**. Działa w niezależnej warstwie, poprawiając efekty wizualne i wydajność bez ingerencji w pliki gry.
-Dzięki temu rozgrywka pozostaje nienaruszona, a oryginalny kod gry zachowuje pełną integralność.
-
-
-## Czy HoYoverse ma z tym coś wspólnego? <!-- {#hoyoverse-affiliation} -->
-Nie. Projekt **Genshin Stella Mod** nie jest w jakikolwiek sposób powiązany z **miHoYo**, **COGNOSPHERE**, **HoYoverse**.
-Wszystkie znaki towarowe i prawa autorskie należą do ich właścicieli.
-
-
-## Pomóż ulepszyć dokumentację Genshin Stella Mod <!-- {#contributing} -->
-Chcesz pomóc w ulepszaniu tej dokumentacji? Możesz to zrobić, wysyłając [Pull Request](https://github.com/sefinek/Stella-Mod-Documentation/pulls) na GitHub.
-Każda poprawka – od korekty błędów po dodanie nowych sekcji – jest mile widziana. Doceniamy każdą pomoc i dążymy do tego, by dokumentacja była jak najbardziej przyjazna i kompletna.
-
-
-## Do zobaczenia w Stella Mod <!-- {#closing-note} -->
-Dziękujemy za zainteresowanie **Genshin Stella Mod**! Jesteśmy pewni, że docenisz ulepszoną grafikę i bardziej immersyjne doświadczenie w świecie **Teyvat**. Miłego dnia!
+## See You in Stella Mod <!-- {#closing-note} -->
+Thank you for your interest in **Genshin Stella Mod**! We are confident that you will enjoy the enhanced graphics and more immersive experience in the world of **Teyvat**. Have a wonderful day!

@@ -1,25 +1,24 @@
-[//]: # (Title: Wsparcie - Stella Mod Documentation)
-[//]: # (Description: Potrzebujesz pomocy z Genshin Stella Mod? Sprawdź, jak uzyskać wsparcie dotyczące ReShade, 3DMigoto i odblokowania FPS. Skontaktuj się z autorem Sefinek, zgłoś problem lub dołącz do społeczności na Discordzie.)
-[//]: # (Tags: Wsparcie Stella Mod, Pomoc Genshin Stella Mod, Kontakt Sefinek, ReShade pomoc, 3DMigoto wsparcie, FPS Unlocker Genshin Impact, Discord Stella Mod, GitHub Stella Mod, Stella Mod Documentation, Rozwiązywanie problemów)
+[//]: # (Title: Support - Stella Mod Documentation)
+[//]: # (Description: Get support for the Genshin Stella Mod, including troubleshooting for ReShade, 3DMigoto, FPS Unlocker, and launcher-related issues. Learn how to contact the author Sefinek, report technical problems, and access community assistance.)
+[//]: # (Tags: Stella Mod Support, Genshin Stella Mod Help, ReShade Troubleshooting, 3DMigoto Support, FPS Unlocker Genshin Impact, Contact Sefinek, Stella Mod Discord, Stella Mod GitHub, Troubleshooting Guide, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=support)
-[//]: # (Contributors: Sefinek)
 
-# Genshin Stella Mod - Gdzie uzyskać wsparcie? <!-- {#support-overview} -->
-Jeśli napotkasz problemy z Oprogramowaniem, dostępnych jest kilka sposobów uzyskania pomocy:
+# Genshin Stella Mod – Where to Get Support? <!-- {#support-overview} -->
+If you encounter issues with the Software, there are several ways to get help:
 
-## Kontakt z Autorem <!-- {#contact-developer} -->
-1. **Centrum Patronów Sefinek:** [Utwórz nowe zgłoszenie](https://patrons.sefinek.net/tickets) (zalecane)
+## Contact the Author <!-- {#contact-developer} -->
+1. **Sefinek Patron Center:** [Create a new ticket](https://patrons.sefinek.net/tickets) (recommended)
 2. **Discord:** sefinek
-3. **E-mail:** [contact@sefinek.net](mailto:contact@sefinek.net) (w sprawach biznesowych)
+3. **Email:** [contact@sefinek.net](mailto:contact@sefinek.net) (for business inquiries)
 
-Nie zgłaszaj problemów w [Issues](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) na GitHubie.
+Do not report issues in the GitHub [Issues](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) section.
 
-## Obsługiwane języki <!-- {#supported-languages} -->
-Możesz pisać wiadomości i e-maile w języku polskim lub angielskim.
+## Supported Languages <!-- {#supported-languages} -->
+You may write messages and emails in Polish or English.
 
-## Przydatne linki <!-- {#urls} -->
-- [Dołącz do naszego serwera Discord](https://discord.com/invite/k2wfGRq4dT)
-- [Przeczytaj oficjalną dokumentację](https://sefinek.net/genshin-stella-mod/docs)
+## Useful Links <!-- {#urls} -->
+- [Join our Discord server](https://discord.com/invite/k2wfGRq4dT)
+- [Read the official documentation](https://sefinek.net/genshin-stella-mod/docs)
 
 <br>
-Pamiętaj, że wsparcie techniczne dotyczy wyłącznie Oprogramowania. Uprzejmie prosimy, aby nie zgłaszać próśb o pomoc w przypadku innych modów.
+Please remember that technical support applies only to the Software. We kindly ask you not to request help regarding other mods.

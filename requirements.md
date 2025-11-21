@@ -1,6 +1,6 @@
 [//]: # (Title: Stella Mod Requirements - Stella Mod Documentation)
-[//]: # (Description: Sprawdź wymagania i funkcje Stella Mod dla Genshin Impact. Dowiedz się, jakie systemy są wspierane oraz jak uzyskać lepszą grafikę, płynność i stabilność gry dzięki ReShade i FPS Unlocker.)
-[//]: # (Tags: Stella Mod Requirements, Genshin Impact, Stella Mod, FPS Unlocker, ReShade, Wymagania systemowe, Optymalizacja gry, Ulepszenie grafiki, Stella Mod Plus, Stella Mod Documentation)
+[//]: # (Description: Detailed system requirements and key features of Stella Mod for Genshin Impact. Learn which operating systems are supported, what dependencies are needed, and how to improve graphics, stability, and performance using ReShade, 3DMigoto, and the FPS Unlocker.)
+[//]: # (Tags: Stella Mod Requirements, System Requirements, Genshin Impact Mod, Stella Mod, ReShade, FPS Unlocker, Game Optimization, Graphics Enhancement, Compatibility, Stella Mod Plus, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=requirements)
 [//]: # (Contributors: Sefinek)
 
@@ -28,17 +28,16 @@
 
 | 🗝️ Your PC & Network                       | 📂 Dependencies                                                                                                                   |
 |:--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| **OS:** Windows x64 (build 19041 or higher) | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) (required for Stella Mod Plus subscribers) |
-| **CPU:** 64-bit processor                   | [.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (not required)                                 |
-| **GPU:** Latest drivers, DirectX 11 support | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                  |
+| **OS:** Windows x64 (build 19041 or higher) | [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2)                                  |
+| **CPU:** 64-bit processor                   | [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) (required for Stella Mod Plus subscribers) |
+| **GPU:** Latest drivers, DirectX 11 support |                                                                                                                                   |
 | **Disk:** At least 3 GB of free disk space  |                                                                                                                                   |
-| **BIOS:** UEFI mode enabled                 |                                                                                                                                   |
 
 
 ## Supported Operating Systems <!-- {#supported-operating-systems} -->
 | 🌌 System       | 🔖 Version | 🙀 Status                                                                        | 🤔 Recommended?                                                                  |
 |-----------------|:-----------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-| Windows 11      | 24H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) |
+| Windows 11      | 25H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) |
 | Windows 10      | 22H2       | [✔️](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend) | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
 | Windows 8 / 8.1 |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
 | Windows 7       |            | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | [❌](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)  | 
@@ -70,7 +69,7 @@ Adjust them according to our recommendations, considering your device's capabili
 | **Anti-Aliasing**                | SMAA (Use FSR 2 if you have low FPS) |
 | **Volumetric Fog**               | On                                   |
 | **Reflections**                  | On                                   |
-| **Motion Blur**                  | Medium                               |
+| **Motion Blur**                  | Medium or Off                        |
 | **Bloom**                        | On                                   |
 | **Crowd Density**                | High                                 |
 | **Co-Op Teammates Effects**      | On                                   |

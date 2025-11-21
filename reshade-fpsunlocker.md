@@ -1,26 +1,27 @@
-[//]: # (Title: ReShade i odblokowanie FPS - Stella Mod Documentation)
-[//]: # (Description: Dowiedz się, jak ReShade poprawia jakość grafiki w Genshin Impact oraz jak odblokowanie FPS zwiększa płynność rozgrywki. Poznaj zalety, ryzyka i praktyczne wskazówki dotyczące optymalizacji gry przy użyciu Stella Mod.)
-[//]: # (Tags: ReShade Genshin Impact, Odblokowanie FPS Genshin, FPS Unlocker, Poprawa grafiki Genshin Impact, Optymalizacja gry, Płynniejsza rozgrywka, FPS boost, Frame rate unlocker, Mody Genshin Impact, Stella Mod Documentation)
+[//]: # (Title: ReShade & FPS Unlocking Explained – Stella Mod Documentation)
+[//]: # (Description: Learn how ReShade enhances Genshin Impact's visuals and how FPS unlocking improves gameplay smoothness. Explore benefits, risks, performance considerations, and optimization tips using Stella Mod.)
+[//]: # (Tags: ReShade Genshin Impact, FPS Unlocker Genshin, Genshin FPS Unlocking, Genshin graphics enhancement, ReShade guide, Frame rate unlocker, High refresh rate gaming, Genshin optimization, Stella Mod Documentation, Performance tips)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=reshade-fpsunlocker)
-[//]: # (Contributors: Sefinek)
 
-# Zrozumienie działania ReShade i odblokowania FPS
+# Understanding ReShade and FPS Unlocking
 
-## Czym jest ReShade? <!-- {#reshade} -->
-ReShade to narzędzie do postprocessingu, które pozwala Użytkownikowi nakładać różnorodne efekty wizualne w grach, takie jak głębia ostrości, bloom czy korekcja kolorów.
-Działa poprzez wstrzykiwanie kodu w proces renderowania gry, umożliwiając stosowanie efektów w czasie rzeczywistym.
-Wciśnij klawisz `Home` w grze, aby otworzyć menu i tworzyć własne presety!
+## What Is ReShade? <!-- {#reshade} -->
+ReShade is a post-processing tool that allows the User to apply various visual effects in games, such as depth of field, bloom, or color correction.  
+It works by injecting code into the game's rendering process, enabling real-time visual effects.  
+Press the `Home` key in-game to open the menu and create your own presets!
 
-## Czym jest odblokowanie FPS? <!-- {#fps-unlocking} -->
-Odblokowanie FPS w grach wideo może znacząco poprawić komfort rozgrywki, zapewniając większą płynność animacji i mniejsze opóźnienia reakcji.
-Przed użyciem narzędzia do odblokowania FPS warto jednak rozważyć kilka istotnych czynników.
+## What Is FPS Unlocking? <!-- {#fps-unlocking} -->
+Unlocking FPS in video games can significantly improve the gameplay experience by providing smoother animations and reducing input latency.  
+However, before using an FPS unlocker, it's important to consider several factors.
 
-### Na czym polega odblokowanie FPS <!-- {#about-fps-unlocking} -->
-Odblokowanie FPS polega na usunięciu sztucznego limitu liczby klatek.
-Domyślnie większość gier ma ograniczenie FPS narzucone przez ich twórców, m.in. ze względu na kompatybilność.
+### How FPS Unlocking Works <!-- {#about-fps-unlocking} -->
+FPS unlocking removes the artificial frame rate limit.  
+By default, most games include a built-in FPS cap imposed by the developers, often for compatibility reasons.
 
-### Co warto wiedzieć przed odblokowaniem FPS <!-- {#fps-unlocking-considerations} -->
-1. Jeśli Twój monitor ma niskie odświeżanie (np. 60Hz), odblokowanie FPS nie przyniesie żadnej poprawy płynności, a może jedynie zwiększyć temperatury podzespołów. W takich przypadkach nie korzystaj z FPS Unlockera.
-  Z kolei posiadacze monitorów o wyższej częstotliwości odświeżania (np. 120Hz lub 165Hz) mogą odczuć znaczną poprawę płynności i responsywności gry.
+### What to Know Before Unlocking FPS <!-- {#fps-unlocking-considerations} -->
+1. If your monitor has a low refresh rate (e.g., 60Hz), unlocking FPS will not improve smoothness and may only increase hardware temperatures.  
+   In such cases, do not use an FPS Unlocker.  
+   On the other hand, users with high-refresh-rate monitors (e.g., 120Hz or 165Hz) may notice a significant improvement in smoothness and responsiveness.
 
-2. Uruchamianie gier z wyższą liczbą klatek na sekundę zwiększa obciążenie karty graficznej, co może skutkować wyższymi temperaturami. Nie ma sensu ustawiać limitu 500 FPS na monitorze 165Hz.
+2. Running games at higher frame rates increases GPU load, which may result in higher temperatures.  
+   There is no reason to set a 500 FPS limit on a 165Hz monitor.

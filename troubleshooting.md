@@ -1,8 +1,7 @@
 [//]: # (Title: Troubleshooting - Stella Mod Documentation)
-[//]: # (Description: Help with resolving the most common issues related to Genshin Stella Mod.)
-[//]: # (Tags: Genshin Stella Mod, Troubleshooting, 3DMigoto, FPS Unlocker, Technical issues, Stella Mod support, Genshin Impact modifications)
+[//]: # (Description: Assistance with resolving the most common issues related to Genshin Stella Mod, including 3DMigoto, the FPS Unlocker, and other frequently reported technical problems.)
+[//]: # (Tags: Stella Mod, Genshin Impact Mod, Troubleshooting, 3DMigoto, FPS Unlocker, Technical Issues, Stella Mod Support, Genshin Impact Modifications)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=troubleshooting)
-[//]: # (Contributors: Sefinek)
 
 # Troubleshooting Genshin Stella Mod
 

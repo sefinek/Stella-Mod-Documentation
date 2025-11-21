@@ -1,8 +1,7 @@
-[//]: # (Title: Starsze wersje - Stella Mod Documentation)
-[//]: # (Description: Przegląd archiwalnych wersji Stella Mod dla Genshin Impact. Zobacz changelogi dla wydań v7.x.x–v3.x.x i dowiedz się, dlaczego aktualizacja do najnowszej wersji jest kluczowa dla bezpieczeństwa i stabilności.)
-[//]: # (Tags: Stella Mod, Starsze wersje, Archiwum Stella Mod, Genshin Impact Mod, Changelog, Historia wydań, Aktualizacje Stella Mod, Kompatybilność, Stella Mod Documentation, Bezpieczeństwo)
+[//]: # (Title: Older Versions – Stella Mod Documentation)
+[//]: # (Description: Overview of archived Stella Mod releases for Genshin Impact. Explore full changelogs for versions v7.x.x–v3.x.x and learn why updating to the latest release is essential for security, compatibility, and overall stability.)
+[//]: # (Tags: Stella Mod, Older Versions, Release Archive, Genshin Impact Mod, Changelog, Version History, Updates, Compatibility, Stella Mod Documentation, Security)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=deprecated-releases)
-[//]: # (Contributors: Sefinek)
 
 # Outdated Stella Mod Versions – Complete Changelog <!-- {#deprecated-releases} -->
 Releases older than `v8.x.x` are considered outdated and should no longer be used by Users. You can find changelogs for previous versions at the links below:

@@ -1,6 +1,6 @@
-[//]: # (Title: Privacy Policy - Stella Mod Documentation)
-[//]: # (Description: Learn about data protection principles in Genshin Stella Mod. Find out how the software protects your privacy. It never collects any personal data. It always ensures safety.)
-[//]: # (Tags: Privacy Policy, Data Protection, Genshin Stella Mod, User Privacy, Data Security, API v8, Honeypot, Application Logs, GDPR, Stella Mod Documentation, Secure Software)
+[//]: # (Title: Privacy Policy & Data Security – Stella Mod Documentation)
+[//]: # (Description: Learn how Genshin Stella Mod handles data, protects user privacy, and ensures secure processing. This Privacy Policy explains technical data collection, Stella Mod Plus subscriber data, logs, GDPR rights, and API security.)
+[//]: # (Tags: Privacy Policy, Stella Mod Privacy, Data Security, GDPR Compliance, Technical Data, Device ID, API Security, Honeypot System, Stella Mod Plus, User Data Protection, Secure Software, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=privacy-policy)
 
 # Privacy Policy and Data Security <!-- {#privacy-overview} -->
@@ -8,7 +8,7 @@ The Software is designed with full respect for User privacy. Your privacy is our
 
 ## What Data Do We Collect? <!-- {#what-data-we-collect} -->
 
-### Technical Data (collected automatically)
+### Technical Data (collected automatically) <!-- {#technical-data} -->
 The Software automatically collects and sends the following technical data to the Author’s server:
 1. **Device Identifier (Device ID)** – a unique hash generated based on the hardware identifiers of the computer. It is used for license verification, anonymous statistics, and abuse prevention.
 2. **Hardware Identifiers** – to verify the device and prevent misuse, the following are collected:
@@ -22,7 +22,7 @@ The Software automatically collects and sends the following technical data to th
 
 All data is **encrypted using cryptography** before being sent to the server.
 
-### Data for Stella Mod Plus Subscribers
+### Data for Stella Mod Plus Subscribers <!-- {#plus-subscribers} -->
 If the User has an active Stella Mod Plus subscription, additional data is collected:
 1. **Account data** – email address, username.
 2. **User avatar**:
@@ -44,25 +44,25 @@ Genshin Stella Mod servers automatically log basic information about backend req
 - **HTTP client information (User-Agent only)**: `Mozilla/5.0 (compatible; StellaLauncher/X.Y.Z.W; +https://stella.sefinek.net)`,
 - **server response status**.
 
-#### Purpose of processing:
+#### Purpose of processing: <!-- {#ip-purpose} -->
 This data is logged exclusively for:
 - ensuring infrastructure security and stability,
 - protecting against abuse and attacks (e.g., DDoS, brute-force, flooding),
 - diagnosing technical issues,
 - system performance analysis and anonymous technical statistics.
 
-#### Legal basis:
+#### Legal basis: <!-- {#ip-legal-basis} -->
 The legal basis for processing the IP address is **Article 6(1)(f) GDPR** — the Administrator’s legitimate interest in ensuring the security and correct functioning of the service.
 
-#### Retention period:
+#### Retention period: <!-- {#ip-retention} -->
 Log data is stored **temporarily**, usually no longer than **2 years**, unless longer retention is required due to security incidents or violation investigations.
 
-#### Scope and access:
+#### Scope and access: <!-- {#ip-access} -->
 Only the Author has access to the logs. The data is not shared with third parties unless required by law (e.g., upon request by law enforcement).  
 All data is stored on a private server in Poland, without the use of cloud services or external VPS/dedicated servers.  
 No other external entity has access to it.
 
-### Do We Collect Personal Data?
+### Do We Collect Personal Data? <!-- {#personal-data} -->
 - **Free version**: The Software **does not collect personal data** during normal use. The Device ID alone cannot identify a specific person.  
   However, an **IP address** can be considered personal data under the GDPR, and is therefore processed only for the technical purposes described above.
 - **Stella Mod Plus**: With an active subscription, the following personal data is collected:
@@ -83,7 +83,7 @@ The Software **does not use cookies or analytics tools** to track User behavior.
 The Software may periodically ask whether the User wants to send Software Logs to the Author’s server.  
 This decision belongs **solely to the User** and **does not affect the functionality** of the Software.
 
-### What Is Sent When Logs Are Submitted?
+### What Is Sent When Logs Are Submitted? <!-- {#logs-content} -->
 If the User agrees to submit logs, the server will receive an encrypted and secured ZIP archive containing:
 1. the Software’s log files,
 2. Device ID,
@@ -93,7 +93,7 @@ If the User agrees to submit logs, the server will receive an encrypted and secu
 6. hardware specifications (CPU, RAM, GPU, disks, BIOS, battery),
 7. network information, including both private and public IP addresses and other connection details.
 
-### Additional Information
+### Additional Information <!-- {#logs-additional-info} -->
 - Software Logs are strictly for diagnostic purposes. Their submission may help identify issues or bugs, but the decision to review them lies entirely with the Author.
 - The Author is not obliged to review or analyze logs. Logs may be reviewed at the Author’s discretion or whim if considered useful at a given moment. Most submitted logs are never analyzed or checked.
 - Logs are not used for any other purpose. In particular, they are not used for profiling, marketing, or user behavior analysis.

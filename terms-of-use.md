@@ -62,12 +62,12 @@
 2. Violating the Terms, EULA, or other project documents may result in:
    - a) temporary or permanent loss of access to the Software,
    - b) cancellation of the subscription without the right to a refund,
-   - c) banning the User’s account.
+   - c) banning the User's account.
 3. The Author is not responsible for damages resulting from unauthorized use, incorrect configuration, or unlawful modifications of the Software.
 
 ## §6. FINAL PROVISIONS <!-- {#final-provisions} -->
 1. The Author may suspend, limit, or discontinue providing online services at any time, including license verification functions.
-2. Any disputes arising from the use of the Software will be resolved by the court with jurisdiction over the Author’s place of business.
+2. Any disputes arising from the use of the Software will be resolved by the court with jurisdiction over the Author's place of business.
 3. The current version of these Terms is always available at:  
    https://stella.sefinek.net/docs?page=terms-of-use
 

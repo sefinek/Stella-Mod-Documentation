@@ -7,7 +7,7 @@
 <div align="center">
     Explore the complete guide.  
     Whether you're just getting started or have been using the project for a long time, this documentation includes everything you need to know about installation, configuration, and the capabilities of the <b>Genshin Stella Mod</b> Software.  
-    Browse the sections that interest you and discover how <b>Stella Mod</b> can enhance your Genshin Impact experience.
+    Browse the sections that interest you and discover how Stella Mod can enhance your Genshin Impact experience.
 </div>
 <br>
 
@@ -44,10 +44,8 @@ If a term is not defined, it should be interpreted according to its legal meanin
 | <div align="center">🎯️</div> | Not supported by default        | <div align="center">🤔</div> | Untested                        |                             |                                 |
 
 ## What Is the Stella Mod Launcher? <!-- {#what-is-sml} -->
-It is the official **Launcher** for running the **Genshin Stella Mod** Software.  
-It is written in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) platform.  
-The Launcher allows the User to download Software updates.  
-Security is a top priority, so the distribution system is designed to ensure file integrity and protect User data.
+It is the official **Launcher** for running the **Genshin Stella Mod** Software. It is written in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) platform.  
+The Launcher allows the User to download Software updates. Security is a top priority, so the distribution system is designed to ensure file integrity and protect User data.
 
 ## What Is Genshin Stella Mod? <!-- {#what-is-gsm} -->
 **Genshin Stella Mod** is a carefully crafted suite of mods designed to enhance the **Genshin Impact** gameplay experience.

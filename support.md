@@ -11,7 +11,7 @@ If you encounter issues with the Software, there are several ways to get help:
 2. **Discord:** sefinek
 3. **Email:** [contact@sefinek.net](mailto:contact@sefinek.net) (for business inquiries)
 
-Do not report issues in the GitHub [Issues](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) section.
+Do not report issues in the [GitHub Issues](https://github.com/sefinek/Genshin-Impact-ReShade/issues/new) section.
 
 ## Supported Languages <!-- {#supported-languages} -->
 You may write messages and emails in Polish or English.

@@ -1,68 +1,65 @@
 [//]: # (Title: FAQ - Stella Mod Documentation)
-[//]: # (Description: Najczęściej zadawane pytania o Genshin Stella Mod. Dowiedz się, jak bezpiecznie korzystać z ReShade, 3DMigoto i odblokowania FPS, czym jest Trust Factor i jak rozpocząć przygodę ze Stella Mod.)
-[//]: # (Tags: Stella Mod FAQ, Genshin Stella Mod, ReShade, Odblokowanie FPS, 3DMigoto, Bezpieczeństwo Stella Mod, Trust Factor, Subskrypcja Stella Mod Plus, Launcher, Wsparcie techniczne, Stella Mod Documentation)
+[//]: # (Description: Frequently asked questions about Genshin Stella Mod. Learn how to safely use ReShade, 3DMigoto, and FPS unlock, what Trust Factor is, and how to get started with Stella Mod.)
+[//]: # (Tags: Stella Mod FAQ, Genshin Stella Mod, ReShade, FPS Unlock, 3DMigoto, Stella Mod Safety, Trust Factor, Stella Mod Plus Subscription, Launcher, Technical Support, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=faq)
 
-# Stella Mod – Najczęściej zadawane pytania (FAQ)
+# Stella Mod – Frequently Asked Questions (FAQ)
 
-## Czym jest Genshin Stella Mod? <!-- {#what-is-genshin-gsm} -->
-Genshin Stella Mod to zestaw modyfikacji wprowadzających różne ulepszenia do gry Genshin Impact.
-Pozwala między innymi na odblokowanie limitu FPS, poprawę jakości grafiki przy użyciu ReShade oraz używanie modów w grze z wykorzystaniem 3DMigoto (np. podmiana modeli postaci).
+## What is Genshin Stella Mod? <!-- {#what-is-gsm} -->
+Genshin Stella Mod is a set of modifications that introduce various enhancements to Genshin Impact.
+It allows, among other things, unlocking the FPS limit, improving graphics quality using ReShade, and using mods in the game with 3DMigoto (e.g., character model swaps).
 
-## Czy Stella Mod jest bezpieczny? <!-- {#is-stella-mod-safe} -->
-Tak, jest całkowicie bezpieczny, o ile Użytkownik przestrzega zasad <a href="https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use">Terms of use</a>, oraz tych określonych w <a href="/genshin-stella-mod/docs?page=license_stella">Licencji (EULA)</a>.
-Społeczność Stella Mod jest duża – Oprogramowanie zostało pobrane już ponad 30,000 razy. Dołącz na nasz <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">serwer Discord</a>, aby uzyskać pomoc.
+## Is Stella Mod safe? <!-- {#is-stella-mod-safe} -->
+Yes, it is completely safe as long as the User follows the <a href="https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use">Terms of Use</a> and those specified in the <a href="/genshin-stella-mod/docs?page=license_stella">License (EULA)</a>.
+The Stella Mod community is large – the Software has been downloaded over 30,000 times. Join our <a href="https://sefinek.net/genshin-stella-mod/docs?page=support">Discord server</a> to get help.
 
-## Czy mogę grać online z użyciem Stella Mod? <!-- {#can-i-play-online} -->
-Tak, możesz grać online. Oprogramowanie działa w sposób bezpieczny i nie ingeruje w pliki gry.
+## Can I play online using Stella Mod? <!-- {#can-i-play-online} -->
+Yes, you can play online. The Software operates safely and does not modify game files.
 
-## Czy mogę nagrywać filmy z użyciem Stella Mod (np. na YouTube)? <!-- {#can-i-record-videos} -->
-Tak, możesz nagrywać rozgrywkę z użyciem Genshin Stella Mod i publikować materiały wideo, jeśli masz na to ochotę. To w pełni zależy od Ciebie.
+## Can I record videos using Stella Mod (e.g., for YouTube)? <!-- {#can-i-record-videos} -->
+Yes, you can record gameplay using Genshin Stella Mod and publish video content if you wish. It's entirely up to you.
 
-## Czy Stella Mod korzysta z GIMI? <!-- {#gimi} -->
-Nie. GIMI to stary, niezależny fork 3DMigoto, niepowiązany z projektem Genshin Stella Mod.
+## Does Stella Mod use GIMI? <!-- {#gimi} -->
+No. GIMI is an old, independent fork of 3DMigoto, unrelated to the Genshin Stella Mod project.
 
-## Ktoś prosi mnie o hasło do konta gry. Co robić? <!-- {#password-security} -->
-Nigdy nie udostępniaj swojego hasła nikomu, niezależnie od powodu. Istnieje bardzo duże ryzyko, że osoba ta próbuje Cię oszukać.
-Zespół Stella Mod ani Autor nigdy nie prosi o hasła i nie kontaktuje się w celu uzyskania dostępu do Twojego konta.
+## Someone is asking for my game account password. What should I do? <!-- {#password-security} -->
+Never share your password with anyone, regardless of the reason. There is a very high risk that the person is trying to scam you.
+The Stella Mod team and the Author never ask for passwords and do not contact you to gain access to your account.
 
-## Ktoś proponuje pomoc przez TeamViewer lub AnyDesk. Czy mogę zaufać? <!-- {#remote-assistance} -->
-Upewnij się, że osoba oferująca pomoc jest rzeczywiście członkiem zespołu Stella Mod.
-Autor nie udziela zdalnej pomocy poza oficjalnymi kanałami, takimi jak Discord.
-Przyznanie nieznanej osobie zdalnego dostępu do komputera może prowadzić do kradzieży danych, naruszenia prywatności lub innych zagrożeń.
+## Someone offers help via TeamViewer or AnyDesk. Can I trust them? <!-- {#remote-assistance} -->
+Make sure the person offering help is actually a member of the Stella Mod team. The Author does not provide remote assistance outside of official channels, such as Sefinek Patron Center and Discord.
+Granting remote access to your computer to an unknown person can lead to data theft, privacy violations, or other threats.
 
-## Ktoś oferuje płatną pomoc związaną ze Stella Mod. Czy warto się zgodzić? <!-- {#paid-help-warning} -->
-Nie. Nigdy nie płać nikomu za wsparcie techniczne. Autor nie pobiera żadnych opłat za udzielanie porad dotyczących korzystania z Oprogramowania.
-Płatna pomoc nie istnieje w społeczności Stella Mod.
+## Someone offers paid help related to Stella Mod. Should I agree? <!-- {#paid-help-warning} -->
+No. Never pay anyone for technical support. The Author does not charge any fees for providing advice on using the Software.
+Paid help does not exist in the Stella Mod community.
 
-## Jak rozpocząć korzystanie ze Stella Mod? <!-- {#getting-started} -->
-Pobierz oficjalny instalator ze strony [stella.sefinek.net](https://stella.sefinek.net).
+## How do I get started with Stella Mod? <!-- {#getting-started} -->
+Download the official installer from [stella.sefinek.net](https://stella.sefinek.net).
 
-## Gdzie znajdę wsparcie techniczne? <!-- {#technical-support} -->
-Odwiedź stronę [Wsparcie](https://sefinek.net/genshin-stella-mod/docs?page=support).
+## Where can I find technical support? <!-- {#technical-support} -->
+Visit the [Support](https://sefinek.net/genshin-stella-mod/docs?page=support) page.
 
-## Czym jest Trust Factor w Stella Mod? <!-- {#trust-factor} -->
-Każdemu urządzeniu jest przypisany Trust Factor, obliczany przez API na podstawie różnych czynników.
-Jeśli Twój Trust Factor jest zbyt niski, uruchomienie Oprogramowania może być niemożliwe.
-W takim przypadku skontaktuj się z Autorem.
+## What is Trust Factor in Stella Mod? <!-- {#trust-factor} -->
+Each device is assigned a Trust Factor, calculated by the API based on various factors.
+If your Trust Factor is too low, launching the Software may not be possible. In such cases, contact the Author.
 
-## Czy Stella Mod posiada własny Launcher? <!-- {#stella-mod-launcher} -->
-Tak, Stella Mod posiada dedykowany Launcher, który umożliwia łatwe pobieranie i instalowanie aktualizacji.
+## Does Stella Mod have its own Launcher? <!-- {#stella-mod-launcher} -->
+Yes, Stella Mod has a dedicated Launcher that allows easy downloading and installing of new updates.
 
-## Jak często Stella Mod otrzymuje aktualizacje? <!-- {#update-frequency} -->
-Częstotliwość nowych wydań zależy od potrzeb i rozwoju projektu.
-Nowe wersje mogą pojawiać się kilka razy w miesiącu lub rzadziej, na przykład raz w miesiącu.
-Zazwyczaj aktualizacje są udostępniane stopniowo, a wcześniejszy dostęp do nich otrzymują subskrybenci Stella Mod Plus.
+## How often does Stella Mod receive updates? <!-- {#update-frequency} -->
+The frequency of new releases depends on the needs and development of the project. New versions may appear several times a month or less frequently, for example once a month.
+Updates are usually released gradually, with Stella Mod Plus subscribers receiving early access.
 
-## Czy mogę tworzyć własne presety ReShade? <!-- {#reshade-presets} -->
-Tak, możesz tworzyć i używać własnych presetów ReShade z Oprogramowaniem Stella Mod. Kliknij przycisk `Home` w grze, aby otworzyć nakładkę ReShade i dostosować efekty według własnych preferencji.
+## Can I create my own ReShade presets? <!-- {#reshade-presets} -->
+Yes, you can create and use your own ReShade presets with Stella Mod Software. Press the `Home` key in-game to open the ReShade overlay and customize the effects according to your preferences!
 
-## Jakie metody płatności są akceptowane dla subskrypcji Stella Plus? <!-- {#payment-methods} -->
-Akceptowane są różne metody płatności, w tym Stripe (PayPal, karty kredytowe i debetowe), skiny do CS2 oraz kryptowaluty.
+## What payment methods are accepted for Stella Plus subscription? <!-- {#payment-methods} -->
+Various payment methods are accepted, including Stripe (PayPal, credit and debit cards), CS2 skins, and cryptocurrencies.
 
-## Dlaczego Stella Mod nie jest open-source? <!-- {#not-open-source} -->
-Stella Mod nie jest projektem open-source z następujących powodów:
-1. Oprogramowanie wykorzystuje mechanizmy uwierzytelniania, które nie powinny być publicznie dostępne. Nawet przy otwartym kodzie źródłowym aplikacja nie mogłaby zostać skompilowana bez tokenów do komunikacji z API.
-2. Autor nie chce, aby Oprogramowanie było wykorzystywane w złośliwy sposób, np. do dystrybucji zainfekowanych wersji. W przeszłości, gdy projekt był otwarty, ktoś opublikował zainfekowaną wersję na GameBanana.
-3. Utrzymanie kodu jako zamkniętego pozwala lepiej kontrolować jakość i bezpieczeństwo aplikacji, zapewniając Użytkownikom korzystanie z oryginalnej i bezpiecznej wersji Stella Mod.
-4. Chroni to również pracę i wysiłek włożony w rozwój projektu. Otwarty kod mógłby zostać skopiowany, zmodyfikowany lub użyty w sposób niezgodny z zasadami Autora, co mogłoby zaszkodzić reputacji Stella Mod.
+## Why is Stella Mod not open-source? <!-- {#not-open-source} -->
+Stella Mod is not an open-source project for the following reasons:
+1. The Software uses authentication mechanisms that should not be publicly available. Even with open source code, the application could not be compiled without the tokens for API communication.
+2. The Author does not want the Software to be used maliciously, e.g., to distribute infected versions. In the past, when the project was open, someone published an infected version on GameBanana.
+3. Keeping the code closed allows better control over the quality and security of the application, ensuring Users use the original and safe version of Stella Mod.
+4. It also protects the work and effort put into developing the project. Open code could be copied, modified, or used in ways inconsistent with the Author's principles, which could harm the reputation of Stella Mod.

@@ -44,7 +44,7 @@ If a term is not defined, it should be interpreted according to its legal meanin
 | <div align="center">🎯️</div> | Not supported by default        | <div align="center">🤔</div> | Untested                        |                             |                                 |
 
 ## What Is the Stella Mod Launcher? <!-- {#what-is-sml} -->
-It is the official **Launcher** for running the **Genshin Stella Mod** Software. It is written in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) platform.  
+It is the official **Launcher** for running the **Genshin Stella Mod** Software. It is written in [C#](https://learn.microsoft.com/dotnet/csharp) using the [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) platform.  
 The Launcher allows the User to download Software updates. Security is a top priority, so the distribution system is designed to ensure file integrity and protect User data.
 
 ## What Is Genshin Stella Mod? <!-- {#what-is-gsm} -->

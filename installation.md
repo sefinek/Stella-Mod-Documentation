@@ -1,42 +1,42 @@
-[//]: # (Title: Instalacja - Stella Mod Documentation)
-[//]: # (Description: Kompletny przewodnik instalacji Genshin Stella Mod. Dowiedz się, jak połączyć ReShade, odblokowanie FPS i 3DMigoto, by bezpiecznie ulepszyć grafikę i wydajność Genshin Impact. Zaufane źródło pobierania i konfiguracja krok po kroku.)
-[//]: # (Tags: Instalacja Stella Mod, Genshin Stella Mod, ReShade Genshin Impact, FPS Unlocker, 3DMigoto konfiguracja, Optymalizacja gry, Ulepszanie wydajności, Bezpieczne modowanie, Stella Mod Documentation, Zaufane źródło Stella Mod)
+[//]: # (Title: Installation - Stella Mod Documentation)
+[//]: # (Description: Complete installation guide for Genshin Stella Mod. Learn how to combine ReShade, FPS unlock, and 3DMigoto to safely enhance graphics and performance in Genshin Impact. Trusted download source and step-by-step configuration.)
+[//]: # (Tags: Stella Mod Installation, Genshin Stella Mod, ReShade Genshin Impact, FPS Unlocker, 3DMigoto Configuration, Game Optimization, Performance Enhancement, Safe Modding, Stella Mod Documentation, Trusted Stella Mod Source)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=installation)
 
-# Jak używać ReShade, odblokowania FPS i 3DMigoto w Genshin Impact
+# How to Use ReShade, FPS Unlock, and 3DMigoto in Genshin Impact
 
-## Przygotowanie systemu do instalacji Oprogramowania <!-- {#getting-started} -->
-- Upewnij się, że Twój system operacyjny (OS) jest aktualny. <a href="ms-settings:windowsupdate">Sprawdź aktualizacje »</a> | <a href="ms-settings:about">Sprawdź wersję systemu »</a>
-- Upewnij się, że masz najnowszą wersję gry Genshin Impact.
-- Sprawdź, czy Twój komputer spełnia wymagania systemowe Oprogramowania. <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">Zobacz wymagania systemowe »</a>
-- Zaktualizuj sterowniki karty graficznej, jeśli jest dostępna nowa wersja.
+## Preparing Your System for Software Installation <!-- {#getting-started} -->
+- Make sure your operating system (OS) is up to date. <a href="ms-settings:windowsupdate">Check for updates »</a> | <a href="ms-settings:about">Check system version »</a>
+- Make sure you have the latest version of Genshin Impact.
+- Check if your computer meets the Software's system requirements. <a href="https://sefinek.net/genshin-stella-mod/docs?page=requirements&referrer=installation">View system requirements »</a>
+- Update your graphics card drivers if a new version is available.
 
-## Pobieranie Stella Mod z zaufanego źródła <!-- {#trusted-source} -->
-Zawsze pobieraj Oprogramowanie wyłącznie z zaufanego źródła, takiego jak [sefinek.net/genshin-stella-mod](https://sefinek.net/genshin-stella-mod?referrer=installation) ([stella.sefinek.net](https://stella.sefinek.net)).
-W internecie krążą zainfekowane wersje Stella Mod. Pod żadnym pozorem nie pobieraj Stella Mod z GameBanana, NexusMods ani innych stron trzecich!
+## Downloading Stella Mod from a Trusted Source <!-- {#trusted-source} -->
+Always download the Software only from a trusted source, such as [sefinek.net/genshin-stella-mod](https://sefinek.net/genshin-stella-mod?referrer=installation) ([stella.sefinek.net](https://stella.sefinek.net)).
+Infected versions of Stella Mod are circulating on the internet. Under no circumstances download Stella Mod from GameBanana, NexusMods, or other third-party sites! Avoid these sites.
 
-## Instalacja Genshin Stella Mod krok po kroku <!-- {#how-to-install-stella-mod} -->
-### Krok 1: Pobierz oficjalny instalator <!-- {#download-installer} -->
-Pobierz instalator z [oficjalnej strony](https://sefinek.net/genshin-stella-mod).
+## Step-by-Step Genshin Stella Mod Installation <!-- {#how-to-install-stella-mod} -->
+### Step 1: Download the Official Installer <!-- {#download-installer} -->
+Download the installer from the [official website](https://sefinek.net/genshin-stella-mod).
 
-### Krok 2: Uruchom instalator <!-- {#run-installer} -->
-Nie instaluj Oprogramowania w folderze gry!
-Instalacja trwa około **20 sekund**, w zależności od szybkości dysku twardego. Instalator automatycznie sprawdzi brakujące zależności i pobierze je w razie potrzeby.
+### Step 2: Run the Installer <!-- {#run-installer} -->
+Do not install the Software in the game folder!
+Installation takes approximately **20 seconds**, depending on your hard drive speed. The installer will automatically check for missing dependencies and download them if needed.
 
-### Krok 3: Uruchomienie Launchera po instalacji <!-- {#launch-stella-mod} -->
-Po zamknięciu instalatora uruchom skrót **Stella Mod Launcher** z pulpitu, jeśli został utworzony podczas instalacji.
-W przeciwnym razie przejdź do folderu, w którym zainstalowano Launcher i uruchom `Stella Mod Launcher.exe`.
+### Step 3: Launching the Launcher After Installation <!-- {#launch-stella-mod} -->
+After closing the installer, launch the **Stella Mod Launcher** shortcut from the desktop if it was created during installation.
+Otherwise, navigate to the folder where the Launcher was installed and run `Stella Mod Launcher.exe`.
 
-### Krok 4: Wstępna konfiguracja Oprogramowania <!-- {#initial-configuration} -->
-Podczas pierwszego uruchomienia wymagane będzie wykonanie wstępnej konfiguracji. Nie zmieniaj żadnych ustawień – po prostu kontynuuj i poczekaj chwilę.
+### Step 4: Initial Software Configuration <!-- {#initial-configuration} -->
+During the first launch, initial configuration will be required. Do not change any settings – just continue and wait a moment.
 
-### Krok 5: Uruchomienie gry Genshin Impact ze Stella Mod <!-- {#start-game} -->
-- Zaznacz pole ReShade, jeśli chcesz ulepszoną grafię w grze.
-- Zaznacz pole FPS Unlocker, aby odblokować limit FPS (przydatne na monitorach z wyższą częstotliwością odświeżania niż 60 Hz).
-- Zaznacz pole 3DMigoto, jeśli chcesz używać modów w grze (np. podmiana modeli postaci itp.).
+### Step 5: Launching Genshin Impact with Stella Mod <!-- {#start-game} -->
+- Check the ReShade box if you want enhanced graphics in the game.
+- Check the FPS Unlocker box to unlock the FPS limit (useful for monitors with a refresh rate higher than 60 Hz).
+- Check the 3DMigoto box if you want to use mods in the game (e.g., character model swaps, etc.).
 
-Następnie kliknij przycisk `Start Game`.
+Then click the `Start Game` button.
 
-### Krok 6: Dostosowanie ustawień graficznych <!-- {#fine-tuning-graphics} -->
-Dla jeszcze lepszych wrażeń wizualnych dostosuj ustawienia graficzne w grze.
-Kliknij [tutaj](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-game-settings), aby zobaczyć zalecane ustawienia.
+### Step 6: Fine-Tuning Graphics Settings <!-- {#fine-tuning-graphics} -->
+For an even better visual experience, adjust the graphics settings in the game.
+Click [here](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-game-settings) to see the recommended settings.

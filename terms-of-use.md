@@ -79,5 +79,5 @@
 
 ---
 
-Failure to comply with these rules may result in loss of access to the Software or Stella Mod Plus subscription.  
+Failure to comply with these rules may result in loss of access to the Software or Stella Mod Plus subscription.
 The Author reserves the right to take technical or legal action to protect the integrity of the project and the game Genshin Impact.

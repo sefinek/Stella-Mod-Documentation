@@ -19,9 +19,5 @@ FPS unlocking removes the artificial frame rate limit.
 By default, most games include a built-in FPS cap imposed by the developers, often for compatibility reasons.
 
 ### What to Know Before Unlocking FPS <!-- {#fps-unlocking-considerations} -->
-1. If your monitor has a low refresh rate (e.g., 60Hz), unlocking FPS will not improve smoothness and may only increase hardware temperatures.  
-   In such cases, do not use an FPS Unlocker.  
-   On the other hand, users with high-refresh-rate monitors (e.g., 120Hz or 165Hz) may notice a significant improvement in smoothness and responsiveness.
-
-2. Running games at higher frame rates increases GPU load, which may result in higher temperatures.  
-   There is no reason to set a 500 FPS limit on a 165Hz monitor.
+1. If your monitor has a low refresh rate (e.g., 60Hz), unlocking FPS will not improve smoothness and may only increase hardware temperatures. In such cases, do not use an FPS Unlocker. On the other hand, users with high-refresh-rate monitors (e.g., 120Hz or 165Hz) may notice a significant improvement in smoothness and responsiveness.
+2. Running games at higher frame rates increases GPU load, which may result in higher temperatures. There is no reason to set a 500 FPS limit on a 165Hz monitor.

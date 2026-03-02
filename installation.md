@@ -16,27 +16,27 @@ Always download the Software only from a trusted source, such as [sefinek.net/ge
 Infected versions of Stella Mod are circulating on the internet. Under no circumstances download Stella Mod from GameBanana, NexusMods, or other third-party sites! Avoid these sites.
 
 ## Step-by-Step Genshin Stella Mod Installation <!-- {#how-to-install-stella-mod} -->
-### Step 1: Download the Official Installer <!-- {#download-installer} -->
+### Download the Official Installer <!-- {#download-installer} -->
 Download the installer from the [official website](https://sefinek.net/genshin-stella-mod).
 
-### Step 2: Run the Installer <!-- {#run-installer} -->
+### Run the Installer <!-- {#run-installer} -->
 Do not install the Software in the game folder!
 Installation takes approximately **20 seconds**, depending on your hard drive speed. The installer will automatically check for missing dependencies and download them if needed.
 
-### Step 3: Launching the Launcher After Installation <!-- {#launch-stella-mod} -->
+### Launching the Launcher After Installation <!-- {#launch-stella-mod} -->
 After closing the installer, launch the **Stella Mod Launcher** shortcut from the desktop if it was created during installation.
 Otherwise, navigate to the folder where the Launcher was installed and run `Stella Mod Launcher.exe`.
 
-### Step 4: Initial Software Configuration <!-- {#initial-configuration} -->
+### Initial Software Configuration <!-- {#initial-configuration} -->
 During the first launch, initial configuration will be required. Do not change any settings – just continue and wait a moment.
 
-### Step 5: Launching Genshin Impact with Stella Mod <!-- {#start-game} -->
+### Launching Genshin Impact with Stella Mod <!-- {#start-game} -->
 - Check the ReShade box if you want enhanced graphics in the game.
 - Check the FPS Unlocker box to unlock the FPS limit (useful for monitors with a refresh rate higher than 60 Hz).
 - Check the 3DMigoto box if you want to use mods in the game (e.g., character model swaps, etc.).
 
 Then click the `Start Game` button.
 
-### Step 6: Fine-Tuning Graphics Settings <!-- {#fine-tuning-graphics} -->
+### Fine-Tuning Graphics Settings <!-- {#fine-tuning-graphics} -->
 For an even better visual experience, adjust the graphics settings in the game.
 Click [here](https://sefinek.net/genshin-stella-mod/docs?page=requirements#recommended-game-settings) to see the recommended settings.

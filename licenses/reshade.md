@@ -3,6 +3,8 @@
 [//]: # (Tags: ReShade, ReShade License, Stella Mod, Genshin Impact Mod, Open Source, Graphics Tools, Software Licenses, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_reshade)
 
+# ReShade – License Agreement & Attribution
+
 ## 👥 〢 Authors & Contributors
 - crosire
 <div style="padding-bottom:13px"></div>

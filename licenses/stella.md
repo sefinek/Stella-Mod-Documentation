@@ -3,6 +3,8 @@
 [//]: # (Tags: Stella Mod, Stella Mod License, Genshin Impact Mod, Open Source, ReShade Fork, Software Licenses, Modding Tools, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_stella)
 
+# Genshin Stella Mod – End User License Agreement (EULA)
+
 ## 👥 〢 Authors & Contributors
 - Sefinek <&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#101;&#102;&#105;&#110;&#101;&#107;&#46;&#110;&#101;&#116;> (https://sefinek.net)
 <div style="padding-bottom:13px"></div>

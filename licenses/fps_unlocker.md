@@ -3,6 +3,8 @@
 [//]: # (Tags: FPS Unlocker, License, Stella Mod, Genshin Impact Mod, Open Source, Modding Tools, Software Licenses, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_fps_unlocker)
 
+# FPS Unlocker – License Agreement & Attribution
+
 ## 👥 〢 Authors & Contributors
 - 34736384
 <div style="padding-bottom:13px"></div>

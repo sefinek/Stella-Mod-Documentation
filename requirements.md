@@ -4,6 +4,8 @@
 [//]: # (Canonical: /genshin-stella-mod/docs?page=requirements)
 [//]: # (Contributors: Sefinek)
 
+# Genshin Stella Mod – System Requirements & Key Features
+
 ## Stella Mod Key Features: FPS Unlock & Visual Enhancement <!-- {#key-features} -->
 
 | 🔍 Name                   | 📃 More Information                                                                                                                                                                | 🌍 Address                                                                                                                         | 📑 License</div>                                                                                                   |

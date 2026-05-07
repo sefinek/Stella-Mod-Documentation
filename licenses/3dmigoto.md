@@ -3,6 +3,8 @@
 [//]: # (Tags: 3DMigoto, 3DMigoto License, GPLv3, Open Source, Stella Mod, 3DMigoto Fork, Open Source Licenses, Genshin Impact Mods, Stella Mod Documentation)
 [//]: # (Canonical: /genshin-stella-mod/docs?page=license_3dmigoto)
 
+# 3DMigoto – GPLv3 Open Source License
+
 ## 👥 〢 Authors & Contributors
 - Chiri
 - Bo3b Johnson
